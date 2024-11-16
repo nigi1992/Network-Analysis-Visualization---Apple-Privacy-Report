@@ -249,7 +249,14 @@ ggraph(g, layout = "fr") +
   #ggsave("network_plot.png", width = 16, height = 12)
 
 
-
+### Next:
+# Analyze the Network
+# see if you have to change data set some more
+# (ie. manually work on the data set to add domain to a DomainOwner: Facebook, Google, etc.)
+# bei domains nachsehen, wie viel unique values
+# domains die nur Ip Adressen sind, rausfiltern, anderes unbrauchbares ebenfalls
+# Fabian mundt schreiben
+# besseres GPT Model benutzen
 
 
 

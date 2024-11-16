@@ -1,0 +1,1646 @@
+"firstTimeStamp"	"timeStamp"	"bundleID"	"domain"	"domainOwner"	"hits"
+"2024-10-11T22:31:47.355+02:00"	"2024-10-18T21:32:14.726+02:00"	"com.9gag.ios.mobile"	"s.amazon-adsystem.com"	""	5
+"2024-10-11T22:31:47.314+02:00"	"2024-10-18T21:32:15.972+02:00"	"com.9gag.ios.mobile"	"aax-eu.amazon-adsystem.com"	"Amazon Technologies, Inc."	8
+"2024-10-11T22:31:47.882+02:00"	"2024-10-18T21:32:13.038+02:00"	"com.9gag.ios.mobile"	"rlog.9gag.com"	""	8
+"2024-10-11T22:31:43.476+02:00"	"2024-10-18T21:32:13.052+02:00"	"com.9gag.ios.mobile"	"api.9gag.com"	""	9
+"2024-10-11T22:31:45.313+02:00"	"2024-10-18T21:32:13.406+02:00"	"com.9gag.ios.mobile"	"img-9gag-fun.9cache.com"	""	8
+"2024-10-11T22:31:43.969+02:00"	"2024-10-18T21:32:14.089+02:00"	"com.9gag.ios.mobile"	"c.amazon-adsystem.com"	""	6
+"2024-10-11T22:31:44.085+02:00"	"2024-10-18T21:32:14.085+02:00"	"com.9gag.ios.mobile"	"mads.amazon-adsystem.com"	"Amazon Technologies, Inc."	5
+"2024-10-11T22:31:44.223+02:00"	"2024-10-18T21:32:14.118+02:00"	"com.9gag.ios.mobile"	"aax.amazon-adsystem.com"	"Amazon Technologies, Inc."	9
+"2024-10-11T22:31:34.442+02:00"	"2024-10-18T21:32:22.863+02:00"	"com.9gag.ios.mobile"	"app-analytics-services.com"	""	7
+"2024-10-11T22:31:34.344+02:00"	"2024-10-18T21:32:15.137+02:00"	"com.9gag.ios.mobile"	"ep7.facebook.com"	""	7
+"2024-10-11T22:31:55.069+02:00"	"2024-10-18T21:32:14.564+02:00"	"com.9gag.ios.mobile"	"googleads.g.doubleclick.net"	"Google LLC"	8
+"2024-10-11T22:31:54.257+02:00"	"2024-10-18T21:32:14.570+02:00"	"com.9gag.ios.mobile"	"9gag-9gag.adsbynimbus.com"	""	8
+"2024-10-11T22:31:54.589+02:00"	"2024-10-18T21:32:42.653+02:00"	"com.9gag.ios.mobile"	"firebaselogging-pa.googleapis.com"	"Google LLC"	7
+"2024-10-11T22:31:57.242+02:00"	"2024-10-18T21:32:27.625+02:00"	"com.9gag.ios.mobile"	"region1.app-analytics-services.com"	""	7
+"2024-10-12T22:17:03.059+02:00"	"2024-10-18T21:32:13.638+02:00"	"com.9gag.ios.mobile"	"m.quantcount.com"	""	6
+"2024-10-12T22:17:34.244+02:00"	"2024-10-12T22:18:44.929+02:00"	"com.9gag.ios.mobile"	"ss-eu.appiersig.com"	""	2
+"2024-10-12T22:17:34.221+02:00"	"2024-10-12T22:18:44.886+02:00"	"com.9gag.ios.mobile"	"mt-usw.appiersig.com"	""	2
+"2024-10-12T22:17:17.241+02:00"	"2024-10-18T21:32:48.329+02:00"	"com.9gag.ios.mobile"	"f03e67afcb0030c02337d49f7131a834.serveteck.com"	""	3
+"2024-10-12T22:17:16.351+02:00"	"2024-10-18T21:32:26.385+02:00"	"com.9gag.ios.mobile"	"turbo.adsbynimbus.com"	""	4
+"2024-10-12T22:17:09.191+02:00"	"2024-10-18T21:32:25.895+02:00"	"com.9gag.ios.mobile"	"tr-eu.adsmoloco.com"	""	3
+"2024-10-12T22:18:03.725+02:00"	"2024-10-18T21:32:13.713+02:00"	"com.9gag.ios.mobile"	"mxpl.9gag.com"	""	4
+"2024-10-12T22:17:03.116+02:00"	"2024-10-18T21:32:13.269+02:00"	"com.9gag.ios.mobile"	"9gag.helpshift.com"	""	5
+"2024-10-12T22:17:03.104+02:00"	"2024-10-18T21:32:13.974+02:00"	"com.9gag.ios.mobile"	"r11.o.lencr.org"	""	5
+"2024-10-12T22:17:11.575+02:00"	"2024-10-12T22:17:11.575+02:00"	"com.9gag.ios.mobile"	"tpc.googlesyndication.com"	""	1
+"2024-10-12T22:17:17.220+02:00"	"2024-10-18T21:32:26.323+02:00"	"com.9gag.ios.mobile"	"view.adjust.com"	"AppLovin Corporation"	4
+"2024-10-12T22:17:15.587+02:00"	"2024-10-18T21:32:24.716+02:00"	"com.9gag.ios.mobile"	"www.gstatic.com"	""	3
+"2024-10-12T22:17:17.224+02:00"	"2024-10-18T21:32:48.289+02:00"	"com.9gag.ios.mobile"	"us.a.iteleserve.com"	""	3
+"2024-10-12T22:17:04.446+02:00"	"2024-10-18T21:32:13.398+02:00"	"com.9gag.ios.mobile"	"comment.9gag.com"	""	5
+"2024-10-12T22:17:03.118+02:00"	"2024-10-12T22:17:03.118+02:00"	"com.9gag.ios.mobile"	"firebaseinstallations.googleapis.com"	""	1
+"2024-10-12T22:17:08.792+02:00"	"2024-10-18T21:32:24.816+02:00"	"com.9gag.ios.mobile"	"www.googletagservices.com"	""	3
+"2024-10-12T22:17:16.335+02:00"	"2024-10-14T22:34:47.559+02:00"	"com.9gag.ios.mobile"	"a-iad3.1rx.io"	""	2
+"2024-10-12T22:17:03.273+02:00"	"2024-10-18T21:32:15.119+02:00"	"com.9gag.ios.mobile"	"firebaseinappmessaging.googleapis.com"	""	4
+"2024-10-12T22:17:03.279+02:00"	"2024-10-18T21:32:15.150+02:00"	"com.9gag.ios.mobile"	"firebaseremoteconfig.googleapis.com"	"Google LLC"	4
+"2024-10-12T22:17:15.726+02:00"	"2024-10-18T21:32:25.390+02:00"	"com.9gag.ios.mobile"	"candid.adsbynimbus.com"	""	4
+"2024-10-12T22:17:17.246+02:00"	"2024-10-14T22:34:48.515+02:00"	"com.9gag.ios.mobile"	"ghent-gce-sc.bidswitch.net"	""	2
+"2024-10-12T22:17:33.955+02:00"	"2024-10-12T22:18:44.686+02:00"	"com.9gag.ios.mobile"	"cr.adsappier.com"	""	2
+"2024-10-12T22:17:03.132+02:00"	"2024-10-18T21:32:13.009+02:00"	"com.9gag.ios.mobile"	"inappcheck.itunes.apple.com"	""	5
+"2024-10-12T22:17:34.250+02:00"	"2024-10-12T22:18:44.931+02:00"	"com.9gag.ios.mobile"	"vst.c.appier.net"	""	2
+"2024-10-12T22:17:09.004+02:00"	"2024-10-18T21:32:25.954+02:00"	"com.9gag.ios.mobile"	"cdn-f.adsmoloco.com"	"Moloco Inc."	4
+"2024-10-12T22:18:04.102+02:00"	"2024-10-18T21:32:13.396+02:00"	"com.9gag.ios.mobile"	"notif.9gag.com"	""	6
+"2024-10-12T22:17:08.787+02:00"	"2024-10-18T21:32:24.691+02:00"	"com.9gag.ios.mobile"	"pagead2.googlesyndication.com"	"Google LLC"	4
+"2024-10-12T22:17:08.204+02:00"	"2024-10-18T21:32:23.988+02:00"	"com.9gag.ios.mobile"	"pubads.g.doubleclick.net"	"Google LLC"	4
+"2024-10-12T22:17:17.346+02:00"	"2024-10-14T22:34:33.896+02:00"	"com.9gag.ios.mobile"	"r10.o.lencr.org"	""	2
+"2024-10-12T22:17:03.246+02:00"	"2024-10-18T21:32:13.032+02:00"	"com.9gag.ios.mobile"	"ep2.facebook.com"	""	5
+"2024-10-12T22:18:57.586+02:00"	"2024-10-18T21:32:26.307+02:00"	"com.9gag.ios.mobile"	"tr-us.adsmoloco.com"	""	3
+"2024-10-12T22:18:45.974+02:00"	"2024-10-18T21:32:13.416+02:00"	"com.9gag.ios.mobile"	"miscmedia-9gag-fun.9cache.com"	""	5
+"2024-10-12T22:18:57.580+02:00"	"2024-10-18T21:32:26.297+02:00"	"com.9gag.ios.mobile"	"noti-us.adsmoloco.com"	""	3
+"2024-10-14T12:28:20.322+02:00"	"2024-10-18T21:32:14.777+02:00"	"com.9gag.ios.mobile"	"g.doubleclick.net"	"Google LLC"	4
+"2024-10-14T22:34:34.154+02:00"	"2024-10-14T22:34:34.154+02:00"	"com.9gag.ios.mobile"	"ocsp.godaddy.com"	""	1
+"2024-10-14T22:34:33.988+02:00"	"2024-10-14T22:34:33.988+02:00"	"com.9gag.ios.mobile"	"tps.doubleverify.com"	""	1
+"2024-10-14T22:34:15.552+02:00"	"2024-10-18T21:32:13.429+02:00"	"com.9gag.ios.mobile"	"comment-cdn.9gag.com"	""	4
+"2024-10-14T22:34:15.548+02:00"	"2024-10-18T21:32:13.440+02:00"	"com.9gag.ios.mobile"	"account-cdn.under9.co"	""	4
+"2024-10-14T22:34:15.399+02:00"	"2024-10-18T21:32:15.144+02:00"	"com.9gag.ios.mobile"	"firebase-settings.crashlytics.com"	"Google LLC"	3
+"2024-10-14T22:34:33.280+02:00"	"2024-10-18T21:32:25.404+02:00"	"com.9gag.ios.mobile"	"media.admob.com"	""	2
+"2024-10-14T22:34:16.325+02:00"	"2024-10-18T21:32:14.175+02:00"	"com.9gag.ios.mobile"	"amp-api-edge.apps.apple.com"	""	4
+"2024-10-14T22:34:15.529+02:00"	"2024-10-18T21:32:13.401+02:00"	"com.9gag.ios.mobile"	"comment-api.under9.co"	""	4
+"2024-10-14T22:34:33.516+02:00"	"2024-10-14T22:34:33.516+02:00"	"com.9gag.ios.mobile"	"cdn.doubleverify.com"	""	1
+"2024-10-14T22:34:33.521+02:00"	"2024-10-18T21:32:25.951+02:00"	"com.9gag.ios.mobile"	"ts.amazon-adsystem.com"	""	2
+"2024-10-14T22:34:15.565+02:00"	"2024-10-18T21:32:13.456+02:00"	"com.9gag.ios.mobile"	"rlog-api.under9.co"	""	4
+"2024-10-14T22:34:15.574+02:00"	"2024-10-18T21:32:13.424+02:00"	"com.9gag.ios.mobile"	"9gag-avatar.under9.co"	""	4
+"2024-10-14T22:34:15.588+02:00"	"2024-10-18T21:32:13.419+02:00"	"com.9gag.ios.mobile"	"9gag-img.under9.co"	""	4
+"2024-10-14T22:34:33.453+02:00"	"2024-10-14T22:34:33.453+02:00"	"com.9gag.ios.mobile"	"eu.a.iteleserve.com"	""	1
+"2024-10-14T22:34:16.361+02:00"	"2024-10-18T21:32:13.702+02:00"	"com.9gag.ios.mobile"	"cdn-apac.onetrust.com"	""	4
+"2024-10-14T22:34:33.423+02:00"	"2024-10-14T22:34:33.423+02:00"	"com.9gag.ios.mobile"	"ox-rtb-europe-west2.openx.net"	""	1
+"2024-10-14T22:34:33.511+02:00"	"2024-10-14T22:34:33.511+02:00"	"com.9gag.ios.mobile"	"ghent-gce-nl.bidswitch.net"	""	1
+"2024-10-14T22:34:15.568+02:00"	"2024-10-18T21:32:13.450+02:00"	"com.9gag.ios.mobile"	"img-comment-fun.9cache.com"	""	4
+"2024-10-14T22:34:15.571+02:00"	"2024-10-18T21:32:13.453+02:00"	"com.9gag.ios.mobile"	"comment-img.under9.co"	""	4
+"2024-10-14T22:34:35.018+02:00"	"2024-10-14T22:34:35.018+02:00"	"com.9gag.ios.mobile"	"tpsc-ew1.doubleverify.com"	""	1
+"2024-10-14T22:34:15.532+02:00"	"2024-10-18T21:32:13.468+02:00"	"com.9gag.ios.mobile"	"9gag-api.under9.co"	""	4
+"2024-10-14T22:34:15.507+02:00"	"2024-10-18T21:32:13.393+02:00"	"com.9gag.ios.mobile"	"notif-api.under9.co"	""	4
+"2024-10-14T22:34:15.562+02:00"	"2024-10-18T21:32:13.432+02:00"	"com.9gag.ios.mobile"	"comment-cdn.under9.co"	""	4
+"2024-10-14T22:34:15.602+02:00"	"2024-10-18T21:32:13.211+02:00"	"com.9gag.ios.mobile"	"mobile-data.onetrust.io"	""	4
+"2024-10-14T22:34:15.494+02:00"	"2024-10-18T21:32:13.361+02:00"	"com.9gag.ios.mobile"	"avatars-cdn.9gag.com"	""	4
+"2024-10-14T22:34:15.539+02:00"	"2024-10-18T21:32:13.464+02:00"	"com.9gag.ios.mobile"	"9gag-miscmedia.under9.co"	""	4
+"2024-10-14T22:34:15.496+02:00"	"2024-10-18T21:32:13.090+02:00"	"com.9gag.ios.mobile"	"fh.under9.co"	""	4
+"2024-10-14T22:34:47.578+02:00"	"2024-10-18T21:32:48.298+02:00"	"com.9gag.ios.mobile"	"got.iad3rs0zone2.pubnative.net"	""	2
+"2024-10-14T22:34:15.535+02:00"	"2024-10-18T21:32:13.460+02:00"	"com.9gag.ios.mobile"	"accounts-cdn.9gag.com"	""	4
+"2024-10-12T08:02:48.751+02:00"	"2024-10-18T05:04:25.084+02:00"	"com.apple.Passbook"	"gateway.icloud.com"	""	6
+"2024-10-12T10:32:00.590+02:00"	"2024-10-19T10:53:54.002+02:00"	"com.apple.Passbook"	"tds.mdes.mastercard.com"	""	18
+"2024-10-13T00:08:08.510+02:00"	"2024-10-14T23:47:34.299+02:00"	"com.apple.Passbook"	"message.mdes.mastercard.com"	""	7
+"2024-10-13T00:08:08.281+02:00"	"2024-10-13T00:08:08.281+02:00"	"com.apple.Passbook"	"bag.itunes.apple.com"	""	1
+"2024-10-13T07:49:17.442+02:00"	"2024-10-19T09:25:01.288+02:00"	"com.linkedin.LinkedIn"	"www.linkedin.com"	""	35
+"2024-10-13T07:49:19.435+02:00"	"2024-10-19T08:02:22.739+02:00"	"com.linkedin.LinkedIn"	"inappcheck.itunes.apple.com"	""	12
+"2024-10-13T07:49:21.403+02:00"	"2024-10-19T08:02:23.164+02:00"	"com.linkedin.LinkedIn"	"mzstorekit.itunes.apple.com"	""	12
+"2024-10-13T17:06:16.128+02:00"	"2024-10-18T10:01:14.380+02:00"	"com.linkedin.LinkedIn"	"li.protechts.net"	""	7
+"2024-10-13T17:06:11.755+02:00"	"2024-10-17T08:35:30.542+02:00"	"com.linkedin.LinkedIn"	"media-ecst.licdn.com"	""	2
+"2024-10-13T17:06:14.459+02:00"	"2024-10-18T10:01:09.283+02:00"	"com.linkedin.LinkedIn"	"proxy.safebrowsing.apple"	""	5
+"2024-10-13T17:06:16.677+02:00"	"2024-10-18T10:01:14.626+02:00"	"com.linkedin.LinkedIn"	"stk.protechts.net"	""	7
+"2024-10-13T17:06:30.097+02:00"	"2024-10-18T10:01:29.496+02:00"	"com.linkedin.LinkedIn"	"platform.linkedin.com"	""	5
+"2024-10-13T17:06:11.441+02:00"	"2024-10-14T07:20:34.710+02:00"	"com.linkedin.LinkedIn"	"cf.perf.linkedin.com"	""	2
+"2024-10-13T17:06:16.439+02:00"	"2024-10-18T10:01:14.512+02:00"	"com.linkedin.LinkedIn"	"client.protechts.net"	""	7
+"2024-10-13T17:05:56.911+02:00"	"2024-10-19T08:02:23.170+02:00"	"com.linkedin.LinkedIn"	"s2s.singular.net"	""	12
+"2024-10-13T17:05:57.574+02:00"	"2024-10-18T10:01:09.833+02:00"	"com.linkedin.LinkedIn"	"dms.licdn.com"	""	12
+"2024-10-13T17:06:16.834+02:00"	"2024-10-18T10:01:14.765+02:00"	"com.linkedin.LinkedIn"	"collector-pxdojv695v.protechts.net"	""	8
+"2024-10-13T17:06:28.901+02:00"	"2024-10-18T10:01:13.651+02:00"	"com.linkedin.LinkedIn"	"static.licdn.com"	""	3
+"2024-10-13T17:05:57.741+02:00"	"2024-10-19T08:02:44.417+02:00"	"com.linkedin.LinkedIn"	"ads.linkedin.com"	"Microsoft Corporation"	18
+"2024-10-13T17:06:11.183+02:00"	"2024-10-13T17:06:11.183+02:00"	"com.linkedin.LinkedIn"	"i2-ihccvfzkpkrcuqbjiqxigmvaawcofz.init.cedexis-radar.net"	""	1
+"2024-10-13T17:06:11.445+02:00"	"2024-10-18T10:01:39.972+02:00"	"com.linkedin.LinkedIn"	"rpt.cedexis.com"	""	8
+"2024-10-13T17:06:16.122+02:00"	"2024-10-18T10:01:14.376+02:00"	"com.linkedin.LinkedIn"	"merchantpool1.linkedin.com"	""	7
+"2024-10-13T17:06:41.128+02:00"	"2024-10-13T17:06:41.128+02:00"	"com.linkedin.LinkedIn"	"i2-jfnxuiaqlujwxkerdgoflnhkaqpinr.init.cedexis-radar.net"	""	1
+"2024-10-13T17:06:06.890+02:00"	"2024-10-19T08:02:33.543+02:00"	"com.linkedin.LinkedIn"	"radar.cedexis.com"	""	13
+"2024-10-13T17:06:16.094+02:00"	"2024-10-18T10:01:14.364+02:00"	"com.linkedin.LinkedIn"	"74.125.250.129"	""	7
+"2024-10-13T17:05:56.906+02:00"	"2024-10-19T08:02:22.954+02:00"	"com.linkedin.LinkedIn"	"media.licdn.com"	""	18
+"2024-10-14T07:20:54.442+02:00"	"2024-10-14T07:20:54.442+02:00"	"com.linkedin.LinkedIn"	"cadmus2.script.ac"	""	1
+"2024-10-14T07:20:54.024+02:00"	"2024-10-14T07:20:54.024+02:00"	"com.linkedin.LinkedIn"	"e5.o.lencr.org"	""	1
+"2024-10-14T07:20:33.823+02:00"	"2024-10-18T10:01:47.993+02:00"	"com.linkedin.LinkedIn"	"rum3.perf.linkedin.com"	""	3
+"2024-10-14T07:20:54.445+02:00"	"2024-10-14T07:20:54.445+02:00"	"com.linkedin.LinkedIn"	"i.clean.gg"	""	1
+"2024-10-14T07:20:33.534+02:00"	"2024-10-14T07:20:33.534+02:00"	"com.linkedin.LinkedIn"	"i2-qtxudvrteraqbwmaybgehjeikidqsh.init.cedexis-radar.net"	""	1
+"2024-10-14T07:20:53.818+02:00"	"2024-10-14T07:20:53.818+02:00"	"com.linkedin.LinkedIn"	"s.xlgmedia.com"	""	1
+"2024-10-14T09:05:00.545+02:00"	"2024-10-14T09:05:00.545+02:00"	"com.linkedin.LinkedIn"	"i2-inwxykrayfglclxuxycjskiwhdiupt.init.cedexis-radar.net"	""	1
+"2024-10-14T09:06:09.701+02:00"	"2024-10-14T09:06:09.701+02:00"	"com.linkedin.LinkedIn"	"i2-wbxtplqdjbmdejzuieajquxrvdgszp.init.cedexis-radar.net"	""	1
+"2024-10-14T09:06:17.783+02:00"	"2024-10-14T09:06:17.783+02:00"	"com.linkedin.LinkedIn"	"dms-akam.licdn.com"	""	1
+"2024-10-14T09:05:00.855+02:00"	"2024-10-15T09:12:44.789+02:00"	"com.linkedin.LinkedIn"	"static-akam.licdn.com"	""	3
+"2024-10-14T09:06:18.078+02:00"	"2024-10-14T09:06:18.078+02:00"	"com.linkedin.LinkedIn"	"rum19.perf.linkedin.com"	""	1
+"2024-10-15T00:43:49.434+02:00"	"2024-10-15T00:43:49.434+02:00"	"com.linkedin.LinkedIn"	"i2-euqrtyhagispnnncjwvxxuaqwimuoj.init.cedexis-radar.net"	""	1
+"2024-10-15T00:47:56.206+02:00"	"2024-10-15T00:47:56.206+02:00"	"com.linkedin.LinkedIn"	"i2-rjgkbuyqzmlrbxighfeomeexxezeyt.init.cedexis-radar.net"	""	1
+"2024-10-15T00:47:56.472+02:00"	"2024-10-17T08:35:32.063+02:00"	"com.linkedin.LinkedIn"	"rum14.perf.linkedin.com"	""	2
+"2024-10-15T08:47:55.677+02:00"	"2024-10-15T08:47:55.677+02:00"	"com.linkedin.LinkedIn"	"i2-ougyyrvfoigqmlumbbjviemahsvoif.init.cedexis-radar.net"	""	1
+"2024-10-15T09:12:44.235+02:00"	"2024-10-15T09:12:44.235+02:00"	"com.linkedin.LinkedIn"	"i2-gynbwuxuprpndvrfewtsthgjrrstig.init.cedexis-radar.net"	""	1
+"2024-10-15T09:12:44.472+02:00"	"2024-10-15T09:12:44.472+02:00"	"com.linkedin.LinkedIn"	"dw8wjz3q0i4gj.cloudfront.net"	""	1
+"2024-10-15T09:13:19.603+02:00"	"2024-10-15T09:13:19.603+02:00"	"com.linkedin.LinkedIn"	"i2-mvtzpjzdwtjtqcjehitxvpydwevgzk.init.cedexis-radar.net"	""	1
+"2024-10-15T09:13:27.877+02:00"	"2024-10-18T10:01:47.882+02:00"	"com.linkedin.LinkedIn"	"platform-ecst.linkedin.com"	""	2
+"2024-10-15T09:13:27.621+02:00"	"2024-10-15T09:13:27.621+02:00"	"com.linkedin.LinkedIn"	"t-ring.msedge.net"	""	1
+"2024-10-16T08:44:04.435+02:00"	"2024-10-16T08:44:04.435+02:00"	"com.linkedin.LinkedIn"	"i2-giilnjeldyzwtgpfurpmpjfbergmtz.init.cedexis-radar.net"	""	1
+"2024-10-16T23:17:38.652+02:00"	"2024-10-16T23:17:38.652+02:00"	"com.linkedin.LinkedIn"	"i2-vsiqzgnirzoppltowecnpxzvmkewli.init.cedexis-radar.net"	""	1
+"2024-10-16T23:17:54.984+02:00"	"2024-10-16T23:17:54.984+02:00"	"com.linkedin.LinkedIn"	"i2-uhjulvkuzfeukqitirzxcdfmyxeiuw.init.cedexis-radar.net"	""	1
+"2024-10-17T08:35:30.334+02:00"	"2024-10-17T08:35:30.334+02:00"	"com.linkedin.LinkedIn"	"i2-tomoaqwnviruiybrksewaqjofnewrp.init.cedexis-radar.net"	""	1
+"2024-10-17T08:35:31.783+02:00"	"2024-10-17T08:35:31.783+02:00"	"com.linkedin.LinkedIn"	"i2-iulqhqoryhercwgyfpthkgmybbndkn.init.cedexis-radar.net"	""	1
+"2024-10-17T08:35:30.869+02:00"	"2024-10-17T08:35:30.869+02:00"	"com.linkedin.LinkedIn"	"static-exp3.licdn.com"	""	1
+"2024-10-17T12:27:44.324+02:00"	"2024-10-17T12:27:44.324+02:00"	"com.linkedin.LinkedIn"	"i2-ufcbaynuqlvhweeiznhpsmugvmyjew.init.cedexis-radar.net"	""	1
+"2024-10-18T10:01:18.946+02:00"	"2024-10-18T10:01:18.946+02:00"	"com.linkedin.LinkedIn"	"i2-bdxbzcldjuaacrkmzjtsvnddeshxjn.init.cedexis-radar.net"	""	1
+"2024-10-18T10:01:39.847+02:00"	"2024-10-18T10:01:39.847+02:00"	"com.linkedin.LinkedIn"	"i2-oijaraxrvhioqvdjwmoaukmnqauvpr.init.cedexis-radar.net"	""	1
+"2024-10-19T08:02:37.719+02:00"	"2024-10-19T08:02:37.719+02:00"	"com.linkedin.LinkedIn"	"i2-pwwdvkjanhobzizqmjqktqzjlytwps.init.cedexis-radar.net"	""	1
+"2024-10-13T19:52:16.546+02:00"	"2024-10-16T22:36:03.516+02:00"	"com.ubs.Paymit"	"ocsp.digicert.com"	""	4
+"2024-10-13T19:52:16.250+02:00"	"2024-10-16T22:36:03.390+02:00"	"com.ubs.Paymit"	"twint.ubs.com"	""	4
+"2024-10-13T19:52:18.476+02:00"	"2024-10-16T22:36:06.019+02:00"	"com.ubs.Paymit"	"cacerts.digicert.com"	""	2
+"2024-10-13T19:52:17.326+02:00"	"2024-10-14T12:08:39.068+02:00"	"com.ubs.Paymit"	"twint4.ubs.com"	""	3
+"2024-10-16T22:36:05.234+02:00"	"2024-10-16T22:36:05.234+02:00"	"com.ubs.Paymit"	"twint1.ubs.com"	""	1
+"2024-10-11T22:26:02.629+02:00"	"2024-10-18T21:31:51.246+02:00"	"com.google.ios.youtube"	"rr3.sn-n5au-1gie.googlevideo.com"	""	10
+"2024-10-11T22:26:10.839+02:00"	"2024-10-18T21:31:21.280+02:00"	"com.google.ios.youtube"	"rr2.sn-n5au-1gie.googlevideo.com"	""	5
+"2024-10-11T22:28:04.769+02:00"	"2024-10-17T22:54:22.987+02:00"	"com.google.ios.youtube"	"213.55.239.77"	""	6
+"2024-10-12T20:33:00.978+02:00"	"2024-10-18T21:21:13.649+02:00"	"com.google.ios.youtube"	"clients3.google.com"	""	9
+"2024-10-12T20:33:04.080+02:00"	"2024-10-18T21:45:17.078+02:00"	"com.google.ios.youtube"	"www.youtube.com"	""	24
+"2024-10-12T20:33:00.985+02:00"	"2024-10-18T21:21:14.015+02:00"	"com.google.ios.youtube"	"inappcheck.itunes.apple.com"	""	8
+"2024-10-12T20:33:00.951+02:00"	"2024-10-18T21:50:47.902+02:00"	"com.google.ios.youtube"	"rr1.sn-n0ogpnx-cnal.googlevideo.com"	""	6
+"2024-10-12T20:33:00.946+02:00"	"2024-10-17T22:29:24.902+02:00"	"com.google.ios.youtube"	"rr1.sn-1gi7znek.googlevideo.com"	""	2
+"2024-10-12T20:33:01.325+02:00"	"2024-10-18T21:50:48.536+02:00"	"com.google.ios.youtube"	"s.youtube.com"	""	37
+"2024-10-12T20:33:01.399+02:00"	"2024-10-18T21:45:17.100+02:00"	"com.google.ios.youtube"	"yt3.ggpht.com"	""	34
+"2024-10-12T20:33:01.006+02:00"	"2024-10-18T21:47:33.733+02:00"	"com.google.ios.youtube"	"i.ytimg.com"	""	35
+"2024-10-12T20:33:01.345+02:00"	"2024-10-18T21:50:48.526+02:00"	"com.google.ios.youtube"	"notifications-pa.googleapis.com"	""	24
+"2024-10-12T20:33:00.954+02:00"	"2024-10-18T21:21:13.604+02:00"	"com.google.ios.youtube"	"app-analytics-services.com"	""	10
+"2024-10-12T20:33:01.333+02:00"	"2024-10-18T21:50:48.533+02:00"	"com.google.ios.youtube"	"youtubei.googleapis.com"	""	33
+"2024-10-12T20:33:01.340+02:00"	"2024-10-17T22:27:34.980+02:00"	"com.google.ios.youtube"	"accountcapabilities-pa.googleapis.com"	""	4
+"2024-10-12T20:33:00.988+02:00"	"2024-10-18T21:21:13.773+02:00"	"com.google.ios.youtube"	"oauthaccountmanager.googleapis.com"	""	11
+"2024-10-12T20:33:01.337+02:00"	"2024-10-18T21:45:13.861+02:00"	"com.google.ios.youtube"	"suggestqueries.google.com"	""	15
+"2024-10-12T20:35:03.376+02:00"	"2024-10-12T20:35:03.376+02:00"	"com.google.ios.youtube"	"213.55.255.239"	""	1
+"2024-10-12T20:33:48.088+02:00"	"2024-10-18T21:22:01.146+02:00"	"com.google.ios.youtube"	"www.googleapis.com"	""	7
+"2024-10-12T20:33:16.464+02:00"	"2024-10-18T21:49:02.081+02:00"	"com.google.ios.youtube"	"region1.app-analytics-services.com"	""	31
+"2024-10-12T20:34:56.252+02:00"	"2024-10-18T21:45:17.096+02:00"	"com.google.ios.youtube"	"yt3.googleusercontent.com"	""	12
+"2024-10-12T20:33:27.165+02:00"	"2024-10-18T21:21:41.543+02:00"	"com.google.ios.youtube"	"googleads.g.doubleclick.net"	"Google LLC"	13
+"2024-10-12T20:35:03.373+02:00"	"2024-10-18T21:21:54.390+02:00"	"com.google.ios.youtube"	"rr4.sn-n5au-9ane.googlevideo.com"	""	4
+"2024-10-12T20:36:07.568+02:00"	"2024-10-18T21:45:46.813+02:00"	"com.google.ios.youtube"	"i9.ytimg.com"	""	18
+"2024-10-12T20:34:09.254+02:00"	"2024-10-18T21:49:05.903+02:00"	"com.google.ios.youtube"	"redirector.googlevideo.com"	""	24
+"2024-10-12T20:36:33.962+02:00"	"2024-10-18T21:47:55.843+02:00"	"com.google.ios.youtube"	"213.55.140.45"	""	3
+"2024-10-12T20:43:17.033+02:00"	"2024-10-13T00:48:03.531+02:00"	"com.google.ios.youtube"	"213.55.140.12"	""	3
+"2024-10-12T20:43:19.100+02:00"	"2024-10-18T21:26:12.882+02:00"	"com.google.ios.youtube"	"lh3.googleusercontent.com"	""	9
+"2024-10-12T22:16:37.022+02:00"	"2024-10-18T21:45:45.481+02:00"	"com.google.ios.youtube"	"rr1.sn-n5au-9ane.googlevideo.com"	""	8
+"2024-10-12T22:16:33.571+02:00"	"2024-10-18T21:46:17.261+02:00"	"com.google.ios.youtube"	"rr1.sn-n5au-9ans.googlevideo.com"	""	6
+"2024-10-12T22:15:31.644+02:00"	"2024-10-13T00:51:02.949+02:00"	"com.google.ios.youtube"	"rr1.sn-n5au-1gie.googlevideo.com"	""	4
+"2024-10-12T22:16:17.255+02:00"	"2024-10-18T21:49:02.548+02:00"	"com.google.ios.youtube"	"play.googleapis.com"	""	15
+"2024-10-12T22:15:31.642+02:00"	"2024-10-18T21:47:48.493+02:00"	"com.google.ios.youtube"	"rr2.sn-n5au-9ans.googlevideo.com"	""	15
+"2024-10-13T00:43:11.923+02:00"	"2024-10-17T22:59:08.766+02:00"	"com.google.ios.youtube"	"g.doubleclick.net"	"Google LLC"	6
+"2024-10-13T00:41:50.464+02:00"	"2024-10-18T21:48:06.672+02:00"	"com.google.ios.youtube"	"rr2.sn-n5au-1gil.googlevideo.com"	""	12
+"2024-10-13T00:41:50.467+02:00"	"2024-10-17T22:54:42.499+02:00"	"com.google.ios.youtube"	"213.55.255.236"	""	2
+"2024-10-13T00:42:38.423+02:00"	"2024-10-18T21:22:01.426+02:00"	"com.google.ios.youtube"	"people-pa.googleapis.com"	""	4
+"2024-10-13T00:45:22.081+02:00"	"2024-10-13T00:45:22.081+02:00"	"com.google.ios.youtube"	"encrypted-tbn3.gstatic.com"	""	1
+"2024-10-13T00:45:09.096+02:00"	"2024-10-17T22:30:13.582+02:00"	"com.google.ios.youtube"	"www.gstatic.com"	""	5
+"2024-10-13T00:45:39.507+02:00"	"2024-10-17T22:45:25.881+02:00"	"com.google.ios.youtube"	"rr2.sn-n5au-9ane.googlevideo.com"	""	5
+"2024-10-13T00:45:08.869+02:00"	"2024-10-13T00:45:08.869+02:00"	"com.google.ios.youtube"	"encrypted-tbn1.gstatic.com"	""	1
+"2024-10-13T00:48:14.669+02:00"	"2024-10-16T22:15:25.116+02:00"	"com.google.ios.youtube"	"rr1.sn-n5au-1gil.googlevideo.com"	""	4
+"2024-10-13T00:45:08.862+02:00"	"2024-10-13T00:45:08.862+02:00"	"com.google.ios.youtube"	"encrypted-tbn0.gstatic.com"	""	1
+"2024-10-13T00:48:51.764+02:00"	"2024-10-18T21:31:21.282+02:00"	"com.google.ios.youtube"	"213.55.140.14"	""	2
+"2024-10-13T00:50:08.120+02:00"	"2024-10-13T00:50:08.120+02:00"	"com.google.ios.youtube"	"213.55.140.44"	""	1
+"2024-10-13T00:50:08.129+02:00"	"2024-10-13T00:50:08.129+02:00"	"com.google.ios.youtube"	"213.55.239.76"	""	1
+"2024-10-13T00:50:50.517+02:00"	"2024-10-17T22:45:28.305+02:00"	"com.google.ios.youtube"	"rr1.sn-n5au-9anl.googlevideo.com"	""	5
+"2024-10-13T00:50:18.196+02:00"	"2024-10-17T22:30:54.862+02:00"	"com.google.ios.youtube"	"fonts.gstatic.com"	""	2
+"2024-10-13T01:27:51.682+02:00"	"2024-10-15T22:23:41.440+02:00"	"com.google.ios.youtube"	"rr4.sn-n0ogpnx-cnal.googlevideo.com"	""	2
+"2024-10-13T01:27:40.421+02:00"	"2024-10-17T22:31:00.483+02:00"	"com.google.ios.youtube"	"rr5.sn-1gi7znek.googlevideo.com"	""	3
+"2024-10-13T01:26:28.888+02:00"	"2024-10-18T21:25:23.903+02:00"	"com.google.ios.youtube"	"rr3.sn-n5au-9ane.googlevideo.com"	""	3
+"2024-10-13T01:27:03.836+02:00"	"2024-10-18T21:48:14.675+02:00"	"com.google.ios.youtube"	"rr5.sn-1gi7znes.googlevideo.com"	""	5
+"2024-10-13T01:27:19.935+02:00"	"2024-10-17T22:44:54.477+02:00"	"com.google.ios.youtube"	"rr2.sn-1gieen7e.googlevideo.com"	""	3
+"2024-10-13T01:27:39.707+02:00"	"2024-10-17T22:58:35.846+02:00"	"com.google.ios.youtube"	"rr4.sn-1gieen7e.googlevideo.com"	""	5
+"2024-10-13T01:28:35.134+02:00"	"2024-10-15T23:35:50.536+02:00"	"com.google.ios.youtube"	"rr2.sn-n0ogpnx-cnal.googlevideo.com"	""	3
+"2024-10-13T10:50:21.399+02:00"	"2024-10-15T23:35:50.531+02:00"	"com.google.ios.youtube"	"rr6.sn-n0ogpnx-cnal.googlevideo.com"	""	3
+"2024-10-13T10:54:29.517+02:00"	"2024-10-18T21:45:17.049+02:00"	"com.google.ios.youtube"	"pagead2.googlesyndication.com"	"Google LLC"	8
+"2024-10-13T10:54:29.555+02:00"	"2024-10-18T21:45:17.087+02:00"	"com.google.ios.youtube"	"ade.googlesyndication.com"	""	9
+"2024-10-13T10:55:06.052+02:00"	"2024-10-15T22:24:01.025+02:00"	"com.google.ios.youtube"	"rr5.sn-n0ogpnx-cnal.googlevideo.com"	""	2
+"2024-10-13T10:54:29.551+02:00"	"2024-10-18T21:45:17.053+02:00"	"com.google.ios.youtube"	"ad.doubleclick.net"	""	8
+"2024-10-14T22:24:31.921+02:00"	"2024-10-18T21:21:13.771+02:00"	"com.google.ios.youtube"	"oauth2.googleapis.com"	""	5
+"2024-10-15T22:23:45.931+02:00"	"2024-10-17T22:28:30.240+02:00"	"com.google.ios.youtube"	"rr2.sn-1gi7znek.googlevideo.com"	""	2
+"2024-10-15T22:22:59.558+02:00"	"2024-10-17T22:27:36.567+02:00"	"com.google.ios.youtube"	"fcmtoken.googleapis.com"	""	3
+"2024-10-15T22:22:59.554+02:00"	"2024-10-17T16:05:15.300+02:00"	"com.google.ios.youtube"	"www.google.com"	""	3
+"2024-10-15T23:35:50.544+02:00"	"2024-10-18T21:22:57.822+02:00"	"com.google.ios.youtube"	"rr6.sn-n0ogpnx-1gie.googlevideo.com"	""	3
+"2024-10-16T22:15:05.410+02:00"	"2024-10-18T21:45:45.999+02:00"	"com.google.ios.youtube"	"rr4.sn-n5au-1gie.googlevideo.com"	""	4
+"2024-10-16T22:25:21.326+02:00"	"2024-10-18T21:24:48.086+02:00"	"com.google.ios.youtube"	"www.googleadservices.com"	"Google LLC"	2
+"2024-10-16T22:30:34.728+02:00"	"2024-10-16T22:30:34.728+02:00"	"com.google.ios.youtube"	"142.250.203.110"	""	1
+"2024-10-16T22:32:39.993+02:00"	"2024-10-17T22:31:14.631+02:00"	"com.google.ios.youtube"	"rr2.sn-1gi7znes.googlevideo.com"	""	2
+"2024-10-16T22:32:40.362+02:00"	"2024-10-17T22:31:00.353+02:00"	"com.google.ios.youtube"	"rr3.sn-1gieen7e.googlevideo.com"	""	5
+"2024-10-16T22:32:09.522+02:00"	"2024-10-18T21:25:18.452+02:00"	"com.google.ios.youtube"	"rr3.sn-n0ogpnx-1gie.googlevideo.com"	""	6
+"2024-10-16T22:34:42.231+02:00"	"2024-10-16T22:34:42.231+02:00"	"com.google.ios.youtube"	"74.125.173.168"	""	1
+"2024-10-16T22:39:56.829+02:00"	"2024-10-18T21:21:44.822+02:00"	"com.google.ios.youtube"	"rr5.sn-n0ogpnx-1gie.googlevideo.com"	""	3
+"2024-10-16T22:40:53.687+02:00"	"2024-10-18T21:25:12.098+02:00"	"com.google.ios.youtube"	"rr2.sn-n0ogpnx-1gie.googlevideo.com"	""	4
+"2024-10-16T22:43:56.646+02:00"	"2024-10-16T22:43:56.646+02:00"	"com.google.ios.youtube"	"195.112.88.173"	""	1
+"2024-10-16T22:52:31.915+02:00"	"2024-10-18T21:21:13.553+02:00"	"com.google.ios.youtube"	"rr1.sn-n0ogpnx-1gie.googlevideo.com"	""	2
+"2024-10-16T22:54:37.136+02:00"	"2024-10-16T22:54:37.136+02:00"	"com.google.ios.youtube"	"195.112.88.174"	""	1
+"2024-10-16T22:54:37.140+02:00"	"2024-10-16T22:54:37.140+02:00"	"com.google.ios.youtube"	"rr1.sn-n0ogpnx-1gil.googlevideo.com"	""	1
+"2024-10-16T23:01:26.475+02:00"	"2024-10-16T23:01:26.475+02:00"	"com.google.ios.youtube"	"195.112.79.204"	""	1
+"2024-10-17T16:06:55.534+02:00"	"2024-10-17T22:27:34.607+02:00"	"com.google.ios.youtube"	"rr3.sn-nfpuji-1gil.googlevideo.com"	""	2
+"2024-10-17T22:27:34.978+02:00"	"2024-10-17T22:27:34.978+02:00"	"com.google.ios.youtube"	"firebaseinstallations.googleapis.com"	""	1
+"2024-10-17T22:28:33.768+02:00"	"2024-10-17T22:28:33.768+02:00"	"com.google.ios.youtube"	"r3---sn-n0ogpnx-b85l.googlevideo.com"	""	1
+"2024-10-17T22:31:18.754+02:00"	"2024-10-17T22:31:18.754+02:00"	"com.google.ios.youtube"	"2a00:1450:400a:9::a"	""	1
+"2024-10-17T22:28:16.972+02:00"	"2024-10-17T22:28:16.972+02:00"	"com.google.ios.youtube"	"r1---sn-n0ogpnx-b85l.googlevideo.com"	""	1
+"2024-10-17T22:28:04.566+02:00"	"2024-10-17T22:28:04.566+02:00"	"com.google.ios.youtube"	"rr5.sn-1gieen7e.googlevideo.com"	""	1
+"2024-10-17T22:29:28.120+02:00"	"2024-10-17T22:29:28.120+02:00"	"com.google.ios.youtube"	"r6---sn-n0ogpnx-b85l.googlevideo.com"	""	1
+"2024-10-17T22:28:25.230+02:00"	"2024-10-18T21:46:17.373+02:00"	"com.google.ios.youtube"	"rr3.sn-1gi7znes.googlevideo.com"	""	3
+"2024-10-17T22:29:35.902+02:00"	"2024-10-17T22:29:35.902+02:00"	"com.google.ios.youtube"	"rr3.sn-1gi7znek.googlevideo.com"	""	1
+"2024-10-17T22:30:30.184+02:00"	"2024-10-17T22:30:30.184+02:00"	"com.google.ios.youtube"	"rr4.sn-1gi7znes.googlevideo.com"	""	1
+"2024-10-17T22:30:32.553+02:00"	"2024-10-17T22:30:32.553+02:00"	"com.google.ios.youtube"	"rr1.sn-1gi7znes.googlevideo.com"	""	1
+"2024-10-17T22:29:08.064+02:00"	"2024-10-17T22:29:08.064+02:00"	"com.google.ios.youtube"	"r5---sn-n0ogpnx-b85l.googlevideo.com"	""	1
+"2024-10-17T22:44:54.484+02:00"	"2024-10-18T21:48:06.779+02:00"	"com.google.ios.youtube"	"rr1.sn-1gieen7e.googlevideo.com"	""	2
+"2024-10-17T22:55:26.740+02:00"	"2024-10-18T21:45:44.813+02:00"	"com.google.ios.youtube"	"rr4.sn-1gi7znek.googlevideo.com"	""	3
+"2024-10-18T21:21:13.561+02:00"	"2024-10-18T21:24:16.292+02:00"	"com.google.ios.youtube"	"rr3.sn-n0ogpnx-1gil.googlevideo.com"	""	2
+"2024-10-18T21:21:13.557+02:00"	"2024-10-18T21:21:13.557+02:00"	"com.google.ios.youtube"	"195.112.88.176"	""	1
+"2024-10-18T21:24:37.334+02:00"	"2024-10-18T21:24:37.334+02:00"	"com.google.ios.youtube"	"213.55.140.15"	""	1
+"2024-10-18T21:26:20.727+02:00"	"2024-10-18T21:26:20.727+02:00"	"com.google.ios.youtube"	"213.55.255.238"	""	1
+"2024-10-18T21:23:36.581+02:00"	"2024-10-18T21:23:36.581+02:00"	"com.google.ios.youtube"	"rr4.sn-n0ogpnx-1gie.googlevideo.com"	""	1
+"2024-10-18T21:46:17.635+02:00"	"2024-10-18T21:46:17.635+02:00"	"com.google.ios.youtube"	"rr5.sn-4g5lzned.googlevideo.com"	""	1
+"2024-10-15T22:19:35.443+02:00"	"2024-10-15T22:19:35.443+02:00"	"company.thebrowser.ArcMobile2"	"ingest.sentry.io"	"Functional Software, Inc."	1
+"2024-10-15T22:19:35.414+02:00"	"2024-10-15T22:19:35.414+02:00"	"company.thebrowser.ArcMobile2"	"arc.net"	""	1
+"2024-10-15T22:19:35.259+02:00"	"2024-10-15T22:19:35.259+02:00"	"company.thebrowser.ArcMobile2"	"mobile.launchdarkly.com"	""	1
+"2024-10-15T22:19:35.282+02:00"	"2024-10-15T22:19:35.282+02:00"	"company.thebrowser.ArcMobile2"	"3.datadog.pool.ntp.org"	""	1
+"2024-10-15T22:19:35.270+02:00"	"2024-10-15T22:19:35.270+02:00"	"company.thebrowser.ArcMobile2"	"clientstream.launchdarkly.com"	""	1
+"2024-10-15T22:19:35.235+02:00"	"2024-10-15T22:19:35.235+02:00"	"company.thebrowser.ArcMobile2"	"cdn-settings.segment.com"	"Segment.io, Inc."	1
+"2024-10-15T22:19:35.407+02:00"	"2024-10-15T22:19:35.407+02:00"	"company.thebrowser.ArcMobile2"	"openaipublic.blob.core.windows.net"	""	1
+"2024-10-15T22:19:53.904+02:00"	"2024-10-15T22:19:53.904+02:00"	"company.thebrowser.ArcMobile2"	"api.segment.io"	"Segment.io, Inc."	1
+"2024-10-15T22:19:59.882+02:00"	"2024-10-15T22:19:59.882+02:00"	"company.thebrowser.ArcMobile2"	"i.pinimg.com"	""	1
+"2024-10-15T22:19:57.114+02:00"	"2024-10-15T22:19:57.114+02:00"	"company.thebrowser.ArcMobile2"	"englishlive.ef.com"	""	1
+"2024-10-15T22:19:57.120+02:00"	"2024-10-15T22:19:57.120+02:00"	"company.thebrowser.ArcMobile2"	"www.shakespearesglobe.com"	""	1
+"2024-10-15T22:19:57.168+02:00"	"2024-10-15T22:19:57.168+02:00"	"company.thebrowser.ArcMobile2"	"shakespeareintheruff.com"	""	1
+"2024-10-15T22:19:56.241+02:00"	"2024-10-15T22:19:56.241+02:00"	"company.thebrowser.ArcMobile2"	"www.google.com"	"Google LLC"	1
+"2024-10-15T22:20:00.415+02:00"	"2024-10-15T22:20:00.415+02:00"	"company.thebrowser.ArcMobile2"	"m.media-amazon.com"	""	1
+"2024-10-15T22:19:57.656+02:00"	"2024-10-15T22:19:57.656+02:00"	"company.thebrowser.ArcMobile2"	"r11.o.lencr.org"	""	1
+"2024-10-15T22:19:57.149+02:00"	"2024-10-15T22:19:57.149+02:00"	"company.thebrowser.ArcMobile2"	"www.sparknotes.com"	""	1
+"2024-10-15T22:19:57.153+02:00"	"2024-10-15T22:19:57.153+02:00"	"company.thebrowser.ArcMobile2"	"www.folger.edu"	""	1
+"2024-10-15T22:19:57.145+02:00"	"2024-10-15T22:19:57.145+02:00"	"company.thebrowser.ArcMobile2"	"nosweatshakespeare.com"	""	1
+"2024-10-15T22:19:59.486+02:00"	"2024-10-15T22:19:59.486+02:00"	"company.thebrowser.ArcMobile2"	"encrypted-tbn0.gstatic.com"	""	1
+"2024-10-15T22:19:59.248+02:00"	"2024-10-15T22:19:59.248+02:00"	"company.thebrowser.ArcMobile2"	"open-ai-chat-omega.vercel.app"	""	1
+"2024-10-15T22:20:31.781+02:00"	"2024-10-15T22:20:31.781+02:00"	"company.thebrowser.ArcMobile2"	"cdnimg.webstaurantstore.com"	""	1
+"2024-10-15T22:20:31.763+02:00"	"2024-10-15T22:20:31.763+02:00"	"company.thebrowser.ArcMobile2"	"espressocoffeeguide.com"	""	1
+"2024-10-15T22:20:28.170+02:00"	"2024-10-15T22:20:28.170+02:00"	"company.thebrowser.ArcMobile2"	"d35xxde4fgg0cx.cloudfront.net"	""	1
+"2024-10-15T22:20:28.454+02:00"	"2024-10-15T22:20:28.454+02:00"	"company.thebrowser.ArcMobile2"	"coffeeblog.co.uk"	""	1
+"2024-10-15T22:20:28.364+02:00"	"2024-10-15T22:20:28.364+02:00"	"company.thebrowser.ArcMobile2"	"www.tasteofhome.com"	""	1
+"2024-10-15T22:20:24.991+02:00"	"2024-10-15T22:20:24.991+02:00"	"company.thebrowser.ArcMobile2"	"fonts.gstatic.com"	""	1
+"2024-10-15T22:20:24.988+02:00"	"2024-10-15T22:20:24.988+02:00"	"company.thebrowser.ArcMobile2"	"cdn.bullwhip.cloud"	""	1
+"2024-10-15T22:20:26.339+02:00"	"2024-10-15T22:20:26.339+02:00"	"company.thebrowser.ArcMobile2"	"static.narrativ.com"	""	1
+"2024-10-15T22:20:25.184+02:00"	"2024-10-15T22:20:25.184+02:00"	"company.thebrowser.ArcMobile2"	"cdn.cookielaw.org"	""	1
+"2024-10-15T22:20:28.509+02:00"	"2024-10-15T22:20:28.509+02:00"	"company.thebrowser.ArcMobile2"	"js.memberful.com"	""	1
+"2024-10-15T22:20:28.189+02:00"	"2024-10-15T22:20:28.189+02:00"	"company.thebrowser.ArcMobile2"	"theverge.coral.coralproject.net"	""	1
+"2024-10-15T22:20:31.875+02:00"	"2024-10-15T22:20:31.875+02:00"	"company.thebrowser.ArcMobile2"	"attester.gateway.icloud.com"	""	1
+"2024-10-15T22:20:28.375+02:00"	"2024-10-15T22:20:28.376+02:00"	"company.thebrowser.ArcMobile2"	"esquirescoffee.co.uk"	""	1
+"2024-10-15T22:20:31.787+02:00"	"2024-10-15T22:20:31.787+02:00"	"company.thebrowser.ArcMobile2"	"www.mydraw.com"	""	1
+"2024-10-15T22:20:35.857+02:00"	"2024-10-15T22:20:35.857+02:00"	"company.thebrowser.ArcMobile2"	"t1.gstatic.com"	""	1
+"2024-10-15T22:20:28.494+02:00"	"2024-10-15T22:20:28.495+02:00"	"company.thebrowser.ArcMobile2"	"concertads-configs.vox-cdn.com"	""	1
+"2024-10-15T22:20:32.199+02:00"	"2024-10-15T22:20:32.199+02:00"	"company.thebrowser.ArcMobile2"	"ocsp.godaddy.com"	""	1
+"2024-10-15T22:20:28.471+02:00"	"2024-10-15T22:20:28.471+02:00"	"company.thebrowser.ArcMobile2"	"geolocation.onetrust.com"	""	1
+"2024-10-15T22:20:15.866+02:00"	"2024-10-15T22:20:15.866+02:00"	"company.thebrowser.ArcMobile2"	"n.sni.global.fastly.net"	"Fastly, Inc."	1
+"2024-10-15T22:20:28.463+02:00"	"2024-10-15T22:20:28.463+02:00"	"company.thebrowser.ArcMobile2"	"www.merlo.com.au"	""	1
+"2024-10-15T22:20:28.483+02:00"	"2024-10-15T22:20:28.483+02:00"	"company.thebrowser.ArcMobile2"	"apps.voxmedia.com"	""	1
+"2024-10-15T22:20:30.673+02:00"	"2024-10-15T22:20:30.674+02:00"	"company.thebrowser.ArcMobile2"	"www.gstatic.com"	""	1
+"2024-10-15T22:20:28.479+02:00"	"2024-10-15T22:20:28.479+02:00"	"company.thebrowser.ArcMobile2"	"commonwealthjoe.com"	""	1
+"2024-10-15T22:20:28.194+02:00"	"2024-10-15T22:20:28.194+02:00"	"company.thebrowser.ArcMobile2"	"sail-horizon.com"	"Sailthru, Inc"	1
+"2024-10-15T22:20:24.966+02:00"	"2024-10-15T22:20:24.966+02:00"	"company.thebrowser.ArcMobile2"	"fonts.googleapis.com"	""	1
+"2024-10-15T22:20:28.209+02:00"	"2024-10-15T22:20:28.209+02:00"	"company.thebrowser.ArcMobile2"	"google.com"	"Google LLC"	1
+"2024-10-15T22:20:28.186+02:00"	"2024-10-15T22:20:28.186+02:00"	"company.thebrowser.ArcMobile2"	"parsely.com"	"Parsely, Inc."	1
+"2024-10-15T22:20:30.718+02:00"	"2024-10-15T22:20:30.718+02:00"	"company.thebrowser.ArcMobile2"	"www.theverge.com"	""	1
+"2024-10-15T22:20:31.879+02:00"	"2024-10-15T22:20:31.879+02:00"	"company.thebrowser.ArcMobile2"	"cdn.shopify.com"	""	1
+"2024-10-15T22:20:26.392+02:00"	"2024-10-15T22:20:26.392+02:00"	"company.thebrowser.ArcMobile2"	"www.webstaurantstore.com"	""	1
+"2024-10-14T22:07:32.335+02:00"	"2024-10-14T22:07:32.335+02:00"	"ch.toppreise.tpiphone"	"ocsp.swisssign.ch"	""	1
+"2024-10-14T22:07:32.169+02:00"	"2024-10-14T22:07:32.169+02:00"	"ch.toppreise.tpiphone"	"imgsrv.toppreise.ch"	""	1
+"2024-10-14T22:07:15.227+02:00"	"2024-10-14T22:07:15.227+02:00"	"ch.toppreise.tpiphone"	"ws.toppreise.ch"	""	1
+"2024-10-11T23:06:13.120+02:00"	"2024-10-18T21:19:26.271+02:00"	"com.strava.stravaride"	"ocsp.godaddy.com"	""	11
+"2024-10-11T23:06:12.530+02:00"	"2024-10-19T00:27:09.824+02:00"	"com.strava.stravaride"	"ingest.sentry.io"	"Functional Software, Inc."	23
+"2024-10-11T23:06:12.515+02:00"	"2024-10-19T08:01:37.131+02:00"	"com.strava.stravaride"	"o352714.ingest.sentry.io"	"Functional Software, Inc."	47
+"2024-10-11T23:06:11.097+02:00"	"2024-10-19T08:01:37.288+02:00"	"com.strava.stravaride"	"ocsp.r2m03.amazontrust.com"	""	22
+"2024-10-11T23:06:13.701+02:00"	"2024-10-18T09:12:37.627+02:00"	"com.strava.stravaride"	"dgtzuqphqg23d.cloudfront.net"	""	17
+"2024-10-11T23:06:17.920+02:00"	"2024-10-19T08:01:43.554+02:00"	"com.strava.stravaride"	"dgalywyr863hv.cloudfront.net"	""	35
+"2024-10-12T10:40:50.661+02:00"	"2024-10-16T16:57:53.626+02:00"	"com.strava.stravaride"	"platform-lookaside.fbsbx.com"	""	12
+"2024-10-12T18:18:43.165+02:00"	"2024-10-19T08:39:03.097+02:00"	"com.strava.stravaride"	"c.strava.com"	""	75
+"2024-10-12T18:18:43.211+02:00"	"2024-10-19T08:39:03.351+02:00"	"com.strava.stravaride"	"chat.stream-io-api.com"	""	64
+"2024-10-12T18:18:43.363+02:00"	"2024-10-19T08:39:03.633+02:00"	"com.strava.stravaride"	"cdn.branch.io"	""	65
+"2024-10-12T18:18:44.181+02:00"	"2024-10-19T08:01:42.333+02:00"	"com.strava.stravaride"	"d3o5xota0a1fcr.cloudfront.net"	""	39
+"2024-10-12T18:18:43.183+02:00"	"2024-10-19T08:01:37.182+02:00"	"com.strava.stravaride"	"graph.facebook.com"	"Facebook, Inc."	47
+"2024-10-12T18:18:43.167+02:00"	"2024-10-19T08:39:03.089+02:00"	"com.strava.stravaride"	"cdn-1.strava.com"	""	70
+"2024-10-12T18:18:43.207+02:00"	"2024-10-19T08:01:37.753+02:00"	"com.strava.stravaride"	"inappcheck.itunes.apple.com"	""	17
+"2024-10-12T18:18:43.189+02:00"	"2024-10-19T08:39:03.324+02:00"	"com.strava.stravaride"	"api3.branch.io"	""	72
+"2024-10-13T09:56:18.384+02:00"	"2024-10-17T08:34:56.473+02:00"	"com.strava.stravaride"	"phoots.strava.com"	""	8
+"2024-10-13T11:05:41.600+02:00"	"2024-10-17T20:07:37.098+02:00"	"com.strava.stravaride"	"bqst82u23r97a7fuo892gfpn2.litix.io"	""	29
+"2024-10-13T11:05:46.203+02:00"	"2024-10-18T21:19:47.070+02:00"	"com.strava.stravaride"	"api.mapbox.com"	""	13
+"2024-10-13T11:05:41.849+02:00"	"2024-10-13T11:05:41.849+02:00"	"com.strava.stravaride"	"manifest-gcp-us-east1-vop1.fastly.mux.com"	""	1
+"2024-10-13T11:05:41.484+02:00"	"2024-10-17T20:07:36.233+02:00"	"com.strava.stravaride"	"image.mux.com"	""	9
+"2024-10-13T11:05:41.532+02:00"	"2024-10-17T20:07:36.220+02:00"	"com.strava.stravaride"	"stream.mux.com"	""	9
+"2024-10-13T11:05:46.225+02:00"	"2024-10-18T09:37:26.470+02:00"	"com.strava.stravaride"	"config.mapbox.com"	""	4
+"2024-10-13T11:05:47.237+02:00"	"2024-10-19T00:27:09.818+02:00"	"com.strava.stravaride"	"heatmap-external-c.strava.com"	""	18
+"2024-10-13T11:05:46.195+02:00"	"2024-10-18T21:19:47.063+02:00"	"com.strava.stravaride"	"www.strava.com"	""	14
+"2024-10-13T11:05:42.864+02:00"	"2024-10-16T13:52:18.021+02:00"	"com.strava.stravaride"	"chunk-gcp-us-east1-vop1.fastly.mux.com"	""	11
+"2024-10-13T11:05:46.228+02:00"	"2024-10-18T21:19:47.099+02:00"	"com.strava.stravaride"	"events.mapbox.com"	""	51
+"2024-10-13T12:19:12.134+02:00"	"2024-10-16T09:58:10.980+02:00"	"com.strava.stravaride"	"manifest-gcp-us-east1-vop1.cfcdn.mux.com"	""	7
+"2024-10-13T12:19:13.207+02:00"	"2024-10-16T13:52:18.025+02:00"	"com.strava.stravaride"	"chunk-gcp-us-east1-vop1.cfcdn.mux.com"	""	20
+"2024-10-13T12:19:30.965+02:00"	"2024-10-18T09:12:59.285+02:00"	"com.strava.stravaride"	"lh3.googleusercontent.com"	""	5
+"2024-10-13T15:07:56.120+02:00"	"2024-10-13T17:21:47.458+02:00"	"com.strava.stravaride"	"chunk-gcp-us-east4-vop1.fastly.mux.com"	""	4
+"2024-10-13T15:11:05.165+02:00"	"2024-10-17T21:37:13.240+02:00"	"com.strava.stravaride"	"chunk-gcp-us-east4-vop1.cfcdn.mux.com"	""	8
+"2024-10-13T15:07:55.587+02:00"	"2024-10-17T20:29:18.694+02:00"	"com.strava.stravaride"	"manifest-gcp-us-east4-vop1.cfcdn.mux.com"	""	4
+"2024-10-13T17:02:37.746+02:00"	"2024-10-17T20:07:52.848+02:00"	"com.strava.stravaride"	"d3nn82uaxijpm6.cloudfront.net"	""	4
+"2024-10-14T07:19:45.346+02:00"	"2024-10-19T00:27:09.767+02:00"	"com.strava.stravaride"	"amp-api-edge.apps.apple.com"	""	9
+"2024-10-14T07:19:45.395+02:00"	"2024-10-19T00:27:09.852+02:00"	"com.strava.stravaride"	"graphql.strava.com"	""	9
+"2024-10-14T07:19:46.355+02:00"	"2024-10-17T20:07:31.863+02:00"	"com.strava.stravaride"	"ocsp.rootca1.amazontrust.com"	""	2
+"2024-10-14T07:19:45.399+02:00"	"2024-10-19T00:27:09.858+02:00"	"com.strava.stravaride"	"mzstorekit.itunes.apple.com"	""	8
+"2024-10-18T08:04:18.658+02:00"	"2024-10-18T08:04:18.658+02:00"	"com.strava.stravaride"	"firebaseinstallations.googleapis.com"	""	1
+"2024-10-18T16:55:35.459+02:00"	"2024-10-18T16:55:35.459+02:00"	"com.strava.stravaride"	"support.strava.com"	""	1
+"2024-10-18T16:55:46.277+02:00"	"2024-10-18T16:55:46.277+02:00"	"com.strava.stravaride"	"api.solvvy.com"	""	1
+"2024-10-18T16:55:37.725+02:00"	"2024-10-18T16:55:37.725+02:00"	"com.strava.stravaride"	"cdn.solvvy.com"	""	1
+"2024-10-11T22:50:20.199+02:00"	"2024-10-17T20:31:37.323+02:00"	"com.toyopagroup.picaboo"	"aws.api.snapchat.com"	""	15
+"2024-10-11T22:50:52.076+02:00"	"2024-10-19T07:33:43.999+02:00"	"com.toyopagroup.picaboo"	"us-central1-gcp.api.sc-gw.com"	""	17
+"2024-10-12T01:59:42.237+02:00"	"2024-10-19T07:03:31.929+02:00"	"com.toyopagroup.picaboo"	"usc1-gcp-v61.api.sc-gw.com"	""	20
+"2024-10-12T02:00:10.369+02:00"	"2024-10-19T08:39:14.594+02:00"	"com.toyopagroup.picaboo"	"cf-st.sc-cdn.net"	""	43
+"2024-10-12T02:00:15.696+02:00"	"2024-10-19T07:33:45.269+02:00"	"com.toyopagroup.picaboo"	"eu-west1-aws.api.sc-gw.com"	""	66
+"2024-10-12T02:00:02.345+02:00"	"2024-10-19T07:03:31.944+02:00"	"com.toyopagroup.picaboo"	"bolt-gcdn.sc-cdn.net"	""	14
+"2024-10-12T02:00:05.283+02:00"	"2024-10-19T08:39:14.603+02:00"	"com.toyopagroup.picaboo"	"feelinsonice.l.google.com"	""	77
+"2024-10-12T02:00:01.382+02:00"	"2024-10-19T08:39:14.607+02:00"	"com.toyopagroup.picaboo"	"usc1-gcp-v62.api.sc-gw.com"	""	42
+"2024-10-12T02:00:11.132+02:00"	"2024-10-19T07:33:44.010+02:00"	"com.toyopagroup.picaboo"	"app-analytics-v2.snapchat.com"	""	36
+"2024-10-12T02:00:01.377+02:00"	"2024-10-19T08:39:14.613+02:00"	"com.toyopagroup.picaboo"	"gcp.api.sc-gw.com"	""	51
+"2024-10-12T02:00:15.701+02:00"	"2024-10-19T07:03:32.656+02:00"	"com.toyopagroup.picaboo"	"us-east1-aws.api.sc-gw.com"	""	64
+"2024-10-12T07:32:01.572+02:00"	"2024-10-17T20:31:42.859+02:00"	"com.toyopagroup.picaboo"	"35.190.43.134"	""	22
+"2024-10-12T07:32:01.474+02:00"	"2024-10-18T16:22:57.240+02:00"	"com.toyopagroup.picaboo"	"gcp.api.snapchat.com"	""	9
+"2024-10-12T07:32:21.726+02:00"	"2024-10-17T22:34:29.740+02:00"	"com.toyopagroup.picaboo"	"aws-proxy-gcp.api.sc-gw.com"	""	7
+"2024-10-12T20:32:05.975+02:00"	"2024-10-16T22:34:56.897+02:00"	"com.toyopagroup.picaboo"	"inappcheck.itunes.apple.com"	""	4
+"2024-10-12T20:32:23.049+02:00"	"2024-10-12T20:32:23.049+02:00"	"com.toyopagroup.picaboo"	"www.apple.com"	""	1
+"2024-10-12T20:32:57.856+02:00"	"2024-10-16T22:35:39.673+02:00"	"com.toyopagroup.picaboo"	"35.241.16.93"	""	2
+"2024-10-12T20:32:32.512+02:00"	"2024-10-17T22:26:48.140+02:00"	"com.toyopagroup.picaboo"	"mzstorekit.itunes.apple.com"	""	5
+"2024-10-12T20:32:23.046+02:00"	"2024-10-12T20:32:23.046+02:00"	"com.toyopagroup.picaboo"	"securemetrics.apple.com"	""	1
+"2024-10-12T20:32:33.210+02:00"	"2024-10-17T22:26:48.420+02:00"	"com.toyopagroup.picaboo"	"amp-api-edge.apps.apple.com"	""	5
+"2024-10-12T20:32:26.969+02:00"	"2024-10-16T22:38:23.639+02:00"	"com.toyopagroup.picaboo"	"client-api.itunes.apple.com"	""	2
+"2024-10-12T20:32:23.038+02:00"	"2024-10-12T20:32:23.038+02:00"	"com.toyopagroup.picaboo"	"www.google-analytics.com"	"Google LLC"	1
+"2024-10-12T20:32:24.438+02:00"	"2024-10-16T22:37:08.963+02:00"	"com.toyopagroup.picaboo"	"snap-storage-cdn.l.google.com"	""	8
+"2024-10-12T20:32:23.042+02:00"	"2024-10-12T20:32:23.042+02:00"	"com.toyopagroup.picaboo"	"sc-static.net"	""	1
+"2024-10-12T20:33:03.463+02:00"	"2024-10-16T22:36:02.893+02:00"	"com.toyopagroup.picaboo"	"216.239.36.126"	""	5
+"2024-10-12T20:43:36.883+02:00"	"2024-10-12T20:43:36.883+02:00"	"com.toyopagroup.picaboo"	"d2iv48hg4yxj1k.cloudfront.net"	""	1
+"2024-10-12T20:43:36.856+02:00"	"2024-10-16T23:16:34.535+02:00"	"com.toyopagroup.picaboo"	"aw.sc-cdn.net"	""	2
+"2024-10-12T20:43:36.835+02:00"	"2024-10-12T20:43:36.835+02:00"	"com.toyopagroup.picaboo"	"35.190.22.22"	""	1
+"2024-10-12T20:43:36.831+02:00"	"2024-10-16T23:15:46.090+02:00"	"com.toyopagroup.picaboo"	"108.128.225.61"	""	2
+"2024-10-13T10:06:25.316+02:00"	"2024-10-13T10:06:25.316+02:00"	"com.toyopagroup.picaboo"	"99.80.3.185"	""	1
+"2024-10-14T06:28:26.442+02:00"	"2024-10-19T04:02:49.285+02:00"	"com.toyopagroup.picaboo"	"europe-west1-gcp.api.sc-gw.com"	""	2
+"2024-10-14T22:26:56.932+02:00"	"2024-10-16T22:35:53.929+02:00"	"com.toyopagroup.picaboo"	"34.120.159.232"	""	2
+"2024-10-14T22:31:28.394+02:00"	"2024-10-15T03:49:57.915+02:00"	"com.toyopagroup.picaboo"	"54.73.92.195"	""	2
+"2024-10-14T22:31:28.393+02:00"	"2024-10-17T22:32:34.253+02:00"	"com.toyopagroup.picaboo"	"52.18.137.75"	""	3
+"2024-10-15T22:22:30.171+02:00"	"2024-10-15T22:22:30.171+02:00"	"com.toyopagroup.picaboo"	"sf-api-token-service.itunes.apple.com"	""	1
+"2024-10-15T22:24:10.535+02:00"	"2024-10-17T22:32:34.269+02:00"	"com.toyopagroup.picaboo"	"gtq6.sct.sc-prod.net"	""	3
+"2024-10-16T05:04:07.915+02:00"	"2024-10-16T05:04:07.915+02:00"	"com.toyopagroup.picaboo"	"44.202.21.15"	""	1
+"2024-10-16T22:36:02.935+02:00"	"2024-10-16T23:15:46.012+02:00"	"com.toyopagroup.picaboo"	"3.163.248.4"	""	3
+"2024-10-16T22:38:59.534+02:00"	"2024-10-16T22:38:59.534+02:00"	"com.toyopagroup.picaboo"	"us-east4-gcp.api.sc-gw.com"	""	1
+"2024-10-17T07:24:01.541+02:00"	"2024-10-17T07:24:01.541+02:00"	"com.toyopagroup.picaboo"	"3.251.220.171"	""	1
+"2024-10-12T21:29:07.103+02:00"	"2024-10-18T18:00:20.450+02:00"	"com.datacamp"	"heapanalytics.com"	""	5
+"2024-10-12T21:29:07.093+02:00"	"2024-10-18T18:00:19.988+02:00"	"com.datacamp"	"sdk.split.io"	""	5
+"2024-10-12T21:29:07.640+02:00"	"2024-10-18T18:00:20.837+02:00"	"com.datacamp"	"amp-api-edge.apps.apple.com"	""	5
+"2024-10-12T21:29:07.008+02:00"	"2024-10-15T23:09:37.763+02:00"	"com.datacamp"	"cdn-settings.appsflyersdk.com"	""	2
+"2024-10-12T21:29:07.155+02:00"	"2024-10-18T18:00:20.320+02:00"	"com.datacamp"	"inappcheck.itunes.apple.com"	""	5
+"2024-10-12T21:29:07.106+02:00"	"2024-10-18T18:00:20.408+02:00"	"com.datacamp"	"mobile-api.datacamp.com"	""	5
+"2024-10-12T21:29:07.163+02:00"	"2024-10-15T23:09:37.818+02:00"	"com.datacamp"	"launches.appsflyer.com"	"AppsFlyer"	2
+"2024-10-12T21:29:07.109+02:00"	"2024-10-18T18:00:20.192+02:00"	"com.datacamp"	"ocsp.digicert.com"	""	5
+"2024-10-12T21:29:07.019+02:00"	"2024-10-12T21:29:07.019+02:00"	"com.datacamp"	"1.datadog.pool.ntp.org"	""	1
+"2024-10-12T21:29:07.149+02:00"	"2024-10-18T18:00:20.318+02:00"	"com.datacamp"	"mzstorekit.itunes.apple.com"	""	5
+"2024-10-12T21:29:07.157+02:00"	"2024-10-18T18:00:20.160+02:00"	"com.datacamp"	"api.revenuecat.com"	"RevenueCat"	5
+"2024-10-12T21:29:07.165+02:00"	"2024-10-18T18:00:20.033+02:00"	"com.datacamp"	"sentry.io"	""	5
+"2024-10-12T21:29:07.171+02:00"	"2024-10-18T18:00:20.469+02:00"	"com.datacamp"	"codepush.appcenter.ms"	"Microsoft Corporation"	5
+"2024-10-15T23:09:37.800+02:00"	"2024-10-16T23:03:38.194+02:00"	"com.datacamp"	"2.datadog.pool.ntp.org"	""	2
+"2024-10-15T23:09:40.659+02:00"	"2024-10-18T18:00:21.852+02:00"	"com.datacamp"	"eligibility.wootric.com"	""	5
+"2024-10-15T23:10:08.146+02:00"	"2024-10-18T18:00:50.551+02:00"	"com.datacamp"	"prometheus-aggregator.datacamp.com"	""	4
+"2024-10-16T23:03:38.239+02:00"	"2024-10-18T18:00:20.143+02:00"	"com.datacamp"	"mrvaph-launches.appsflyersdk.com"	""	3
+"2024-10-17T23:54:25.277+02:00"	"2024-10-17T23:54:25.277+02:00"	"com.datacamp"	"0.datadog.pool.ntp.org"	""	1
+"2024-10-17T23:54:25.261+02:00"	"2024-10-17T23:54:25.261+02:00"	"com.datacamp"	"mrvaph-cdn-settings.appsflyersdk.com"	""	1
+"2024-10-18T18:00:20.113+02:00"	"2024-10-18T18:00:20.113+02:00"	"com.datacamp"	"3.datadog.pool.ntp.org"	""	1
+"2024-10-11T23:01:19.380+02:00"	"2024-10-11T23:01:19.380+02:00"	"com.google.Maps"	"os-de.storage.googleapis.com"	""	1
+"2024-10-11T23:01:19.373+02:00"	"2024-10-11T23:01:19.373+02:00"	"com.google.Maps"	"or-se.storage.googleapis.com"	""	1
+"2024-10-11T23:01:19.365+02:00"	"2024-10-11T23:01:19.365+02:00"	"com.google.Maps"	"os-ue.storage.googleapis.com"	""	1
+"2024-10-11T23:01:18.572+02:00"	"2024-10-18T17:56:27.540+02:00"	"com.google.Maps"	"locationhistory-pa.googleapis.com"	""	4
+"2024-10-12T18:09:16.564+02:00"	"2024-10-19T10:38:46.940+02:00"	"com.google.Maps"	"oauth2.googleapis.com"	""	24
+"2024-10-12T18:09:16.931+02:00"	"2024-10-19T10:38:47.405+02:00"	"com.google.Maps"	"accounts.google.com"	""	20
+"2024-10-12T18:09:18.557+02:00"	"2024-10-18T17:56:31.371+02:00"	"com.google.Maps"	"www.gstatic.com"	""	15
+"2024-10-12T18:09:16.956+02:00"	"2024-10-18T17:56:33.398+02:00"	"com.google.Maps"	"encrypted-tbn2.gstatic.com"	""	2
+"2024-10-12T18:09:16.741+02:00"	"2024-10-18T21:27:18.765+02:00"	"com.google.Maps"	"feedback-pa.googleapis.com"	""	22
+"2024-10-12T18:09:25.050+02:00"	"2024-10-18T21:27:26.789+02:00"	"com.google.Maps"	"app-analytics-services.com"	""	16
+"2024-10-12T18:09:16.971+02:00"	"2024-10-18T21:31:13.135+02:00"	"com.google.Maps"	"geller-pa.googleapis.com"	""	36
+"2024-10-12T18:09:16.879+02:00"	"2024-10-14T15:57:35.718+02:00"	"com.google.Maps"	"encrypted-tbn0.gstatic.com"	""	2
+"2024-10-12T18:09:16.804+02:00"	"2024-10-18T21:27:19.027+02:00"	"com.google.Maps"	"scone-pa.googleapis.com"	""	22
+"2024-10-12T18:09:15.054+02:00"	"2024-10-19T10:38:46.930+02:00"	"com.google.Maps"	"oauthaccountmanager.googleapis.com"	""	49
+"2024-10-12T18:09:16.922+02:00"	"2024-10-19T10:38:48.090+02:00"	"com.google.Maps"	"mobilemaps-pa-gz.googleapis.com"	""	37
+"2024-10-12T18:09:16.668+02:00"	"2024-10-19T10:38:48.093+02:00"	"com.google.Maps"	"mobilemaps.googleapis.com"	""	53
+"2024-10-12T18:09:16.920+02:00"	"2024-10-18T17:56:25.410+02:00"	"com.google.Maps"	"accountcapabilities-pa.googleapis.com"	""	5
+"2024-10-12T18:09:16.909+02:00"	"2024-10-18T17:56:26.512+02:00"	"com.google.Maps"	"peoplestack-pa.googleapis.com"	""	5
+"2024-10-12T18:09:16.929+02:00"	"2024-10-19T10:38:48.112+02:00"	"com.google.Maps"	"people-pa.googleapis.com"	""	23
+"2024-10-12T18:09:16.896+02:00"	"2024-10-18T21:31:12.945+02:00"	"com.google.Maps"	"notifications-pa.googleapis.com"	""	37
+"2024-10-12T18:09:16.913+02:00"	"2024-10-19T10:38:48.300+02:00"	"com.google.Maps"	"lh3.googleusercontent.com"	""	23
+"2024-10-12T18:09:16.894+02:00"	"2024-10-19T10:38:48.483+02:00"	"com.google.Maps"	"www.googleapis.com"	""	27
+"2024-10-12T18:09:16.891+02:00"	"2024-10-18T17:56:27.547+02:00"	"com.google.Maps"	"growth-pa.googleapis.com"	""	9
+"2024-10-12T18:09:18.550+02:00"	"2024-10-18T21:27:18.747+02:00"	"com.google.Maps"	"www.google.com"	""	20
+"2024-10-12T18:09:28.699+02:00"	"2024-10-18T21:31:13.399+02:00"	"com.google.Maps"	"region1.app-analytics-services.com"	""	39
+"2024-10-12T18:09:55.735+02:00"	"2024-10-18T21:30:40.976+02:00"	"com.google.Maps"	"play.googleapis.com"	""	38
+"2024-10-12T20:31:30.227+02:00"	"2024-10-18T17:58:15.983+02:00"	"com.google.Maps"	"arcore.googleapis.com"	""	10
+"2024-10-12T20:31:27.144+02:00"	"2024-10-18T17:56:39.835+02:00"	"com.google.Maps"	"gz0.googleusercontent.com"	""	14
+"2024-10-12T23:25:01.874+02:00"	"2024-10-18T17:56:39.816+02:00"	"com.google.Maps"	"streetviewpixels-pa.googleapis.com"	""	11
+"2024-10-13T10:44:05.730+02:00"	"2024-10-16T23:16:10.169+02:00"	"com.google.Maps"	"clients4.google.com"	""	3
+"2024-10-13T11:53:06.810+02:00"	"2024-10-13T11:53:06.810+02:00"	"com.google.Maps"	"manifest.googlevideo.com"	""	1
+"2024-10-13T11:53:51.727+02:00"	"2024-10-13T11:53:51.727+02:00"	"com.google.Maps"	"lh5.googleusercontent.com"	""	1
+"2024-10-13T11:53:07.123+02:00"	"2024-10-13T11:53:07.123+02:00"	"com.google.Maps"	"r3---sn-1gieen7e.googlevideo.com"	""	1
+"2024-10-13T11:52:58.527+02:00"	"2024-10-13T11:52:58.527+02:00"	"com.google.Maps"	"instantmessaging-pa.googleapis.com"	""	1
+"2024-10-14T15:57:36.147+02:00"	"2024-10-14T15:57:36.147+02:00"	"com.google.Maps"	"encrypted-tbn3.gstatic.com"	""	1
+"2024-10-14T22:12:34.768+02:00"	"2024-10-14T22:12:34.768+02:00"	"com.google.Maps"	"gz.gstatic.com"	""	1
+"2024-10-16T11:29:15.160+02:00"	"2024-10-16T11:29:15.160+02:00"	"com.google.Maps"	"reach-pa.googleapis.com"	""	1
+"2024-10-16T21:10:00.261+02:00"	"2024-10-16T21:10:00.261+02:00"	"com.google.Maps"	"firebaseinstallations.googleapis.com"	""	1
+"2024-10-18T17:56:33.392+02:00"	"2024-10-18T17:56:33.392+02:00"	"com.google.Maps"	"encrypted-tbn1.gstatic.com"	""	1
+"2024-10-15T23:04:21.249+02:00"	"2024-10-18T10:07:22.583+02:00"	"swiss.ricardo.iphone"	"r11.o.lencr.org"	""	2
+"2024-10-15T23:04:20.738+02:00"	"2024-10-15T23:08:55.579+02:00"	"swiss.ricardo.iphone"	"eservice.emarsys.net"	"SAP SE"	2
+"2024-10-15T23:04:35.255+02:00"	"2024-10-18T10:07:35.833+02:00"	"swiss.ricardo.iphone"	"region1.app-analytics-services.com"	""	3
+"2024-10-15T23:04:21.172+02:00"	"2024-10-18T10:07:21.909+02:00"	"swiss.ricardo.iphone"	"launches.appsflyer.com"	"AppsFlyer"	2
+"2024-10-15T23:04:21.855+02:00"	"2024-10-18T10:07:22.577+02:00"	"swiss.ricardo.iphone"	"googleads.g.doubleclick.net"	"Google LLC"	2
+"2024-10-15T23:04:20.811+02:00"	"2024-10-15T23:04:20.811+02:00"	"swiss.ricardo.iphone"	"rules3.aatkit.com"	"AddApptr GmbH"	1
+"2024-10-15T23:04:20.701+02:00"	"2024-10-18T10:07:21.482+02:00"	"swiss.ricardo.iphone"	"firebase-settings.crashlytics.com"	"Google LLC"	2
+"2024-10-15T23:04:20.946+02:00"	"2024-10-18T10:07:22.589+02:00"	"swiss.ricardo.iphone"	"api.ricardo.ch"	""	4
+"2024-10-15T23:04:22.535+02:00"	"2024-10-18T10:07:51.770+02:00"	"swiss.ricardo.iphone"	"crashlyticsreports-pa.googleapis.com"	"Google LLC"	2
+"2024-10-15T23:04:50.707+02:00"	"2024-10-18T10:07:22.566+02:00"	"swiss.ricardo.iphone"	"firebaselogging-pa.googleapis.com"	"Google LLC"	5
+"2024-10-15T23:04:22.520+02:00"	"2024-10-18T10:07:22.571+02:00"	"swiss.ricardo.iphone"	"firebaseremoteconfig.googleapis.com"	"Google LLC"	3
+"2024-10-15T23:04:21.679+02:00"	"2024-10-18T10:07:22.597+02:00"	"swiss.ricardo.iphone"	"cdn.cookielaw.org"	""	2
+"2024-10-15T23:04:20.922+02:00"	"2024-10-18T10:07:21.528+02:00"	"swiss.ricardo.iphone"	"r10.o.lencr.org"	""	2
+"2024-10-15T23:04:20.927+02:00"	"2024-10-18T10:07:21.837+02:00"	"swiss.ricardo.iphone"	"firebaseremoteconfigrealtime.googleapis.com"	""	3
+"2024-10-15T23:04:30.360+02:00"	"2024-10-18T10:07:31.421+02:00"	"swiss.ricardo.iphone"	"app-analytics-services.com"	""	2
+"2024-10-15T23:04:20.711+02:00"	"2024-10-18T10:07:21.491+02:00"	"swiss.ricardo.iphone"	"cdn-settings.appsflyersdk.com"	""	2
+"2024-10-15T23:04:21.549+02:00"	"2024-10-18T10:07:22.692+02:00"	"swiss.ricardo.iphone"	"img.ricardostatic.ch"	""	3
+"2024-10-15T23:04:21.207+02:00"	"2024-10-18T10:07:21.933+02:00"	"swiss.ricardo.iphone"	"mobile-data.onetrust.io"	""	2
+"2024-10-15T23:04:21.898+02:00"	"2024-10-15T23:04:21.898+02:00"	"swiss.ricardo.iphone"	"firebaseinstallations.googleapis.com"	""	1
+"2024-10-15T23:04:47.229+02:00"	"2024-10-15T23:04:47.229+02:00"	"swiss.ricardo.iphone"	"74.125.250.129"	""	1
+"2024-10-15T23:04:20.722+02:00"	"2024-10-18T10:07:21.497+02:00"	"swiss.ricardo.iphone"	"mobile-sdk-config.gservice.emarsys.net"	""	2
+"2024-10-15T23:04:21.917+02:00"	"2024-10-15T23:04:21.917+02:00"	"swiss.ricardo.iphone"	"images.ctfassets.net"	""	1
+"2024-10-15T23:06:06.271+02:00"	"2024-10-18T10:07:21.829+02:00"	"swiss.ricardo.iphone"	"rules.aatkit.com"	"AddApptr GmbH"	2
+"2024-10-15T23:06:06.302+02:00"	"2024-10-18T10:07:21.493+02:00"	"swiss.ricardo.iphone"	"mobile-events.eservice.emarsys.net"	"SAP SE"	3
+"2024-10-15T23:05:06.434+02:00"	"2024-10-18T10:08:11.492+02:00"	"swiss.ricardo.iphone"	"tracking.aatkit.com"	"AddApptr GmbH"	3
+"2024-10-15T23:08:42.482+02:00"	"2024-10-15T23:08:42.482+02:00"	"swiss.ricardo.iphone"	"rules2.aatkit.com"	""	1
+"2024-10-15T23:08:48.658+02:00"	"2024-10-18T10:07:21.842+02:00"	"swiss.ricardo.iphone"	"login.ricardo.ch"	""	2
+"2024-10-15T23:08:55.219+02:00"	"2024-10-15T23:08:55.219+02:00"	"swiss.ricardo.iphone"	"ams.creativecdn.com"	""	1
+"2024-10-15T23:08:55.312+02:00"	"2024-10-15T23:08:55.312+02:00"	"swiss.ricardo.iphone"	"recommender.scarabresearch.com"	""	1
+"2024-10-15T23:08:54.610+02:00"	"2024-10-15T23:08:54.610+02:00"	"swiss.ricardo.iphone"	"attribution.ricardo.ch"	""	1
+"2024-10-15T23:08:54.612+02:00"	"2024-10-15T23:08:54.612+02:00"	"swiss.ricardo.iphone"	"cdn.scarabresearch.com"	""	1
+"2024-10-15T23:08:53.841+02:00"	"2024-10-15T23:08:53.841+02:00"	"swiss.ricardo.iphone"	"www.googletagmanager.com"	"Google LLC"	1
+"2024-10-15T23:08:55.190+02:00"	"2024-10-15T23:08:55.190+02:00"	"swiss.ricardo.iphone"	"ricardo20.zendesk.com"	""	1
+"2024-10-15T23:08:54.607+02:00"	"2024-10-15T23:08:54.607+02:00"	"swiss.ricardo.iphone"	"sc-static.net"	""	1
+"2024-10-15T23:08:54.957+02:00"	"2024-10-15T23:08:54.957+02:00"	"swiss.ricardo.iphone"	"ade.googlesyndication.com"	""	1
+"2024-10-15T23:08:53.224+02:00"	"2024-10-15T23:08:53.224+02:00"	"swiss.ricardo.iphone"	"static.ricardo.ch"	""	1
+"2024-10-15T23:08:49.331+02:00"	"2024-10-18T10:07:22.542+02:00"	"swiss.ricardo.iphone"	"me-client.eservice.emarsys.net"	"SAP SE"	2
+"2024-10-15T23:08:54.594+02:00"	"2024-10-15T23:08:54.594+02:00"	"swiss.ricardo.iphone"	"www.google-analytics.com"	"Google LLC"	1
+"2024-10-15T23:08:53.534+02:00"	"2024-10-15T23:08:53.534+02:00"	"swiss.ricardo.iphone"	"fonts.gstatic.com"	""	1
+"2024-10-15T23:08:55.329+02:00"	"2024-10-15T23:08:55.329+02:00"	"swiss.ricardo.iphone"	"ib.adnxs.com"	"Microsoft Corporation"	1
+"2024-10-15T23:08:55.288+02:00"	"2024-10-15T23:08:55.288+02:00"	"swiss.ricardo.iphone"	"api.appcues.net"	""	1
+"2024-10-15T23:08:55.308+02:00"	"2024-10-15T23:08:55.308+02:00"	"swiss.ricardo.iphone"	"wave.outbrain.com"	""	1
+"2024-10-15T23:08:54.614+02:00"	"2024-10-15T23:08:54.614+02:00"	"swiss.ricardo.iphone"	"bat.bing.com"	"Microsoft Corporation"	1
+"2024-10-15T23:08:53.230+02:00"	"2024-10-15T23:08:53.230+02:00"	"swiss.ricardo.iphone"	"fonts.googleapis.com"	""	1
+"2024-10-15T23:08:49.333+02:00"	"2024-10-15T23:08:49.333+02:00"	"swiss.ricardo.iphone"	"device-provisioning.googleapis.com"	""	1
+"2024-10-15T23:08:55.317+02:00"	"2024-10-15T23:08:55.317+02:00"	"swiss.ricardo.iphone"	"static.scarabresearch.com"	""	1
+"2024-10-15T23:08:55.327+02:00"	"2024-10-15T23:08:55.327+02:00"	"swiss.ricardo.iphone"	"tr.outbrain.com"	""	1
+"2024-10-15T23:08:54.628+02:00"	"2024-10-15T23:08:54.628+02:00"	"swiss.ricardo.iphone"	"amplify.outbrain.com"	""	1
+"2024-10-15T23:08:53.759+02:00"	"2024-10-15T23:08:53.759+02:00"	"swiss.ricardo.iphone"	"ingest.sentry.io"	"Functional Software, Inc."	1
+"2024-10-15T23:08:54.618+02:00"	"2024-10-15T23:08:54.618+02:00"	"swiss.ricardo.iphone"	"p.teads.tv"	""	1
+"2024-10-15T23:08:55.769+02:00"	"2024-10-15T23:08:55.769+02:00"	"swiss.ricardo.iphone"	"tr6.snapchat.com"	"Snap Inc."	1
+"2024-10-15T23:08:54.553+02:00"	"2024-10-15T23:08:54.553+02:00"	"swiss.ricardo.iphone"	"pagead2.googlesyndication.com"	"Google LLC"	1
+"2024-10-15T23:08:55.483+02:00"	"2024-10-15T23:08:55.483+02:00"	"swiss.ricardo.iphone"	"ct.pinterest.com"	""	1
+"2024-10-15T23:08:54.077+02:00"	"2024-10-15T23:08:54.077+02:00"	"swiss.ricardo.iphone"	"fast.appcues.com"	""	1
+"2024-10-15T23:08:54.631+02:00"	"2024-10-15T23:08:54.631+02:00"	"swiss.ricardo.iphone"	"api.marketing.swissmarketplace.group"	""	1
+"2024-10-15T23:08:54.634+02:00"	"2024-10-18T10:07:26.934+02:00"	"swiss.ricardo.iphone"	"acdn.adnxs.com"	""	2
+"2024-10-15T23:08:54.999+02:00"	"2024-10-15T23:08:54.999+02:00"	"swiss.ricardo.iphone"	"region1.google-analytics.com"	"Google LLC"	1
+"2024-10-15T23:08:53.236+02:00"	"2024-10-15T23:08:53.236+02:00"	"swiss.ricardo.iphone"	"static.cloudflareinsights.com"	""	1
+"2024-10-15T23:09:06.497+02:00"	"2024-10-18T10:07:27.449+02:00"	"swiss.ricardo.iphone"	"g.doubleclick.net"	"Google LLC"	2
+"2024-10-15T23:08:55.379+02:00"	"2024-10-15T23:08:55.379+02:00"	"swiss.ricardo.iphone"	"tr.snapchat.com"	"Snap Inc."	1
+"2024-10-15T23:09:06.749+02:00"	"2024-10-15T23:09:06.749+02:00"	"swiss.ricardo.iphone"	"cm.creativecdn.com"	""	1
+"2024-10-15T23:08:53.964+02:00"	"2024-10-15T23:08:53.964+02:00"	"swiss.ricardo.iphone"	"static.zdassets.com"	""	1
+"2024-10-15T23:08:54.438+02:00"	"2024-10-15T23:08:54.438+02:00"	"swiss.ricardo.iphone"	"ekr.zdassets.com"	""	1
+"2024-10-15T23:08:54.551+02:00"	"2024-10-15T23:08:54.551+02:00"	"swiss.ricardo.iphone"	"tags.creativecdn.com"	""	1
+"2024-10-15T23:08:55.351+02:00"	"2024-10-15T23:08:55.351+02:00"	"swiss.ricardo.iphone"	"cm.teads.tv"	""	1
+"2024-10-15T23:08:54.568+02:00"	"2024-10-15T23:08:54.568+02:00"	"swiss.ricardo.iphone"	"s.pinimg.com"	""	1
+"2024-10-15T23:08:55.585+02:00"	"2024-10-15T23:08:55.585+02:00"	"swiss.ricardo.iphone"	"t.teads.tv"	""	1
+"2024-10-15T23:08:52.511+02:00"	"2024-10-15T23:08:52.511+02:00"	"swiss.ricardo.iphone"	"www.ricardo.ch"	""	1
+"2024-10-15T23:08:49.584+02:00"	"2024-10-15T23:08:49.584+02:00"	"swiss.ricardo.iphone"	"fcmtoken.googleapis.com"	""	1
+"2024-10-18T10:08:00.241+02:00"	"2024-10-18T10:08:00.241+02:00"	"swiss.ricardo.iphone"	"gspe19-2-ssl.ls.apple.com"	""	1
+"2024-10-18T10:07:26.932+02:00"	"2024-10-18T10:07:26.932+02:00"	"swiss.ricardo.iphone"	"ib.adnxs-simple.com"	""	1
+"2024-10-18T10:07:59.536+02:00"	"2024-10-18T10:07:59.536+02:00"	"swiss.ricardo.iphone"	"gsp-ssl.ls.apple.com"	""	1
+"2024-10-18T10:08:00.215+02:00"	"2024-10-18T10:08:00.215+02:00"	"swiss.ricardo.iphone"	"gspe19-ssl.ls.apple.com"	""	1
+"2024-10-18T10:08:11.890+02:00"	"2024-10-18T10:08:11.890+02:00"	"swiss.ricardo.iphone"	"reporting.aatkit.com"	""	1
+"2024-10-12T11:29:19.636+02:00"	"2024-10-12T11:29:19.636+02:00"	"com.duolingo.DuolingoMobile"	"www.gstatic.com"	""	1
+"2024-10-12T11:29:24.236+02:00"	"2024-10-18T21:33:38.100+02:00"	"com.duolingo.DuolingoMobile"	"cdn-creatives-cf-prd.acquire.unity3dusercontent.com"	""	4
+"2024-10-12T11:29:21.557+02:00"	"2024-10-17T23:57:00.059+02:00"	"com.duolingo.DuolingoMobile"	"lh5.googleusercontent.com"	""	2
+"2024-10-14T11:03:49.717+02:00"	"2024-10-14T11:03:49.717+02:00"	"com.duolingo.DuolingoMobile"	"d2h7jmc5kw17oy.cloudfront.net"	""	1
+"2024-10-15T23:10:30.312+02:00"	"2024-10-18T21:33:14.936+02:00"	"com.duolingo.DuolingoMobile"	"firebase-settings.crashlytics.com"	"Google LLC"	3
+"2024-10-15T23:10:31.993+02:00"	"2024-10-18T21:34:37.558+02:00"	"com.duolingo.DuolingoMobile"	"amp-api-edge.apps.apple.com"	""	6
+"2024-10-15T23:10:31.339+02:00"	"2024-10-18T21:33:16.266+02:00"	"com.duolingo.DuolingoMobile"	"goals-api.duolingo.com"	""	8
+"2024-10-15T23:10:30.290+02:00"	"2024-10-18T21:35:01.995+02:00"	"com.duolingo.DuolingoMobile"	"inappcheck.itunes.apple.com"	""	5
+"2024-10-15T23:10:31.013+02:00"	"2024-10-18T21:33:15.688+02:00"	"com.duolingo.DuolingoMobile"	"graph.facebook.com"	""	4
+"2024-10-15T23:10:30.637+02:00"	"2024-10-18T21:33:15.051+02:00"	"com.duolingo.DuolingoMobile"	"stories.duolingo.com"	""	8
+"2024-10-15T23:10:34.168+02:00"	"2024-10-16T23:05:21.788+02:00"	"com.duolingo.DuolingoMobile"	"static-ssl.duolingo.com"	""	2
+"2024-10-15T23:10:33.684+02:00"	"2024-10-18T21:33:18.256+02:00"	"com.duolingo.DuolingoMobile"	"googleads.g.doubleclick.net"	"Google LLC"	4
+"2024-10-15T23:10:30.436+02:00"	"2024-10-19T10:44:53.223+02:00"	"com.duolingo.DuolingoMobile"	"ios-api-2.duolingo.com"	""	23
+"2024-10-15T23:10:31.025+02:00"	"2024-10-18T21:33:15.855+02:00"	"com.duolingo.DuolingoMobile"	"zombie.duolingo.com"	""	4
+"2024-10-15T23:10:34.953+02:00"	"2024-10-18T21:35:29.556+02:00"	"com.duolingo.DuolingoMobile"	"simg-ssl.duolingo.com"	""	8
+"2024-10-15T23:10:34.323+02:00"	"2024-10-17T23:57:23.866+02:00"	"com.duolingo.DuolingoMobile"	"crashlyticsreports-pa.googleapis.com"	"Google LLC"	3
+"2024-10-15T23:10:31.983+02:00"	"2024-10-18T21:33:16.327+02:00"	"com.duolingo.DuolingoMobile"	"math-prod.duolingo.com"	""	4
+"2024-10-15T23:10:30.526+02:00"	"2024-10-18T21:33:14.977+02:00"	"com.duolingo.DuolingoMobile"	"duolingo-leaderboards-prod.duolingo.com"	""	9
+"2024-10-15T23:10:30.865+02:00"	"2024-10-18T21:33:15.573+02:00"	"com.duolingo.DuolingoMobile"	"brb.duolingo.com"	""	4
+"2024-10-15T23:10:31.988+02:00"	"2024-10-18T21:35:15.944+02:00"	"com.duolingo.DuolingoMobile"	"www.recaptcha.net"	"Google LLC"	8
+"2024-10-15T23:10:31.322+02:00"	"2024-10-18T21:33:16.145+02:00"	"com.duolingo.DuolingoMobile"	"midas-bandits-prod.duolingo.com"	""	9
+"2024-10-15T23:10:30.849+02:00"	"2024-10-19T10:44:53.367+02:00"	"com.duolingo.DuolingoMobile"	"ocsp.godaddy.com"	""	5
+"2024-10-15T23:10:32.870+02:00"	"2024-10-18T21:33:19.075+02:00"	"com.duolingo.DuolingoMobile"	"duolingo-achievements-prod.duolingo.com"	""	8
+"2024-10-15T23:10:31.009+02:00"	"2024-10-18T21:33:15.751+02:00"	"com.duolingo.DuolingoMobile"	"localization-duostrings.duolingo.com"	""	4
+"2024-10-15T23:10:33.198+02:00"	"2024-10-17T23:58:01.085+02:00"	"com.duolingo.DuolingoMobile"	"d1vq87e9lcf771.cloudfront.net"	""	6
+"2024-10-15T23:10:36.885+02:00"	"2024-10-17T23:58:01.094+02:00"	"com.duolingo.DuolingoMobile"	"d2pur3iezf4d1j.cloudfront.net"	""	3
+"2024-10-15T23:10:51.478+02:00"	"2024-10-18T21:33:25.628+02:00"	"com.duolingo.DuolingoMobile"	"auction-load.unityads.unity3d.com"	"Unity Software Inc."	4
+"2024-10-15T23:11:36.374+02:00"	"2024-10-15T23:11:36.374+02:00"	"com.duolingo.DuolingoMobile"	"stories-cdn.duolingo.com"	""	1
+"2024-10-15T23:10:49.595+02:00"	"2024-10-18T21:33:25.349+02:00"	"com.duolingo.DuolingoMobile"	"ep7.facebook.com"	""	3
+"2024-10-15T23:10:50.105+02:00"	"2024-10-15T23:10:50.105+02:00"	"com.duolingo.DuolingoMobile"	"lh4.googleusercontent.com"	""	1
+"2024-10-15T23:11:00.031+02:00"	"2024-10-17T23:56:54.835+02:00"	"com.duolingo.DuolingoMobile"	"firebaselogging-pa.googleapis.com"	"Google LLC"	2
+"2024-10-15T23:10:50.186+02:00"	"2024-10-18T21:33:39.386+02:00"	"com.duolingo.DuolingoMobile"	"unityads.unity3d.com"	"Unity Software Inc."	3
+"2024-10-15T23:10:51.459+02:00"	"2024-10-18T21:33:35.812+02:00"	"com.duolingo.DuolingoMobile"	"events.mz.unity3d.com"	"Unity Software Inc."	4
+"2024-10-15T23:10:51.550+02:00"	"2024-10-18T21:33:36.013+02:00"	"com.duolingo.DuolingoMobile"	"mz.unity3d.com"	"Unity Software Inc."	3
+"2024-10-15T23:10:51.532+02:00"	"2024-10-18T21:33:36.056+02:00"	"com.duolingo.DuolingoMobile"	"ocsp.digicert.com"	""	3
+"2024-10-15T23:10:50.103+02:00"	"2024-10-18T21:33:35.791+02:00"	"com.duolingo.DuolingoMobile"	"lh3.googleusercontent.com"	""	2
+"2024-10-15T23:10:49.562+02:00"	"2024-10-18T21:33:19.130+02:00"	"com.duolingo.DuolingoMobile"	"configv2.unityads.unity3d.com"	"Unity Software Inc."	4
+"2024-10-15T23:10:50.088+02:00"	"2024-10-18T21:33:35.783+02:00"	"com.duolingo.DuolingoMobile"	"tpc.googlesyndication.com"	""	3
+"2024-10-15T23:10:50.139+02:00"	"2024-10-18T21:33:35.846+02:00"	"com.duolingo.DuolingoMobile"	"pagead2.googlesyndication.com"	"Google LLC"	4
+"2024-10-15T23:10:49.231+02:00"	"2024-10-18T21:33:33.983+02:00"	"com.duolingo.DuolingoMobile"	"pubads.g.doubleclick.net"	"Google LLC"	4
+"2024-10-15T23:11:30.907+02:00"	"2024-10-19T10:44:53.219+02:00"	"com.duolingo.DuolingoMobile"	"excess.duolingo.com"	""	22
+"2024-10-15T23:10:51.455+02:00"	"2024-10-18T21:33:25.593+02:00"	"com.duolingo.DuolingoMobile"	"thind.unityads.unity3d.com"	"Unity Software Inc."	4
+"2024-10-16T23:05:33.752+02:00"	"2024-10-16T23:05:33.752+02:00"	"com.duolingo.DuolingoMobile"	"d3kwyfyztuo0xs.cloudfront.net"	""	1
+"2024-10-16T23:07:20.305+02:00"	"2024-10-16T23:07:20.305+02:00"	"com.duolingo.DuolingoMobile"	"schools.duolingo.com"	""	1
+"2024-10-17T23:57:00.063+02:00"	"2024-10-17T23:57:00.063+02:00"	"com.duolingo.DuolingoMobile"	"lh6.googleusercontent.com"	""	1
+"2024-10-17T23:56:55.612+02:00"	"2024-10-17T23:56:55.612+02:00"	"com.duolingo.DuolingoMobile"	"friends.duolingo.com"	""	1
+"2024-10-18T21:35:01.467+02:00"	"2024-10-18T21:35:01.467+02:00"	"com.duolingo.DuolingoMobile"	"mzstorekit.itunes.apple.com"	""	1
+"2024-10-18T21:33:19.297+02:00"	"2024-10-18T21:33:19.297+02:00"	"com.duolingo.DuolingoMobile"	"firebaseinstallations.googleapis.com"	""	1
+"2024-10-18T21:33:18.482+02:00"	"2024-10-18T21:33:18.482+02:00"	"com.duolingo.DuolingoMobile"	"g.doubleclick.net"	"Google LLC"	1
+"2024-10-14T14:12:36.644+02:00"	"2024-10-14T17:19:47.494+02:00"	"com.adobe.Adobe-Reader"	"files.acrobat.com"	""	2
+"2024-10-14T14:12:44.614+02:00"	"2024-10-14T17:19:59.129+02:00"	"com.adobe.Adobe-Reader"	"pps.services.adobe.com"	""	2
+"2024-10-14T14:12:36.705+02:00"	"2024-10-14T17:19:47.451+02:00"	"com.adobe.Adobe-Reader"	"api3.branch.io"	""	4
+"2024-10-14T14:12:34.593+02:00"	"2024-10-14T17:19:46.631+02:00"	"com.adobe.Adobe-Reader"	"dpm.demdex.net"	"Adobe Inc."	2
+"2024-10-14T14:12:36.510+02:00"	"2024-10-14T17:19:47.222+02:00"	"com.adobe.Adobe-Reader"	"amp-api-edge.apps.apple.com"	""	3
+"2024-10-14T14:12:43.763+02:00"	"2024-10-14T17:19:59.096+02:00"	"com.adobe.Adobe-Reader"	"dcdiscovery.adobe.io"	""	2
+"2024-10-14T14:12:43.023+02:00"	"2024-10-14T17:19:47.484+02:00"	"com.adobe.Adobe-Reader"	"ais.adobe.io"	""	4
+"2024-10-14T14:12:36.641+02:00"	"2024-10-14T14:12:36.641+02:00"	"com.adobe.Adobe-Reader"	"mzstorekit.itunes.apple.com"	""	1
+"2024-10-14T14:12:34.536+02:00"	"2024-10-14T17:19:46.652+02:00"	"com.adobe.Adobe-Reader"	"assets.adobedtm.com"	""	2
+"2024-10-14T14:12:42.985+02:00"	"2024-10-14T17:19:47.087+02:00"	"com.adobe.Adobe-Reader"	"lcs-mobile-cops.adobe.io"	""	4
+"2024-10-14T14:12:36.709+02:00"	"2024-10-14T17:19:48.274+02:00"	"com.adobe.Adobe-Reader"	"cdn.branch.io"	""	2
+"2024-10-14T14:12:43.749+02:00"	"2024-10-14T17:19:59.062+02:00"	"com.adobe.Adobe-Reader"	"dc-api-v2.adobe.io"	""	7
+"2024-10-14T14:12:35.154+02:00"	"2024-10-14T17:19:47.228+02:00"	"com.adobe.Adobe-Reader"	"iad-05.braze.com"	"Braze, Inc."	4
+"2024-10-14T14:12:43.373+02:00"	"2024-10-14T17:19:58.986+02:00"	"com.adobe.Adobe-Reader"	"send-asr.acrobat.com"	""	4
+"2024-10-14T14:12:45.125+02:00"	"2024-10-14T17:19:59.121+02:00"	"com.adobe.Adobe-Reader"	"adobesearch-sec-uss.adobe.io"	""	4
+"2024-10-14T14:12:43.959+02:00"	"2024-10-14T17:19:59.648+02:00"	"com.adobe.Adobe-Reader"	"dc-genai-access-provisioning-api.adobe.io"	""	2
+"2024-10-14T14:12:40.844+02:00"	"2024-10-14T17:19:52.988+02:00"	"com.adobe.Adobe-Reader"	"in.appcenter.ms"	"Microsoft Corporation"	2
+"2024-10-14T14:12:43.237+02:00"	"2024-10-14T17:19:47.371+02:00"	"com.adobe.Adobe-Reader"	"dc-api.adobe.io"	""	2
+"2024-10-14T14:12:44.024+02:00"	"2024-10-14T17:20:00.032+02:00"	"com.adobe.Adobe-Reader"	"api.eu2.adobesign.com"	""	2
+"2024-10-14T14:12:44.320+02:00"	"2024-10-14T17:19:58.528+02:00"	"com.adobe.Adobe-Reader"	"pps.adobe.io"	""	2
+"2024-10-14T14:12:36.646+02:00"	"2024-10-14T17:19:48.225+02:00"	"com.adobe.Adobe-Reader"	"sc.omtrdc.net"	"Adobe Inc."	6
+"2024-10-14T14:12:43.241+02:00"	"2024-10-14T17:19:58.738+02:00"	"com.adobe.Adobe-Reader"	"api.echosign.com"	""	2
+"2024-10-14T14:12:35.109+02:00"	"2024-10-14T17:19:47.247+02:00"	"com.adobe.Adobe-Reader"	"ep2.facebook.com"	""	2
+"2024-10-14T14:12:36.635+02:00"	"2024-10-14T17:19:47.449+02:00"	"com.adobe.Adobe-Reader"	"ims-na1.adobelogin.com"	""	2
+"2024-10-14T14:12:36.732+02:00"	"2024-10-14T17:19:49.371+02:00"	"com.adobe.Adobe-Reader"	"cc-api-data.adobe.io"	""	6
+"2024-10-14T14:12:34.528+02:00"	"2024-10-14T17:19:46.617+02:00"	"com.adobe.Adobe-Reader"	"csdkapi-policy.adobe.com"	""	4
+"2024-10-14T14:12:43.039+02:00"	"2024-10-14T17:19:47.868+02:00"	"com.adobe.Adobe-Reader"	"createpdf.acrobat.com"	""	4
+"2024-10-14T14:12:35.159+02:00"	"2024-10-14T17:19:47.488+02:00"	"com.adobe.Adobe-Reader"	"api.dropbox.com"	""	2
+"2024-10-14T14:12:45.129+02:00"	"2024-10-14T17:19:59.117+02:00"	"com.adobe.Adobe-Reader"	"adobesearch.adobe.io"	""	6
+"2024-10-14T14:12:45.696+02:00"	"2024-10-14T17:20:01.596+02:00"	"com.adobe.Adobe-Reader"	"dc-api-v2.adobecontent.io"	""	2
+"2024-10-14T14:12:36.638+02:00"	"2024-10-14T17:19:46.983+02:00"	"com.adobe.Adobe-Reader"	"data.adobedc.net"	"Adobe Inc."	2
+"2024-10-14T14:12:44.438+02:00"	"2024-10-14T17:19:48.024+02:00"	"com.adobe.Adobe-Reader"	"notify.adobe.io"	""	3
+"2024-10-14T14:12:35.063+02:00"	"2024-10-14T14:12:35.063+02:00"	"com.adobe.Adobe-Reader"	"inappcheck.itunes.apple.com"	""	1
+"2024-10-14T14:15:05.981+02:00"	"2024-10-14T17:19:47.735+02:00"	"com.adobe.Adobe-Reader"	"www.googleapis.com"	""	7
+"2024-10-14T14:15:45.886+02:00"	"2024-10-14T17:19:50.791+02:00"	"com.adobe.Adobe-Reader"	"lh3.googleusercontent.com"	""	4
+"2024-10-14T21:54:41.929+02:00"	"2024-10-14T22:07:01.989+02:00"	"ch.galaxus.nativeApp"	"ub.galaxus.ch"	""	3
+"2024-10-14T21:54:55.626+02:00"	"2024-10-14T22:06:30.840+02:00"	"ch.galaxus.nativeApp"	"data.galaxus.ch"	""	2
+"2024-10-14T21:54:41.926+02:00"	"2024-10-14T21:54:41.926+02:00"	"ch.galaxus.nativeApp"	"firebaseremoteconfig.googleapis.com"	"Google LLC"	1
+"2024-10-14T21:54:41.177+02:00"	"2024-10-14T22:06:29.161+02:00"	"ch.galaxus.nativeApp"	"www.galaxus.ch"	""	3
+"2024-10-14T21:54:41.928+02:00"	"2024-10-14T21:54:41.928+02:00"	"ch.galaxus.nativeApp"	"id.digitecgalaxus.ch"	""	1
+"2024-10-14T21:54:50.814+02:00"	"2024-10-14T21:54:50.814+02:00"	"ch.galaxus.nativeApp"	"s.go-mpulse.net"	""	1
+"2024-10-14T21:54:41.938+02:00"	"2024-10-14T21:54:41.938+02:00"	"ch.galaxus.nativeApp"	"static.digitecgalaxus.ch"	""	1
+"2024-10-14T21:54:51.550+02:00"	"2024-10-14T21:54:51.550+02:00"	"ch.galaxus.nativeApp"	"www.googletagmanager.com"	"Google LLC"	1
+"2024-10-14T21:55:05.266+02:00"	"2024-10-14T21:55:05.266+02:00"	"ch.galaxus.nativeApp"	"browser-intake-datadoghq.eu"	""	1
+"2024-10-14T21:54:41.931+02:00"	"2024-10-14T21:54:41.931+02:00"	"ch.galaxus.nativeApp"	"firebaseinstallations.googleapis.com"	""	1
+"2024-10-14T21:54:51.999+02:00"	"2024-10-14T21:54:51.999+02:00"	"ch.galaxus.nativeApp"	"c.go-mpulse.net"	""	1
+"2024-10-14T21:54:41.181+02:00"	"2024-10-14T21:54:41.181+02:00"	"ch.galaxus.nativeApp"	"0.datadog.pool.ntp.org"	""	1
+"2024-10-14T22:06:55.383+02:00"	"2024-10-14T22:06:55.383+02:00"	"ch.galaxus.nativeApp"	"retail.googleapis.com"	""	1
+"2024-10-11T22:31:51.441+02:00"	"2024-10-18T21:59:12.977+02:00"	"com.burbn.instagram"	"157.240.17.63"	""	12
+"2024-10-11T22:31:59.033+02:00"	"2024-10-19T06:05:09.622+02:00"	"com.burbn.instagram"	"graph.facebook.com"	"Facebook, Inc."	8
+"2024-10-11T22:32:02.790+02:00"	"2024-10-18T21:59:12.972+02:00"	"com.burbn.instagram"	"157.240.17.3"	""	9
+"2024-10-11T22:32:01.924+02:00"	"2024-10-19T06:05:10.471+02:00"	"com.burbn.instagram"	"mzstorekit.itunes.apple.com"	""	5
+"2024-10-11T22:31:59.049+02:00"	"2024-10-19T06:05:09.601+02:00"	"com.burbn.instagram"	"www.facebook.com"	"Facebook, Inc."	5
+"2024-10-11T22:32:14.809+02:00"	"2024-10-18T21:59:19.347+02:00"	"com.burbn.instagram"	"157.240.17.17"	""	5
+"2024-10-11T22:34:15.452+02:00"	"2024-10-19T06:05:10.699+02:00"	"com.burbn.instagram"	"mqtt.c10r.facebook.com"	""	5
+"2024-10-12T02:13:55.278+02:00"	"2024-10-19T06:05:09.907+02:00"	"com.burbn.instagram"	"2a03:2880:f05b:19:face:b00c:0:8e"	""	4
+"2024-10-13T01:12:07.432+02:00"	"2024-10-18T21:59:23.744+02:00"	"com.burbn.instagram"	"157.240.17.24"	""	6
+"2024-10-14T22:27:40.163+02:00"	"2024-10-15T22:18:40.159+02:00"	"com.burbn.instagram"	"instagram.c10r.instagram.com"	""	2
+"2024-10-14T22:27:43.976+02:00"	"2024-10-14T22:27:43.976+02:00"	"com.burbn.instagram"	"9C2D21F1-8783-4C8B-86B8-5ADD9CBBC0EE-netseer-ipaddr-assoc.xz.fbcdn.net"	""	1
+"2024-10-14T22:27:40.781+02:00"	"2024-10-15T22:18:40.220+02:00"	"com.burbn.instagram"	"web.facebook.com"	"Facebook, Inc."	2
+"2024-10-14T22:27:40.197+02:00"	"2024-10-14T22:27:40.197+02:00"	"com.burbn.instagram"	"31.13.84.52"	""	1
+"2024-10-14T22:27:38.004+02:00"	"2024-10-14T22:27:38.004+02:00"	"com.burbn.instagram"	"213.55.137.225"	""	1
+"2024-10-14T22:27:44.097+02:00"	"2024-10-14T22:27:44.097+02:00"	"com.burbn.instagram"	"157.240.237.40"	""	1
+"2024-10-14T22:27:41.686+02:00"	"2024-10-14T22:27:41.686+02:00"	"com.burbn.instagram"	"213.55.137.211"	""	1
+"2024-10-14T22:31:27.131+02:00"	"2024-10-15T22:19:41.947+02:00"	"com.burbn.instagram"	"chat-e2ee-ig-p42.c10r.facebook.com"	""	2
+"2024-10-15T22:18:48.498+02:00"	"2024-10-15T22:18:48.498+02:00"	"com.burbn.instagram"	"scontent-zrh1-1.cdninstagram.com"	""	1
+"2024-10-15T22:18:40.166+02:00"	"2024-10-15T22:18:40.166+02:00"	"com.burbn.instagram"	"157.240.0.63"	""	1
+"2024-10-17T22:34:30.612+02:00"	"2024-10-17T22:34:30.612+02:00"	"com.burbn.instagram"	"2a03:2880:f05b:3:face:b00c:0:6206"	""	1
+"2024-10-17T22:34:30.594+02:00"	"2024-10-19T06:05:08.706+02:00"	"com.burbn.instagram"	"2a03:2880:f25b:cc:face:b00c:0:43fe"	""	2
+"2024-10-18T21:59:12.554+02:00"	"2024-10-18T21:59:12.554+02:00"	"com.burbn.instagram"	"dgw.c10r.facebook.com"	""	1
+"2024-10-12T04:06:54.560+02:00"	"2024-10-19T06:04:46.977+02:00"	"com.apple.Fitness"	"entitlements.itunes.apple.com"	""	28
+"2024-10-12T09:26:45.117+02:00"	"2024-10-18T09:36:05.184+02:00"	"com.8bit.bitwarden"	"api.bitwarden.com"	""	7
+"2024-10-14T13:18:36.635+02:00"	"2024-10-18T09:36:06.476+02:00"	"com.8bit.bitwarden"	"identity.bitwarden.com"	""	3
+"2024-10-14T13:18:36.643+02:00"	"2024-10-16T10:10:08.157+02:00"	"com.8bit.bitwarden"	"firebase-settings.crashlytics.com"	"Google LLC"	2
+"2024-10-14T13:19:22.030+02:00"	"2024-10-15T23:08:38.913+02:00"	"com.8bit.bitwarden"	"firebaselogging-pa.googleapis.com"	"Google LLC"	4
+"2024-10-14T14:14:08.695+02:00"	"2024-10-15T23:05:50.829+02:00"	"com.8bit.bitwarden"	"icons.bitwarden.net"	""	2
+"2024-10-12T11:37:32.651+02:00"	"2024-10-13T09:13:31.357+02:00"	"com.google.Drive"	"oauth2.googleapis.com"	""	2
+"2024-10-12T11:37:33.355+02:00"	"2024-10-13T09:13:34.149+02:00"	"com.google.Drive"	"lh3.googleusercontent.com"	""	3
+"2024-10-12T11:37:45.820+02:00"	"2024-10-12T11:41:18.165+02:00"	"com.google.Drive"	"blobcomments-pa.googleapis.com"	""	2
+"2024-10-12T11:37:34.172+02:00"	"2024-10-12T11:37:34.172+02:00"	"com.google.Drive"	"growth-pa.googleapis.com"	""	1
+"2024-10-12T11:37:33.800+02:00"	"2024-10-13T09:13:34.139+02:00"	"com.google.Drive"	"inappcheck.itunes.apple.com"	""	2
+"2024-10-12T11:37:33.184+02:00"	"2024-10-13T09:13:33.841+02:00"	"com.google.Drive"	"drivefrontend-pa.googleapis.com"	""	3
+"2024-10-12T11:37:32.648+02:00"	"2024-10-13T09:13:31.352+02:00"	"com.google.Drive"	"oauthaccountmanager.googleapis.com"	""	2
+"2024-10-12T11:37:32.659+02:00"	"2024-10-12T11:41:33.075+02:00"	"com.google.Drive"	"ssl.gstatic.com"	""	3
+"2024-10-12T11:37:32.663+02:00"	"2024-10-13T09:13:31.549+02:00"	"com.google.Drive"	"www.googleapis.com"	""	3
+"2024-10-12T11:37:33.348+02:00"	"2024-10-13T09:13:34.545+02:00"	"com.google.Drive"	"notifications-pa.googleapis.com"	""	2
+"2024-10-12T11:37:32.970+02:00"	"2024-10-13T09:13:33.566+02:00"	"com.google.Drive"	"feedback-pa.googleapis.com"	""	2
+"2024-10-12T11:37:33.345+02:00"	"2024-10-12T11:37:33.345+02:00"	"com.google.Drive"	"peoplestack-pa.googleapis.com"	""	1
+"2024-10-12T11:37:33.352+02:00"	"2024-10-13T09:13:34.250+02:00"	"com.google.Drive"	"scone-pa.googleapis.com"	""	2
+"2024-10-12T11:37:32.661+02:00"	"2024-10-12T11:37:32.661+02:00"	"com.google.Drive"	"clienttracing-pa.googleapis.com"	""	1
+"2024-10-12T11:37:33.078+02:00"	"2024-10-13T09:13:33.802+02:00"	"com.google.Drive"	"people-pa.googleapis.com"	""	2
+"2024-10-12T11:38:18.322+02:00"	"2024-10-12T11:38:18.322+02:00"	"com.google.Drive"	"play.googleapis.com"	""	1
+"2024-10-12T20:20:42.087+02:00"	"2024-10-14T16:41:37.308+02:00"	"com.apple.mobileslideshow"	"gspe19-2-ssl.ls.apple.com"	""	3
+"2024-10-12T23:48:57.589+02:00"	"2024-10-18T21:59:33.349+02:00"	"com.apple.mobileslideshow"	"gateway.icloud.com"	""	18
+"2024-10-12T09:20:41.777+02:00"	"2024-10-16T13:38:52.473+02:00"	"com.apple.Health"	"ontology.health.apple.com"	""	12
+"2024-10-17T15:02:24.721+02:00"	"2024-10-17T15:02:24.721+02:00"	"com.apple.Health"	"config-chr.health.apple.com"	""	1
+"2024-10-15T10:38:24.736+02:00"	"2024-10-16T00:38:00.622+02:00"	"ch.migros.m-go"	"recipeimages.migros.ch"	""	2
+"2024-10-15T10:38:24.548+02:00"	"2024-10-16T14:46:52.575+02:00"	"ch.migros.m-go"	"image.migros.ch"	""	4
+"2024-10-15T10:38:54.202+02:00"	"2024-10-16T00:38:30.947+02:00"	"ch.migros.m-go"	"crashlyticsreports-pa.googleapis.com"	"Google LLC"	3
+"2024-10-15T10:38:22.935+02:00"	"2024-10-16T15:40:26.909+02:00"	"ch.migros.m-go"	"zn2ry9eoxnkezg3vi-migroscx.siteintercept.qualtrics.com"	""	6
+"2024-10-15T10:38:23.024+02:00"	"2024-10-16T15:40:25.499+02:00"	"ch.migros.m-go"	"mobile-app.migros.ch"	""	6
+"2024-10-15T10:38:22.901+02:00"	"2024-10-15T10:38:22.901+02:00"	"ch.migros.m-go"	"firebase-settings.crashlytics.com"	"Google LLC"	1
+"2024-10-15T10:38:22.919+02:00"	"2024-10-16T15:40:25.172+02:00"	"ch.migros.m-go"	"login.migros.ch"	""	6
+"2024-10-15T10:38:23.013+02:00"	"2024-10-16T15:40:25.504+02:00"	"ch.migros.m-go"	"mobile.www.migros.ch"	""	6
+"2024-10-15T10:38:22.953+02:00"	"2024-10-16T14:46:51.393+02:00"	"ch.migros.m-go"	"r10.o.lencr.org"	""	3
+"2024-10-15T10:38:22.933+02:00"	"2024-10-15T10:38:22.933+02:00"	"ch.migros.m-go"	"subito-go.migros.ch"	""	1
+"2024-10-15T10:38:32.644+02:00"	"2024-10-16T15:40:25.074+02:00"	"ch.migros.m-go"	"app-analytics-services.com"	""	7
+"2024-10-15T10:38:23.620+02:00"	"2024-10-16T14:46:52.122+02:00"	"ch.migros.m-go"	"images.ctfassets.net"	""	4
+"2024-10-15T10:38:37.393+02:00"	"2024-10-16T15:40:34.042+02:00"	"ch.migros.m-go"	"region1.app-analytics-services.com"	""	7
+"2024-10-15T10:38:23.864+02:00"	"2024-10-15T10:38:23.864+02:00"	"ch.migros.m-go"	"www-leshop-ch-cld-res.cloudinary.com"	""	1
+"2024-10-15T10:38:23.064+02:00"	"2024-10-16T15:40:25.277+02:00"	"ch.migros.m-go"	"firebaseremoteconfig.googleapis.com"	"Google LLC"	5
+"2024-10-15T10:38:22.929+02:00"	"2024-10-16T15:40:25.526+02:00"	"ch.migros.m-go"	"firebaselogging-pa.googleapis.com"	"Google LLC"	8
+"2024-10-15T10:40:28.738+02:00"	"2024-10-16T00:42:52.068+02:00"	"ch.migros.m-go"	"172.217.168.42"	""	3
+"2024-10-15T10:40:32.594+02:00"	"2024-10-15T10:40:32.594+02:00"	"ch.migros.m-go"	"survey.qualtrics.com"	""	1
+"2024-10-16T14:46:51.401+02:00"	"2024-10-16T14:46:51.401+02:00"	"ch.migros.m-go"	"firebaseinstallations.googleapis.com"	""	1
+"2024-10-16T14:58:58.238+02:00"	"2024-10-16T14:58:58.238+02:00"	"ch.migros.m-go"	"216.58.215.234"	""	1
+"2024-10-16T23:16:23.545+02:00"	"2024-10-16T23:16:23.545+02:00"	"com.wakingup.wakingup"	"d2uk1wgjryl0y1.cloudfront.net"	""	1
+"2024-10-12T23:32:14.747+02:00"	"2024-10-12T23:32:14.747+02:00"	"com.shazam.Shazam"	"config.shazam.com"	""	1
+"2024-10-12T23:32:15.437+02:00"	"2024-10-12T23:44:02.432+02:00"	"com.shazam.Shazam"	"amp-api.music.apple.com"	""	3
+"2024-10-12T23:32:16.396+02:00"	"2024-10-12T23:44:02.641+02:00"	"com.shazam.Shazam"	"mvod.itunes.apple.com"	""	3
+"2024-10-12T23:32:15.460+02:00"	"2024-10-12T23:32:15.460+02:00"	"com.shazam.Shazam"	"sf-api-token-service.itunes.apple.com"	""	1
+"2024-10-12T23:32:16.377+02:00"	"2024-10-12T23:34:38.423+02:00"	"com.shazam.Shazam"	"gspe19-ssl.ls.apple.com"	""	2
+"2024-10-12T23:32:14.829+02:00"	"2024-10-12T23:32:14.829+02:00"	"com.shazam.Shazam"	"bag.itunes.apple.com"	""	1
+"2024-10-12T23:32:15.915+02:00"	"2024-10-12T23:44:02.441+02:00"	"com.shazam.Shazam"	"play.itunes.apple.com"	""	3
+"2024-10-12T23:32:14.986+02:00"	"2024-10-12T23:44:21.253+02:00"	"com.shazam.Shazam"	"is1-ssl.mzstatic.com"	""	3
+"2024-10-12T23:32:14.867+02:00"	"2024-10-12T23:44:02.413+02:00"	"com.shazam.Shazam"	"amp.shazam.com"	""	3
+"2024-10-12T23:32:15.572+02:00"	"2024-10-12T23:44:21.805+02:00"	"com.shazam.Shazam"	"i.ytimg.com"	""	3
+"2024-10-12T23:32:14.865+02:00"	"2024-10-12T23:44:02.442+02:00"	"com.shazam.Shazam"	"cdn.shazam.com"	""	3
+"2024-10-12T23:32:15.000+02:00"	"2024-10-12T23:32:15.000+02:00"	"com.shazam.Shazam"	"s.mzstatic.com"	""	1
+"2024-10-12T23:32:16.402+02:00"	"2024-10-12T23:34:38.425+02:00"	"com.shazam.Shazam"	"gspe21-ssl.ls.apple.com"	""	2
+"2024-10-12T23:32:16.399+02:00"	"2024-10-12T23:34:38.420+02:00"	"com.shazam.Shazam"	"gspe19-2-ssl.ls.apple.com"	""	2
+"2024-10-12T23:32:15.187+02:00"	"2024-10-12T23:32:15.187+02:00"	"com.shazam.Shazam"	"fpinit.itunes.apple.com"	""	1
+"2024-10-12T23:32:14.863+02:00"	"2024-10-13T01:12:00.541+02:00"	"com.shazam.Shazam"	"beacon.shazam.com"	""	5
+"2024-10-11T22:52:13.077+02:00"	"2024-10-17T03:09:39.423+02:00"	"com.apple.TestFlight"	"s.mzstatic.com"	""	4
+"2024-10-12T06:10:13.392+02:00"	"2024-10-19T06:09:23.479+02:00"	"com.apple.TestFlight"	"bag.itunes.apple.com"	""	34
+"2024-10-12T06:10:13.462+02:00"	"2024-10-19T06:09:23.622+02:00"	"com.apple.TestFlight"	"xp.apple.com"	""	36
+"2024-10-12T06:10:13.457+02:00"	"2024-10-19T06:09:23.548+02:00"	"com.apple.TestFlight"	"testflight.apple.com"	""	36
+"2024-10-12T14:10:35.448+02:00"	"2024-10-19T02:42:23.766+02:00"	"com.apple.TestFlight"	"fpinit.itunes.apple.com"	""	29
+"2024-10-13T23:27:10.139+02:00"	"2024-10-17T14:10:25.534+02:00"	"com.apple.TestFlight"	"ocsp2.apple.com"	""	4
+"2024-10-11T22:32:02.575+02:00"	"2024-10-18T16:18:05.434+02:00"	"com.apple.Maps"	"gateway.icloud.com"	""	7
+"2024-10-14T13:50:30.938+02:00"	"2024-10-14T14:41:55.655+02:00"	"com.apple.iBooks"	"gateway.icloud.com"	""	2
+"2024-10-14T14:42:00.840+02:00"	"2024-10-14T14:42:00.840+02:00"	"com.apple.iBooks"	"gcs-eu-00002.content-storage-download.googleapis.com"	""	1
+"2024-10-13T00:14:32.496+02:00"	"2024-10-19T10:47:28.019+02:00"	"com.neonbanking.app"	"app-measurement.com"	"Google LLC"	15
+"2024-10-13T00:14:32.389+02:00"	"2024-10-19T10:47:27.505+02:00"	"com.neonbanking.app"	"status.neon-free.ch"	""	12
+"2024-10-13T00:14:37.581+02:00"	"2024-10-19T10:47:34.258+02:00"	"com.neonbanking.app"	"static-assets.neon-free.ch"	""	11
+"2024-10-13T00:14:36.788+02:00"	"2024-10-19T10:47:31.628+02:00"	"com.neonbanking.app"	"api.finsign.ch"	""	12
+"2024-10-13T00:14:33.157+02:00"	"2024-10-19T10:47:28.690+02:00"	"com.neonbanking.app"	"api.hbl.ch"	""	12
+"2024-10-13T01:21:11.770+02:00"	"2024-10-19T10:47:26.915+02:00"	"com.neonbanking.app"	"firebaselogging-pa.googleapis.com"	"Google LLC"	7
+"2024-10-16T15:20:54.570+02:00"	"2024-10-16T15:20:54.570+02:00"	"com.neonbanking.app"	"device-provisioning.googleapis.com"	""	1
+"2024-10-16T15:20:54.579+02:00"	"2024-10-16T15:20:54.579+02:00"	"com.neonbanking.app"	"firebaseinstallations.googleapis.com"	""	1
+"2024-10-15T15:46:30.754+02:00"	"2024-10-18T17:44:26.762+02:00"	"net.nextbike.official2012"	"maps.nextbike.net"	""	9
+"2024-10-15T15:46:30.694+02:00"	"2024-10-18T17:44:26.754+02:00"	"net.nextbike.official2012"	"gspe19-ssl.ls.apple.com"	""	6
+"2024-10-15T15:46:29.850+02:00"	"2024-10-18T17:44:25.379+02:00"	"net.nextbike.official2012"	"api.usercentrics.eu"	""	3
+"2024-10-15T15:46:29.834+02:00"	"2024-10-18T17:44:25.372+02:00"	"net.nextbike.official2012"	"app.usercentrics.eu"	""	2
+"2024-10-15T15:46:30.676+02:00"	"2024-10-18T17:44:26.758+02:00"	"net.nextbike.official2012"	"gspe19-2-ssl.ls.apple.com"	""	7
+"2024-10-15T15:46:29.823+02:00"	"2024-10-18T17:44:25.368+02:00"	"net.nextbike.official2012"	"ep2.facebook.com"	""	5
+"2024-10-15T15:46:28.833+02:00"	"2024-10-18T17:44:23.835+02:00"	"net.nextbike.official2012"	"api.nextbike.net"	""	13
+"2024-10-15T15:46:30.738+02:00"	"2024-10-18T17:44:25.569+02:00"	"net.nextbike.official2012"	"aggregator.service.usercentrics.eu"	""	3
+"2024-10-15T15:46:28.721+02:00"	"2024-10-18T17:44:26.719+02:00"	"net.nextbike.official2012"	"static.nextbike.net"	""	13
+"2024-10-15T15:46:30.626+02:00"	"2024-10-18T17:44:26.690+02:00"	"net.nextbike.official2012"	"gsp-ssl.ls.apple.com"	""	12
+"2024-10-15T18:47:31.641+02:00"	"2024-10-15T18:47:31.641+02:00"	"net.nextbike.official2012"	"websites.nextbike.net"	""	1
+"2024-10-12T16:33:15.951+02:00"	"2024-10-19T11:07:26.604+02:00"	"org.whispersystems.signal"	"chat.signal.org"	""	156
+"2024-10-13T10:45:02.665+02:00"	"2024-10-19T11:07:26.596+02:00"	"org.whispersystems.signal"	"ud-chat.signal.org"	""	89
+"2024-10-13T10:45:03.767+02:00"	"2024-10-19T11:07:26.609+02:00"	"org.whispersystems.signal"	"fog.prod.mobilecoinww.com"	""	38
+"2024-10-13T10:45:02.961+02:00"	"2024-10-19T11:08:22.273+02:00"	"org.whispersystems.signal"	"ac88393aca5853df7.dualstack.awsglobalaccelerator.com"	""	82
+"2024-10-13T10:45:02.652+02:00"	"2024-10-19T10:36:38.252+02:00"	"org.whispersystems.signal"	"cdn2.signal.org"	""	20
+"2024-10-13T11:51:23.969+02:00"	"2024-10-19T09:58:01.326+02:00"	"org.whispersystems.signal"	"sfu.voip.signal.org"	""	36
+"2024-10-13T11:51:18.746+02:00"	"2024-10-18T16:51:28.642+02:00"	"org.whispersystems.signal"	"r10.o.lencr.org"	""	11
+"2024-10-13T11:51:23.720+02:00"	"2024-10-19T09:58:01.181+02:00"	"org.whispersystems.signal"	"storage.signal.org"	""	41
+"2024-10-13T16:21:45.182+02:00"	"2024-10-13T16:21:45.182+02:00"	"org.whispersystems.signal"	"maps.google.com"	""	1
+"2024-10-13T16:21:45.484+02:00"	"2024-10-13T16:21:45.484+02:00"	"org.whispersystems.signal"	"www.google.com"	""	1
+"2024-10-13T16:21:46.223+02:00"	"2024-10-13T16:21:46.223+02:00"	"org.whispersystems.signal"	"lh5.googleusercontent.com"	""	1
+"2024-10-13T16:21:44.727+02:00"	"2024-10-13T16:21:44.727+02:00"	"org.whispersystems.signal"	"maps.app.goo.gl"	""	1
+"2024-10-13T18:30:04.850+02:00"	"2024-10-17T18:39:36.514+02:00"	"org.whispersystems.signal"	"35.216.234.234"	""	7
+"2024-10-13T18:31:33.174+02:00"	"2024-10-13T18:31:33.174+02:00"	"org.whispersystems.signal"	"turn3.voip.signal.org"	""	1
+"2024-10-13T18:30:04.843+02:00"	"2024-10-17T18:38:02.730+02:00"	"org.whispersystems.signal"	"35.207.164.30"	""	4
+"2024-10-13T18:30:04.855+02:00"	"2024-10-13T18:34:58.921+02:00"	"org.whispersystems.signal"	"194.230.148.172"	""	2
+"2024-10-13T18:30:04.864+02:00"	"2024-10-13T18:34:58.918+02:00"	"org.whispersystems.signal"	"10.74.59.26"	""	2
+"2024-10-13T18:30:04.866+02:00"	"2024-10-17T18:37:58.551+02:00"	"org.whispersystems.signal"	"35.216.228.90"	""	7
+"2024-10-13T18:31:23.651+02:00"	"2024-10-17T18:37:58.456+02:00"	"org.whispersystems.signal"	"35.207.176.32"	""	4
+"2024-10-13T18:34:58.903+02:00"	"2024-10-13T18:34:58.903+02:00"	"org.whispersystems.signal"	"35.207.185.130"	""	1
+"2024-10-14T07:33:10.773+02:00"	"2024-10-18T16:51:29.265+02:00"	"org.whispersystems.signal"	"cdsi.signal.org"	""	6
+"2024-10-14T07:33:06.974+02:00"	"2024-10-18T16:51:29.017+02:00"	"org.whispersystems.signal"	"updates2.signal.org"	""	3
+"2024-10-14T07:33:06.929+02:00"	"2024-10-18T16:51:27.145+02:00"	"org.whispersystems.signal"	"itunes.apple.com"	""	6
+"2024-10-14T12:21:38.203+02:00"	"2024-10-14T12:21:38.203+02:00"	"org.whispersystems.signal"	"1.1.1.1"	""	1
+"2024-10-14T12:22:04.852+02:00"	"2024-10-14T12:22:04.852+02:00"	"org.whispersystems.signal"	"13.248.212.111"	""	1
+"2024-10-14T12:24:44.074+02:00"	"2024-10-14T12:24:44.074+02:00"	"org.whispersystems.signal"	"76.223.92.165"	""	1
+"2024-10-14T15:16:14.171+02:00"	"2024-10-14T15:16:14.171+02:00"	"org.whispersystems.signal"	"10.4.216.166"	""	1
+"2024-10-14T15:16:14.174+02:00"	"2024-10-14T15:16:14.174+02:00"	"org.whispersystems.signal"	"194.230.144.65"	""	1
+"2024-10-15T12:44:18.655+02:00"	"2024-10-15T12:44:18.655+02:00"	"org.whispersystems.signal"	"open.spotify.com"	""	1
+"2024-10-15T12:44:19.549+02:00"	"2024-10-15T12:44:19.549+02:00"	"org.whispersystems.signal"	"i.scdn.co"	""	1
+"2024-10-16T10:58:53.980+02:00"	"2024-10-18T21:36:13.683+02:00"	"org.whispersystems.signal"	"gateway.icloud.com"	""	5
+"2024-10-16T23:00:38.585+02:00"	"2024-10-16T23:00:38.585+02:00"	"org.whispersystems.signal"	"youtu.be"	""	1
+"2024-10-16T23:00:40.072+02:00"	"2024-10-16T23:00:40.072+02:00"	"org.whispersystems.signal"	"i.ytimg.com"	""	1
+"2024-10-16T23:00:38.805+02:00"	"2024-10-16T23:00:38.805+02:00"	"org.whispersystems.signal"	"www.youtube.com"	""	1
+"2024-10-17T18:38:40.722+02:00"	"2024-10-17T18:38:40.722+02:00"	"org.whispersystems.signal"	"2600:1900:4160:5999:0:35::"	""	1
+"2024-10-17T18:35:51.849+02:00"	"2024-10-17T18:38:34.689+02:00"	"org.whispersystems.signal"	"2a02:1368:6200:2438:6d1a:1e9b:e828:3b28"	""	2
+"2024-10-17T18:35:51.854+02:00"	"2024-10-17T18:37:58.483+02:00"	"org.whispersystems.signal"	"46.22.16.148"	""	2
+"2024-10-17T18:35:51.556+02:00"	"2024-10-17T18:38:34.614+02:00"	"org.whispersystems.signal"	"2600:1900:4160:5999:0:36::"	""	2
+"2024-10-17T18:35:51.467+02:00"	"2024-10-17T18:39:05.700+02:00"	"org.whispersystems.signal"	"2001:4860:4860::8888"	""	2
+"2024-10-17T18:35:51.550+02:00"	"2024-10-17T18:38:34.608+02:00"	"org.whispersystems.signal"	"2600:1900:40d0:ab54:0:23::"	""	2
+"2024-10-17T18:35:51.828+02:00"	"2024-10-17T18:37:58.479+02:00"	"org.whispersystems.signal"	"192.168.1.10"	""	2
+"2024-10-14T14:15:14.875+02:00"	"2024-10-14T14:15:14.875+02:00"	"com.microsoft.skydrive"	"skyapi.policies.live.net"	""	1
+"2024-10-14T14:15:14.886+02:00"	"2024-10-14T14:15:14.886+02:00"	"com.microsoft.skydrive"	"api.onedrive.com"	""	1
+"2024-10-14T14:15:14.797+02:00"	"2024-10-14T14:15:14.797+02:00"	"com.microsoft.skydrive"	"odc.officeapps.live.com"	""	1
+"2024-10-14T14:15:12.841+02:00"	"2024-10-16T23:16:20.012+02:00"	"com.microsoft.skydrive"	"login.microsoftonline.com"	""	2
+"2024-10-16T23:16:29.847+02:00"	"2024-10-16T23:16:29.847+02:00"	"com.microsoft.skydrive"	"in.appcenter.ms"	"Microsoft Corporation"	1
+"2024-10-12T03:15:13.231+02:00"	"2024-10-19T10:15:05.614+02:00"	"com.apple.mobilecal"	"outlook.office365.com"	""	79
+"2024-10-12T21:28:14.191+02:00"	"2024-10-19T10:55:40.618+02:00"	"com.apple.mobilecal"	"p140-caldav.icloud.com"	""	179
+"2024-10-13T00:14:55.670+02:00"	"2024-10-18T09:05:41.496+02:00"	"com.apple.mobilecal"	"bag.itunes.apple.com"	""	26
+"2024-10-14T11:41:55.287+02:00"	"2024-10-16T19:22:52.734+02:00"	"com.apple.mobilecal"	"ocsp.digicert.com"	""	3
+"2024-10-16T16:51:55.404+02:00"	"2024-10-16T16:51:55.404+02:00"	"com.apple.mobilecal"	"calendars.icloud.com"	""	1
+"2024-10-14T15:18:48.937+02:00"	"2024-10-14T15:18:48.937+02:00"	"com.apple.Music"	"fpinit.itunes.apple.com"	""	1
+"2024-10-14T15:18:48.821+02:00"	"2024-10-14T15:18:48.821+02:00"	"com.apple.Music"	"amp-api.music.apple.com"	""	1
+"2024-10-14T15:18:48.962+02:00"	"2024-10-14T15:18:48.962+02:00"	"com.apple.Music"	"s.mzstatic.com"	""	1
+"2024-10-14T15:18:48.957+02:00"	"2024-10-14T15:18:48.957+02:00"	"com.apple.Music"	"ocsp2.apple.com"	""	1
+"2024-10-14T15:18:48.959+02:00"	"2024-10-14T15:18:48.959+02:00"	"com.apple.Music"	"sb.music.apple.com"	""	1
+"2024-10-14T15:18:48.564+02:00"	"2024-10-15T00:21:15.929+02:00"	"com.apple.Music"	"bag.itunes.apple.com"	""	3
+"2024-10-11T23:00:52.287+02:00"	"2024-10-17T22:44:46.352+02:00"	"net.whatsapp.WhatsApp"	"157.240.202.62"	""	4
+"2024-10-11T23:00:52.269+02:00"	"2024-10-19T11:06:21.033+02:00"	"net.whatsapp.WhatsApp"	"157.240.17.62"	""	6
+"2024-10-11T23:00:52.271+02:00"	"2024-10-17T22:44:46.331+02:00"	"net.whatsapp.WhatsApp"	"157.240.203.62"	""	6
+"2024-10-11T23:00:52.252+02:00"	"2024-10-17T22:39:22.959+02:00"	"net.whatsapp.WhatsApp"	"graph.whatsapp.com"	""	3
+"2024-10-11T23:00:52.263+02:00"	"2024-10-11T23:00:52.263+02:00"	"net.whatsapp.WhatsApp"	"mmg.whatsapp.net"	""	1
+"2024-10-11T23:00:52.276+02:00"	"2024-10-11T23:03:45.411+02:00"	"net.whatsapp.WhatsApp"	"157.240.251.62"	""	2
+"2024-10-11T23:00:52.281+02:00"	"2024-10-11T23:03:45.408+02:00"	"net.whatsapp.WhatsApp"	"157.240.223.62"	""	2
+"2024-10-11T23:01:18.629+02:00"	"2024-10-11T23:01:18.629+02:00"	"net.whatsapp.WhatsApp"	"178.197.207.144"	""	1
+"2024-10-12T10:34:49.593+02:00"	"2024-10-18T21:50:51.954+02:00"	"net.whatsapp.WhatsApp"	"static.whatsapp.net"	""	6
+"2024-10-12T10:34:50.012+02:00"	"2024-10-19T11:06:21.457+02:00"	"net.whatsapp.WhatsApp"	"scontent.whatsapp.net"	""	10
+"2024-10-12T10:34:49.584+02:00"	"2024-10-19T11:06:20.533+02:00"	"net.whatsapp.WhatsApp"	"www.whatsapp.com"	""	10
+"2024-10-12T13:04:04.986+02:00"	"2024-10-19T11:06:42.163+02:00"	"net.whatsapp.WhatsApp"	"chat.cdn.whatsapp.net"	""	232
+"2024-10-12T14:38:04.770+02:00"	"2024-10-19T08:50:04.387+02:00"	"net.whatsapp.WhatsApp"	"media.fzrh2-2.fna.whatsapp.net"	""	7
+"2024-10-12T16:29:06.414+02:00"	"2024-10-19T11:06:20.427+02:00"	"net.whatsapp.WhatsApp"	"media-zrh1-1.cdn.whatsapp.net"	""	26
+"2024-10-13T10:15:03.756+02:00"	"2024-10-18T22:50:35.967+02:00"	"net.whatsapp.WhatsApp"	"dit.whatsapp.net"	""	7
+"2024-10-13T17:19:21.105+02:00"	"2024-10-19T11:06:20.524+02:00"	"net.whatsapp.WhatsApp"	"pps.whatsapp.net"	""	7
+"2024-10-14T11:44:02.645+02:00"	"2024-10-17T15:25:27.974+02:00"	"net.whatsapp.WhatsApp"	"8.8.8.8"	""	3
+"2024-10-14T22:51:30.520+02:00"	"2024-10-14T22:51:30.520+02:00"	"net.whatsapp.WhatsApp"	"157.240.19.54"	""	1
+"2024-10-14T22:53:09.644+02:00"	"2024-10-14T22:53:09.644+02:00"	"net.whatsapp.WhatsApp"	"8.8.4.4"	""	1
+"2024-10-15T14:29:39.087+02:00"	"2024-10-15T14:29:39.087+02:00"	"net.whatsapp.WhatsApp"	"gsp-ssl.ls.apple.com"	""	1
+"2024-10-15T14:29:39.334+02:00"	"2024-10-15T14:29:39.334+02:00"	"net.whatsapp.WhatsApp"	"gspe19-2-ssl.ls.apple.com"	""	1
+"2024-10-15T14:29:39.324+02:00"	"2024-10-15T14:29:39.324+02:00"	"net.whatsapp.WhatsApp"	"gspe19-ssl.ls.apple.com"	""	1
+"2024-10-15T15:55:58.884+02:00"	"2024-10-15T18:35:11.676+02:00"	"net.whatsapp.WhatsApp"	"46.22.23.137"	""	2
+"2024-10-15T15:55:53.850+02:00"	"2024-10-17T22:44:46.345+02:00"	"net.whatsapp.WhatsApp"	"157.240.196.62"	""	3
+"2024-10-15T15:55:53.861+02:00"	"2024-10-19T11:06:21.057+02:00"	"net.whatsapp.WhatsApp"	"31.13.86.48"	""	4
+"2024-10-15T15:55:53.859+02:00"	"2024-10-19T11:06:21.052+02:00"	"net.whatsapp.WhatsApp"	"157.240.253.62"	""	4
+"2024-10-15T15:55:53.854+02:00"	"2024-10-15T18:36:33.207+02:00"	"net.whatsapp.WhatsApp"	"157.240.27.52"	""	3
+"2024-10-15T18:35:06.853+02:00"	"2024-10-15T18:36:33.209+02:00"	"net.whatsapp.WhatsApp"	"157.240.30.52"	""	2
+"2024-10-15T18:35:06.848+02:00"	"2024-10-15T23:09:39.935+02:00"	"net.whatsapp.WhatsApp"	"157.240.252.62"	""	4
+"2024-10-15T23:00:48.664+02:00"	"2024-10-17T22:39:42.804+02:00"	"net.whatsapp.WhatsApp"	"178.238.172.157"	""	2
+"2024-10-15T23:00:33.494+02:00"	"2024-10-15T23:09:39.858+02:00"	"net.whatsapp.WhatsApp"	"157.240.231.62"	""	2
+"2024-10-15T23:00:33.492+02:00"	"2024-10-19T11:06:21.060+02:00"	"net.whatsapp.WhatsApp"	"185.60.219.62"	""	3
+"2024-10-18T17:50:09.397+02:00"	"2024-10-18T17:50:09.397+02:00"	"net.whatsapp.WhatsApp"	"media-mrs2-1.cdn.whatsapp.net"	""	1
+"2024-10-15T16:54:47.569+02:00"	"2024-10-15T17:03:15.505+02:00"	"com.apple.compass"	"gsp-ssl.ls.apple.com"	""	2
+"2024-10-18T16:52:22.106+02:00"	"2024-10-18T16:52:22.106+02:00"	"com.linguee.DeepLMobileTranslator"	"backend.deepl.com"	""	1
+"2024-10-18T16:52:22.223+02:00"	"2024-10-18T16:52:22.223+02:00"	"com.linguee.DeepLMobileTranslator"	"w.deepl.com"	""	1
+"2024-10-18T16:52:22.097+02:00"	"2024-10-18T16:52:22.097+02:00"	"com.linguee.DeepLMobileTranslator"	"s.deepl.com"	""	1
+"2024-10-18T16:52:21.067+02:00"	"2024-10-18T16:52:21.067+02:00"	"com.linguee.DeepLMobileTranslator"	"errortracking.deepl.com"	""	1
+"2024-10-18T16:52:26.090+02:00"	"2024-10-18T16:52:26.090+02:00"	"com.linguee.DeepLMobileTranslator"	"ott.deepl.com"	""	1
+"2024-10-12T11:34:36.538+02:00"	"2024-10-16T09:10:03.179+02:00"	"de.spiegel.spon"	"fra1-ib.adnxs.com"	""	31
+"2024-10-12T11:34:34.678+02:00"	"2024-10-12T11:41:50.778+02:00"	"de.spiegel.spon"	"9bd761ce1ef9d7f2ae0e3554dac1920e.safeframe.googlesyndication.com"	""	2
+"2024-10-12T11:34:27.614+02:00"	"2024-10-18T10:05:24.774+02:00"	"de.spiegel.spon"	"firebase-settings.crashlytics.com"	"Google LLC"	4
+"2024-10-12T11:34:35.530+02:00"	"2024-10-16T16:00:08.257+02:00"	"de.spiegel.spon"	"wlresults.westlotto.com"	""	15
+"2024-10-12T11:34:27.625+02:00"	"2024-10-18T16:23:04.778+02:00"	"de.spiegel.spon"	"www.spiegel.de"	""	25
+"2024-10-12T11:34:33.148+02:00"	"2024-10-12T11:41:49.124+02:00"	"de.spiegel.spon"	"118967d7.de.ioam.de"	""	2
+"2024-10-12T11:34:37.166+02:00"	"2024-10-15T09:57:13.558+02:00"	"de.spiegel.spon"	"image.angebote.spiegel.de"	""	8
+"2024-10-12T11:34:33.422+02:00"	"2024-10-12T11:34:33.422+02:00"	"de.spiegel.spon"	"d2qlq4kdetaeuz.cloudfront.net"	""	1
+"2024-10-12T11:34:33.088+02:00"	"2024-10-18T10:05:30.573+02:00"	"de.spiegel.spon"	"cdn.data-interactive.spiegel.de"	""	13
+"2024-10-12T11:43:15.701+02:00"	"2024-10-16T08:46:05.583+02:00"	"de.spiegel.spon"	"www.omnycontent.com"	""	2
+"2024-10-12T11:42:23.322+02:00"	"2024-10-16T16:00:06.542+02:00"	"de.spiegel.spon"	"images.outbrainimg.com"	""	13
+"2024-10-12T11:42:13.698+02:00"	"2024-10-16T08:50:28.504+02:00"	"de.spiegel.spon"	"platform.twitter.com"	""	2
+"2024-10-12T11:41:51.284+02:00"	"2024-10-12T14:52:17.865+02:00"	"de.spiegel.spon"	"dcdn.adnxs.com"	""	2
+"2024-10-12T11:43:15.440+02:00"	"2024-10-16T08:46:05.119+02:00"	"de.spiegel.spon"	"omny.fm"	""	2
+"2024-10-12T11:41:52.213+02:00"	"2024-10-16T16:00:08.465+02:00"	"de.spiegel.spon"	"ocsp.swisssign.ch"	""	7
+"2024-10-12T11:42:07.337+02:00"	"2024-10-12T11:42:07.337+02:00"	"de.spiegel.spon"	"975689b1e8b04bec2e30f9a12835c762.safeframe.googlesyndication.com"	""	1
+"2024-10-12T11:42:28.346+02:00"	"2024-10-16T16:00:09.398+02:00"	"de.spiegel.spon"	"log.outbrainimg.com"	""	11
+"2024-10-12T11:43:51.444+02:00"	"2024-10-16T08:48:23.874+02:00"	"de.spiegel.spon"	"s.hs-data.com"	""	5
+"2024-10-12T11:43:51.260+02:00"	"2024-10-16T08:48:23.708+02:00"	"de.spiegel.spon"	"sportdaten.spiegel.de"	""	4
+"2024-10-12T11:44:17.963+02:00"	"2024-10-16T08:49:25.139+02:00"	"de.spiegel.spon"	"assets-jpcust.jwpsrv.com"	""	20
+"2024-10-12T11:44:17.843+02:00"	"2024-10-16T08:49:24.978+02:00"	"de.spiegel.spon"	"vcdn01.spiegel.de"	""	8
+"2024-10-12T14:41:49.709+02:00"	"2024-10-18T13:02:55.684+02:00"	"de.spiegel.spon"	"cdn.prod.www.spiegel.de"	""	42
+"2024-10-12T14:42:35.831+02:00"	"2024-10-15T08:46:32.801+02:00"	"de.spiegel.spon"	"ocsp.godaddy.com"	""	3
+"2024-10-12T14:41:52.244+02:00"	"2024-10-12T14:52:15.260+02:00"	"de.spiegel.spon"	"d0d607d1b34c844ff2570f525ad62cb1.safeframe.googlesyndication.com"	""	2
+"2024-10-12T14:41:50.989+02:00"	"2024-10-12T18:24:28.901+02:00"	"de.spiegel.spon"	"7660d570.de.ioam.de"	""	8
+"2024-10-12T14:42:14.716+02:00"	"2024-10-12T14:42:14.716+02:00"	"de.spiegel.spon"	"59d3050803f788fcb218356270fcfac8.safeframe.googlesyndication.com"	""	1
+"2024-10-12T14:41:50.616+02:00"	"2024-10-12T14:41:50.616+02:00"	"de.spiegel.spon"	"magazin.spiegel.de"	""	1
+"2024-10-12T14:42:15.951+02:00"	"2024-10-15T03:50:06.815+02:00"	"de.spiegel.spon"	"www.gstatic.com"	""	2
+"2024-10-12T14:52:24.898+02:00"	"2024-10-12T14:52:24.898+02:00"	"de.spiegel.spon"	"34a13aac748da5481c5db29f38697e04.safeframe.googlesyndication.com"	""	1
+"2024-10-12T14:52:45.430+02:00"	"2024-10-18T10:05:33.451+02:00"	"de.spiegel.spon"	"stream.mux.com"	""	7
+"2024-10-12T14:53:26.415+02:00"	"2024-10-16T08:52:37.945+02:00"	"de.spiegel.spon"	"adx.adform.net"	""	5
+"2024-10-12T14:53:21.635+02:00"	"2024-10-16T08:52:33.272+02:00"	"de.spiegel.spon"	"io.fusedeck.net"	""	5
+"2024-10-12T14:52:45.925+02:00"	"2024-10-12T14:52:45.925+02:00"	"de.spiegel.spon"	"manifest-gcp-us-east1-vop1.fastly.mux.com"	""	1
+"2024-10-12T14:52:29.899+02:00"	"2024-10-12T14:52:29.899+02:00"	"de.spiegel.spon"	"31adf92a4bb175715574f516b4917152.safeframe.googlesyndication.com"	""	1
+"2024-10-12T14:53:21.534+02:00"	"2024-10-16T08:52:33.149+02:00"	"de.spiegel.spon"	"pre.glotgrx.com"	""	4
+"2024-10-12T14:52:23.028+02:00"	"2024-10-15T01:47:08.211+02:00"	"de.spiegel.spon"	"csm.fr3.eu.criteo.net"	""	2
+"2024-10-12T14:53:21.281+02:00"	"2024-10-12T20:30:04.393+02:00"	"de.spiegel.spon"	"aws-fra.connectad.io"	""	2
+"2024-10-12T14:52:46.248+02:00"	"2024-10-12T14:52:46.248+02:00"	"de.spiegel.spon"	"chunk-gcp-us-east1-vop1.fastly.mux.com"	""	1
+"2024-10-12T14:53:21.272+02:00"	"2024-10-16T08:52:32.542+02:00"	"de.spiegel.spon"	"pixel.yabidos.com"	""	4
+"2024-10-12T14:56:50.868+02:00"	"2024-10-12T14:56:50.868+02:00"	"de.spiegel.spon"	"s.d.adup-tech.com"	""	1
+"2024-10-12T14:58:25.261+02:00"	"2024-10-12T18:20:12.671+02:00"	"de.spiegel.spon"	"cab3405d2a8704c81142c3f4bb64b88d.safeframe.googlesyndication.com"	""	2
+"2024-10-12T14:59:02.312+02:00"	"2024-10-12T20:30:05.812+02:00"	"de.spiegel.spon"	"4c635da67e98e5ceafb33ce013d4eed5-assets.s3.amazonaws.com"	""	3
+"2024-10-12T14:58:26.328+02:00"	"2024-10-18T10:07:11.762+02:00"	"de.spiegel.spon"	"cmk.iqdigital.de"	""	10
+"2024-10-12T14:59:01.692+02:00"	"2024-10-16T08:52:32.544+02:00"	"de.spiegel.spon"	"lim2.connectad.io"	""	2
+"2024-10-12T16:04:45.588+02:00"	"2024-10-18T10:05:30.626+02:00"	"de.spiegel.spon"	"amplify.outbrain.com"	""	17
+"2024-10-12T16:04:43.346+02:00"	"2024-10-18T10:05:24.948+02:00"	"de.spiegel.spon"	"googleads.g.doubleclick.net"	"Google LLC"	35
+"2024-10-12T16:04:45.613+02:00"	"2024-10-18T10:05:55.770+02:00"	"de.spiegel.spon"	"grid-bidder.criteo.com"	""	27
+"2024-10-12T16:04:45.637+02:00"	"2024-10-18T10:05:30.588+02:00"	"de.spiegel.spon"	"analytics.tiktok.com"	"ByteDance Ltd."	25
+"2024-10-12T16:04:44.735+02:00"	"2024-10-18T10:05:30.467+02:00"	"de.spiegel.spon"	"functions.adnami.io"	""	8
+"2024-10-12T16:04:45.556+02:00"	"2024-10-18T10:05:30.727+02:00"	"de.spiegel.spon"	"htlb.casalemedia.com"	""	22
+"2024-10-12T16:04:45.270+02:00"	"2024-10-18T10:05:30.322+02:00"	"de.spiegel.spon"	"www.googletagmanager.com"	"Google LLC"	19
+"2024-10-12T16:04:43.527+02:00"	"2024-10-18T10:05:30.299+02:00"	"de.spiegel.spon"	"g.doubleclick.net"	"Google LLC"	17
+"2024-10-12T16:04:45.593+02:00"	"2024-10-18T10:05:30.639+02:00"	"de.spiegel.spon"	"static.ads-twitter.com"	""	19
+"2024-10-12T16:04:46.155+02:00"	"2024-10-18T10:05:31.196+02:00"	"de.spiegel.spon"	"pbc.agma-analytics.de"	""	27
+"2024-10-12T16:04:44.632+02:00"	"2024-10-18T10:05:30.523+02:00"	"de.spiegel.spon"	"data-5d848783f7.spiegel.de"	""	4
+"2024-10-12T16:04:49.948+02:00"	"2024-10-18T10:05:34.447+02:00"	"de.spiegel.spon"	"x.bidswitch.net"	"IPONWEB GmbH"	21
+"2024-10-12T16:04:45.604+02:00"	"2024-10-18T10:06:45.119+02:00"	"de.spiegel.spon"	"ib.adnxs.com"	"Microsoft Corporation"	45
+"2024-10-12T16:04:43.550+02:00"	"2024-10-18T10:05:30.476+02:00"	"de.spiegel.spon"	"sc.omtrdc.net"	"Adobe Inc."	120
+"2024-10-12T16:04:49.856+02:00"	"2024-10-18T10:05:34.590+02:00"	"de.spiegel.spon"	"ap.lijit.com"	""	24
+"2024-10-12T16:04:45.553+02:00"	"2024-10-18T10:05:30.597+02:00"	"de.spiegel.spon"	"connect.facebook.net"	""	17
+"2024-10-12T16:04:49.261+02:00"	"2024-10-18T10:05:34.180+02:00"	"de.spiegel.spon"	"cdn.connectad.io"	""	16
+"2024-10-12T16:04:45.750+02:00"	"2024-10-18T10:05:30.654+02:00"	"de.spiegel.spon"	"config.aps.amazon-adsystem.com"	""	14
+"2024-10-12T16:04:45.610+02:00"	"2024-10-18T10:05:30.731+02:00"	"de.spiegel.spon"	"orbidder.otto.de"	""	27
+"2024-10-12T16:04:50.493+02:00"	"2024-10-18T10:05:34.706+02:00"	"de.spiegel.spon"	"sync.connectad.io"	""	22
+"2024-10-12T16:04:45.645+02:00"	"2024-10-18T10:05:30.484+02:00"	"de.spiegel.spon"	"benelph.de"	""	19
+"2024-10-12T16:04:46.542+02:00"	"2024-10-18T10:05:31.051+02:00"	"de.spiegel.spon"	"bcp.crwdcntrl.net"	""	4
+"2024-10-12T16:04:43.431+02:00"	"2024-10-18T10:05:24.931+02:00"	"de.spiegel.spon"	"firebaseinappmessaging.googleapis.com"	""	4
+"2024-10-12T16:04:45.743+02:00"	"2024-10-18T10:05:30.737+02:00"	"de.spiegel.spon"	"wave.outbrain.com"	""	26
+"2024-10-12T16:04:45.767+02:00"	"2024-10-18T10:05:30.745+02:00"	"de.spiegel.spon"	"aax-eu.amazon-adsystem.com"	"Amazon Technologies, Inc."	27
+"2024-10-12T16:04:45.625+02:00"	"2024-10-16T16:00:05.759+02:00"	"de.spiegel.spon"	"ad.yieldlab.net"	""	27
+"2024-10-12T16:04:43.511+02:00"	"2024-10-18T10:05:30.518+02:00"	"de.spiegel.spon"	"data.adobedc.net"	"Adobe Inc."	44
+"2024-10-12T16:04:45.716+02:00"	"2024-10-18T10:05:30.836+02:00"	"de.spiegel.spon"	"sync-tm.everesttech.net"	"Adobe Inc."	20
+"2024-10-12T16:04:43.494+02:00"	"2024-10-18T10:05:28.624+02:00"	"de.spiegel.spon"	"sp-spiegel-de.spiegel.de"	""	35
+"2024-10-12T16:04:46.530+02:00"	"2024-10-18T10:05:31.041+02:00"	"de.spiegel.spon"	"tpc.googlesyndication.com"	""	26
+"2024-10-12T16:04:45.634+02:00"	"2024-10-18T10:05:30.580+02:00"	"de.spiegel.spon"	"c.amazon-adsystem.com"	""	15
+"2024-10-12T16:04:44.716+02:00"	"2024-10-18T10:05:30.481+02:00"	"de.spiegel.spon"	"ups.xplosion.de"	""	29
+"2024-10-12T16:04:45.631+02:00"	"2024-10-18T10:05:30.741+02:00"	"de.spiegel.spon"	"iqdigital.demdex.net"	""	27
+"2024-10-12T16:04:49.850+02:00"	"2024-10-18T10:05:34.431+02:00"	"de.spiegel.spon"	"creativecdn.com"	""	21
+"2024-10-12T16:04:44.324+02:00"	"2024-10-18T10:05:30.569+02:00"	"de.spiegel.spon"	"www.facebook.com"	"Facebook, Inc."	41
+"2024-10-12T16:04:45.585+02:00"	"2024-10-18T10:05:30.516+02:00"	"de.spiegel.spon"	"r11.o.lencr.org"	""	13
+"2024-10-12T16:04:46.555+02:00"	"2024-10-12T16:04:46.555+02:00"	"de.spiegel.spon"	"b7cca7dc33d3f3e1520680dee89fafe5.safeframe.googlesyndication.com"	""	1
+"2024-10-12T16:04:45.746+02:00"	"2024-10-18T10:05:30.662+02:00"	"de.spiegel.spon"	"aax.amazon-adsystem.com"	"Amazon Technologies, Inc."	20
+"2024-10-12T16:04:45.591+02:00"	"2024-10-16T16:00:06.057+02:00"	"de.spiegel.spon"	"ads.linkedin.com"	"Microsoft Corporation"	21
+"2024-10-12T16:04:45.735+02:00"	"2024-10-18T10:05:30.818+02:00"	"de.spiegel.spon"	"uss.xplosion.de"	""	27
+"2024-10-12T16:04:45.731+02:00"	"2024-10-18T10:05:30.757+02:00"	"de.spiegel.spon"	"tr.outbrain.com"	""	28
+"2024-10-12T16:04:45.622+02:00"	"2024-10-18T10:05:55.756+02:00"	"de.spiegel.spon"	"fastlane.rubiconproject.com"	""	27
+"2024-10-12T16:04:45.628+02:00"	"2024-10-18T10:05:30.616+02:00"	"de.spiegel.spon"	"bat.bing.com"	"Microsoft Corporation"	30
+"2024-10-12T16:04:45.616+02:00"	"2024-10-16T16:00:05.744+02:00"	"de.spiegel.spon"	"tlx.3lift.com"	""	26
+"2024-10-12T16:04:49.499+02:00"	"2024-10-18T10:05:34.324+02:00"	"de.spiegel.spon"	"sync-eu.connectad.io"	""	22
+"2024-10-12T16:04:45.619+02:00"	"2024-10-16T16:00:05.776+02:00"	"de.spiegel.spon"	"hbopenbid.pubmatic.com"	""	19
+"2024-10-12T16:04:44.327+02:00"	"2024-10-18T10:05:30.643+02:00"	"de.spiegel.spon"	"data-cc21ca250f.apps.iocnt.de"	""	42
+"2024-10-12T16:04:45.549+02:00"	"2024-10-18T10:05:30.714+02:00"	"de.spiegel.spon"	"i.connectad.io"	""	23
+"2024-10-12T16:04:43.547+02:00"	"2024-10-18T10:05:30.221+02:00"	"de.spiegel.spon"	"securepubads.g.doubleclick.net"	"Google LLC"	32
+"2024-10-12T16:04:45.672+02:00"	"2024-10-18T10:05:30.594+02:00"	"de.spiegel.spon"	"intake.pbstck.com"	""	30
+"2024-10-12T16:04:45.640+02:00"	"2024-10-18T10:06:45.147+02:00"	"de.spiegel.spon"	"pixel.adsafeprotected.com"	""	62
+"2024-10-12T16:04:50.438+02:00"	"2024-10-18T10:05:34.605+02:00"	"de.spiegel.spon"	"token.rubiconproject.com"	""	28
+"2024-10-12T16:04:44.685+02:00"	"2024-10-18T10:05:30.253+02:00"	"de.spiegel.spon"	"boot.pbstck.com"	""	17
+"2024-10-12T16:04:43.462+02:00"	"2024-10-18T10:05:30.956+02:00"	"de.spiegel.spon"	"pagead2.googlesyndication.com"	"Google LLC"	35
+"2024-10-12T16:04:44.432+02:00"	"2024-10-18T10:05:28.868+02:00"	"de.spiegel.spon"	"s3.eu-central-1.amazonaws.com"	""	24
+"2024-10-12T16:04:45.753+02:00"	"2024-10-16T16:00:06.483+02:00"	"de.spiegel.spon"	"www.googleadservices.com"	"Google LLC"	20
+"2024-10-12T16:04:44.708+02:00"	"2024-10-18T10:05:30.463+02:00"	"de.spiegel.spon"	"cdn.id5-sync.com"	""	12
+"2024-10-12T16:04:45.713+02:00"	"2024-10-18T10:05:30.826+02:00"	"de.spiegel.spon"	"ps.eyeota.net"	""	27
+"2024-10-12T16:04:49.829+02:00"	"2024-10-18T10:05:34.585+02:00"	"de.spiegel.spon"	"cm.adform.net"	""	23
+"2024-10-12T16:04:43.521+02:00"	"2024-10-18T10:05:28.887+02:00"	"de.spiegel.spon"	"assets.adobedtm.com"	""	18
+"2024-10-12T18:08:53.951+02:00"	"2024-10-18T10:05:30.545+02:00"	"de.spiegel.spon"	"e5.o.lencr.org"	""	8
+"2024-10-12T18:08:54.105+02:00"	"2024-10-18T10:05:30.556+02:00"	"de.spiegel.spon"	"www.google.ch"	""	19
+"2024-10-12T18:08:53.837+02:00"	"2024-10-18T10:05:30.529+02:00"	"de.spiegel.spon"	"id5-sync.com"	""	11
+"2024-10-12T18:08:52.735+02:00"	"2024-10-16T16:00:06.568+02:00"	"de.spiegel.spon"	"analytics.twitter.com"	"Twitter, Inc."	16
+"2024-10-12T18:08:53.227+02:00"	"2024-10-18T10:05:30.513+02:00"	"de.spiegel.spon"	"r10.o.lencr.org"	""	16
+"2024-10-12T18:08:54.112+02:00"	"2024-10-18T10:05:32.507+02:00"	"de.spiegel.spon"	"dt.adsafeprotected.com"	""	58
+"2024-10-12T18:08:52.739+02:00"	"2024-10-16T16:00:06.563+02:00"	"de.spiegel.spon"	"t.co"	"Twitter, Inc."	16
+"2024-10-12T18:08:53.384+02:00"	"2024-10-18T10:05:30.577+02:00"	"de.spiegel.spon"	"script.ioam.de"	""	8
+"2024-10-12T18:09:07.492+02:00"	"2024-10-18T10:07:18.696+02:00"	"de.spiegel.spon"	"region1.app-analytics-services.com"	""	36
+"2024-10-12T18:08:53.771+02:00"	"2024-10-12T18:30:55.213+02:00"	"de.spiegel.spon"	"ed6eac9c.de.ioam.de"	""	2
+"2024-10-12T18:08:54.492+02:00"	"2024-10-18T10:06:45.446+02:00"	"de.spiegel.spon"	"ams3-ib.adnxs.com"	""	33
+"2024-10-12T18:08:52.745+02:00"	"2024-10-18T10:05:24.904+02:00"	"de.spiegel.spon"	"inappcheck.itunes.apple.com"	""	7
+"2024-10-12T18:08:52.706+02:00"	"2024-10-18T10:05:28.862+02:00"	"de.spiegel.spon"	"prod.warden.spiegel.de"	""	24
+"2024-10-12T18:08:54.999+02:00"	"2024-10-12T18:30:54.525+02:00"	"de.spiegel.spon"	"f5b134b31c94794b8a324adc8ba36f1e.safeframe.googlesyndication.com"	""	2
+"2024-10-12T18:09:07.282+02:00"	"2024-10-18T10:05:33.434+02:00"	"de.spiegel.spon"	"app-analytics-services.com"	""	13
+"2024-10-12T18:08:52.773+02:00"	"2024-10-18T10:05:24.996+02:00"	"de.spiegel.spon"	"config.ioam.de"	""	4
+"2024-10-12T18:08:53.111+02:00"	"2024-10-18T10:05:30.470+02:00"	"de.spiegel.spon"	"rumcdn.geoedge.be"	""	12
+"2024-10-12T18:08:53.910+02:00"	"2024-10-16T16:00:06.461+02:00"	"de.spiegel.spon"	"www.google.com"	""	22
+"2024-10-12T18:08:52.699+02:00"	"2024-10-12T18:08:52.699+02:00"	"de.spiegel.spon"	"firebaseinstallations.googleapis.com"	""	1
+"2024-10-12T18:20:58.876+02:00"	"2024-10-16T10:27:38.316+02:00"	"de.spiegel.spon"	"ade.googlesyndication.com"	""	5
+"2024-10-12T18:20:12.625+02:00"	"2024-10-12T18:31:51.166+02:00"	"de.spiegel.spon"	"beacon-ams3.rubiconproject.com"	""	3
+"2024-10-12T18:20:13.193+02:00"	"2024-10-16T16:00:49.615+02:00"	"de.spiegel.spon"	"gw.geoedge.be"	""	8
+"2024-10-12T18:20:47.600+02:00"	"2024-10-18T10:06:15.700+02:00"	"de.spiegel.spon"	"s0.2mdn.net"	""	10
+"2024-10-12T18:20:48.656+02:00"	"2024-10-18T10:06:15.756+02:00"	"de.spiegel.spon"	"googleads4.g.doubleclick.net"	"Google LLC"	10
+"2024-10-12T18:20:12.630+02:00"	"2024-10-18T10:06:45.552+02:00"	"de.spiegel.spon"	"track.adform.net"	""	14
+"2024-10-12T18:20:13.145+02:00"	"2024-10-16T09:06:00.176+02:00"	"de.spiegel.spon"	"s1.adform.net"	""	5
+"2024-10-12T18:32:07.345+02:00"	"2024-10-18T10:06:15.581+02:00"	"de.spiegel.spon"	"www.googletagservices.com"	""	6
+"2024-10-12T18:32:07.843+02:00"	"2024-10-12T18:32:07.843+02:00"	"de.spiegel.spon"	"scontent.cdninstagram.com"	""	1
+"2024-10-12T18:31:13.915+02:00"	"2024-10-18T10:05:33.456+02:00"	"de.spiegel.spon"	"collector.brandmetrics.com"	""	16
+"2024-10-12T18:31:13.799+02:00"	"2024-10-12T18:31:13.799+02:00"	"de.spiegel.spon"	"tps.doubleverify.com"	""	1
+"2024-10-12T18:31:48.867+02:00"	"2024-10-18T10:05:55.852+02:00"	"de.spiegel.spon"	"mv.outbrain.com"	""	15
+"2024-10-12T18:31:52.882+02:00"	"2024-10-18T10:05:34.436+02:00"	"de.spiegel.spon"	"u.openx.net"	""	19
+"2024-10-12T18:32:07.513+02:00"	"2024-10-16T16:00:08.051+02:00"	"de.spiegel.spon"	"imagesrv.adition.com"	""	25
+"2024-10-12T18:31:13.533+02:00"	"2024-10-18T10:07:44.405+02:00"	"de.spiegel.spon"	"embed.cwi.re"	""	20
+"2024-10-12T18:31:13.806+02:00"	"2024-10-12T18:31:13.806+02:00"	"de.spiegel.spon"	"rtb0.doubleverify.com"	""	1
+"2024-10-12T18:32:06.032+02:00"	"2024-10-12T18:32:06.032+02:00"	"de.spiegel.spon"	"platform.instagram.com"	""	1
+"2024-10-12T18:31:13.550+02:00"	"2024-10-18T10:05:33.450+02:00"	"de.spiegel.spon"	"cdn.brandmetrics.com"	""	13
+"2024-10-12T18:32:07.836+02:00"	"2024-10-12T18:32:07.836+02:00"	"de.spiegel.spon"	"static.cdninstagram.com"	""	1
+"2024-10-12T18:31:48.302+02:00"	"2024-10-18T10:05:55.517+02:00"	"de.spiegel.spon"	"spiegel.met.vgwort.de"	""	17
+"2024-10-12T18:31:49.087+02:00"	"2024-10-18T10:05:56.145+02:00"	"de.spiegel.spon"	"mcdp-chidc2.outbrain.com"	""	19
+"2024-10-12T18:31:13.577+02:00"	"2024-10-12T18:31:13.577+02:00"	"de.spiegel.spon"	"cdn.doubleverify.com"	""	1
+"2024-10-12T18:32:07.328+02:00"	"2024-10-12T18:32:07.328+02:00"	"de.spiegel.spon"	"adfarm1.adition.com"	""	1
+"2024-10-12T18:31:49.621+02:00"	"2024-10-12T18:31:49.621+02:00"	"de.spiegel.spon"	"4d58491f609a8d235fc6006fb9516fc2.safeframe.googlesyndication.com"	""	1
+"2024-10-12T18:31:13.544+02:00"	"2024-10-18T10:05:33.372+02:00"	"de.spiegel.spon"	"ad.doubleclick.net"	""	12
+"2024-10-12T18:32:06.048+02:00"	"2024-10-12T18:32:06.048+02:00"	"de.spiegel.spon"	"www.instagram.com"	""	1
+"2024-10-12T18:31:48.254+02:00"	"2024-10-18T10:05:55.528+02:00"	"de.spiegel.spon"	"widgets.outbrain.com"	""	6
+"2024-10-12T18:31:13.279+02:00"	"2024-10-18T10:05:32.591+02:00"	"de.spiegel.spon"	"cdn.cwi.re"	""	9
+"2024-10-12T20:28:45.910+02:00"	"2024-10-12T20:28:45.910+02:00"	"de.spiegel.spon"	"ee5466754a81659d423312384b666b85.safeframe.googlesyndication.com"	""	1
+"2024-10-12T20:28:39.249+02:00"	"2024-10-13T10:44:44.757+02:00"	"de.spiegel.spon"	"dx6ctphzljkf1.cloudfront.net"	""	2
+"2024-10-12T20:28:39.078+02:00"	"2024-10-12T20:28:39.078+02:00"	"de.spiegel.spon"	"8df125ef01609e2b607c492e92235d0f.safeframe.googlesyndication.com"	""	1
+"2024-10-12T20:28:38.409+02:00"	"2024-10-12T20:28:38.409+02:00"	"de.spiegel.spon"	"ccb7233a.de.ioam.de"	""	1
+"2024-10-12T20:28:38.255+02:00"	"2024-10-18T10:05:30.670+02:00"	"de.spiegel.spon"	"lb.eu-1-id5-sync.com"	""	6
+"2024-10-12T20:28:33.078+02:00"	"2024-10-18T10:06:25.268+02:00"	"de.spiegel.spon"	"firebaselogging-pa.googleapis.com"	"Google LLC"	33
+"2024-10-12T20:28:33.132+02:00"	"2024-10-18T10:05:24.994+02:00"	"de.spiegel.spon"	"spiegel.push.delivery"	""	6
+"2024-10-12T20:28:37.462+02:00"	"2024-10-18T10:05:30.526+02:00"	"de.spiegel.spon"	"macro.adnami.io"	""	10
+"2024-10-12T20:28:42.950+02:00"	"2024-10-18T10:05:34.440+02:00"	"de.spiegel.spon"	"ads.pubmatic.com"	""	5
+"2024-10-12T20:30:04.398+02:00"	"2024-10-15T09:55:51.320+02:00"	"de.spiegel.spon"	"acdn.adnxs-simple.com"	""	2
+"2024-10-12T20:30:04.391+02:00"	"2024-10-16T08:50:19.721+02:00"	"de.spiegel.spon"	"i.clean.gg"	""	3
+"2024-10-13T10:44:44.391+02:00"	"2024-10-18T10:05:31.163+02:00"	"de.spiegel.spon"	"gum.criteo.com"	"Criteo SA"	5
+"2024-10-13T10:44:45.108+02:00"	"2024-10-16T16:00:08.292+02:00"	"de.spiegel.spon"	"dsp.active-agent.com"	""	12
+"2024-10-13T10:44:43.019+02:00"	"2024-10-13T10:44:43.019+02:00"	"de.spiegel.spon"	"334d165b.de.ioam.de"	""	1
+"2024-10-13T10:44:44.309+02:00"	"2024-10-15T08:48:15.341+02:00"	"de.spiegel.spon"	"ad1.adfarm1.adition.com"	""	2
+"2024-10-13T10:44:45.096+02:00"	"2024-10-16T16:00:08.302+02:00"	"de.spiegel.spon"	"dspcluster.adfarm1.adition.com"	""	10
+"2024-10-13T10:44:47.626+02:00"	"2024-10-18T10:05:34.592+02:00"	"de.spiegel.spon"	"eus.rubiconproject.com"	""	6
+"2024-10-13T10:44:44.166+02:00"	"2024-10-13T10:44:44.166+02:00"	"de.spiegel.spon"	"d22dc935e37c58e4e6b1b351322531f1.safeframe.googlesyndication.com"	""	1
+"2024-10-13T10:44:44.161+02:00"	"2024-10-18T10:05:31.003+02:00"	"de.spiegel.spon"	"static.criteo.net"	""	4
+"2024-10-13T10:44:44.138+02:00"	"2024-10-18T10:05:30.986+02:00"	"de.spiegel.spon"	"tags.crwdcntrl.net"	""	5
+"2024-10-13T10:44:45.347+02:00"	"2024-10-16T16:00:08.516+02:00"	"de.spiegel.spon"	"ats.otto.de"	""	3
+"2024-10-15T01:04:58.289+02:00"	"2024-10-15T01:47:08.927+02:00"	"de.spiegel.spon"	"988e3333.de.ioam.de"	""	3
+"2024-10-15T01:04:57.887+02:00"	"2024-10-18T10:05:30.434+02:00"	"de.spiegel.spon"	"sync.mathtag.com"	""	2
+"2024-10-15T01:05:04.771+02:00"	"2024-10-18T10:05:32.267+02:00"	"de.spiegel.spon"	"gutscheine.spiegel.de"	""	4
+"2024-10-15T01:04:57.830+02:00"	"2024-10-18T10:05:30.289+02:00"	"de.spiegel.spon"	"cm.g.doubleclick.net"	"Google LLC"	3
+"2024-10-15T01:05:04.805+02:00"	"2024-10-18T10:05:32.496+02:00"	"de.spiegel.spon"	"cdn-assets-spiegel.imgix.net"	""	2
+"2024-10-15T01:04:58.200+02:00"	"2024-10-18T10:05:30.583+02:00"	"de.spiegel.spon"	"dpm.demdex.net"	"Adobe Inc."	2
+"2024-10-15T01:05:05.087+02:00"	"2024-10-15T09:57:13.341+02:00"	"de.spiegel.spon"	"stat.flashtalking.com"	""	3
+"2024-10-15T01:05:05.080+02:00"	"2024-10-15T09:57:13.333+02:00"	"de.spiegel.spon"	"ad-events.flashtalking.com"	""	4
+"2024-10-15T01:05:04.766+02:00"	"2024-10-15T09:57:12.018+02:00"	"de.spiegel.spon"	"servedby.flashtalking.com"	""	12
+"2024-10-15T01:05:01.273+02:00"	"2024-10-15T01:05:01.273+02:00"	"de.spiegel.spon"	"babd96a4c07863ab863a10b5a201d599.safeframe.googlesyndication.com"	""	1
+"2024-10-15T01:04:57.834+02:00"	"2024-10-18T10:05:30.559+02:00"	"de.spiegel.spon"	"match.adsrvr.org"	"The Trade Desk Inc"	2
+"2024-10-15T01:04:57.878+02:00"	"2024-10-18T10:05:30.564+02:00"	"de.spiegel.spon"	"cm.everesttech.net"	"Adobe Inc."	2
+"2024-10-15T01:05:04.862+02:00"	"2024-10-15T09:57:13.325+02:00"	"de.spiegel.spon"	"cdn.flashtalking.com"	""	3
+"2024-10-15T01:05:05.107+02:00"	"2024-10-16T08:50:28.266+02:00"	"de.spiegel.spon"	"cdnjs.cloudflare.com"	""	2
+"2024-10-15T01:04:57.874+02:00"	"2024-10-18T10:05:30.630+02:00"	"de.spiegel.spon"	"snap.licdn.com"	""	4
+"2024-10-15T01:05:04.799+02:00"	"2024-10-15T01:05:04.799+02:00"	"de.spiegel.spon"	"ajs-assets.ftstatic.com"	""	1
+"2024-10-15T01:05:04.835+02:00"	"2024-10-15T09:57:13.291+02:00"	"de.spiegel.spon"	"ad3.adfarm1.adition.com"	""	4
+"2024-10-15T01:05:04.817+02:00"	"2024-10-15T09:57:13.067+02:00"	"de.spiegel.spon"	"agen-assets.ftstatic.com"	""	3
+"2024-10-15T01:07:05.721+02:00"	"2024-10-15T01:07:05.721+02:00"	"de.spiegel.spon"	"fonts.bunny.net"	""	1
+"2024-10-15T01:07:03.839+02:00"	"2024-10-15T03:49:53.134+02:00"	"de.spiegel.spon"	"ssl.1.damoh.spiegel.de"	""	20
+"2024-10-15T01:07:05.119+02:00"	"2024-10-15T08:16:24.328+02:00"	"de.spiegel.spon"	"cdn.ivlv.me"	""	4
+"2024-10-15T01:08:13.017+02:00"	"2024-10-16T09:03:52.614+02:00"	"de.spiegel.spon"	"firebaseremoteconfig.googleapis.com"	"Google LLC"	2
+"2024-10-15T01:07:02.918+02:00"	"2024-10-15T08:35:07.251+02:00"	"de.spiegel.spon"	"hgc-cf-cache-1.svonm.com"	""	13
+"2024-10-15T01:07:05.611+02:00"	"2024-10-15T01:07:05.611+02:00"	"de.spiegel.spon"	"ocsp.rootca1.amazontrust.com"	""	1
+"2024-10-15T01:07:03.783+02:00"	"2024-10-15T08:16:21.303+02:00"	"de.spiegel.spon"	"derspiegel.involve.me"	""	4
+"2024-10-15T01:07:12.742+02:00"	"2024-10-16T09:04:55.479+02:00"	"de.spiegel.spon"	"static.adsafeprotected.com"	""	7
+"2024-10-15T01:07:09.646+02:00"	"2024-10-15T08:23:13.404+02:00"	"de.spiegel.spon"	"ping-meta-prd.jwpltx.com"	""	4
+"2024-10-15T01:07:10.795+02:00"	"2024-10-16T09:04:54.576+02:00"	"de.spiegel.spon"	"csi.gstatic.com"	""	20
+"2024-10-15T01:07:05.138+02:00"	"2024-10-15T08:16:24.521+02:00"	"de.spiegel.spon"	"involve-me.imgix.net"	""	4
+"2024-10-15T01:07:05.154+02:00"	"2024-10-15T01:47:20.925+02:00"	"de.spiegel.spon"	"entitlements.jwplayer.com"	""	2
+"2024-10-15T01:07:11.408+02:00"	"2024-10-15T08:48:15.460+02:00"	"de.spiegel.spon"	"cd.adition.com"	""	7
+"2024-10-15T01:07:05.497+02:00"	"2024-10-15T01:07:05.497+02:00"	"de.spiegel.spon"	"1f3ed962472c8d3be15e1b279af50d84.safeframe.googlesyndication.com"	""	1
+"2024-10-15T01:07:05.282+02:00"	"2024-10-15T08:23:02.596+02:00"	"de.spiegel.spon"	"prd.jwpltx.com"	""	3
+"2024-10-15T01:07:04.907+02:00"	"2024-10-15T01:47:20.691+02:00"	"de.spiegel.spon"	"ssl.p.jwpcdn.com"	""	2
+"2024-10-15T01:07:05.895+02:00"	"2024-10-15T08:23:02.070+02:00"	"de.spiegel.spon"	"assets.ivlv.me"	""	4
+"2024-10-15T01:07:05.480+02:00"	"2024-10-15T03:50:06.490+02:00"	"de.spiegel.spon"	"cdn.jwplayer.com"	""	17
+"2024-10-15T01:07:05.111+02:00"	"2024-10-15T08:16:24.394+02:00"	"de.spiegel.spon"	"sentry.admin.involve.me"	""	4
+"2024-10-15T01:07:05.141+02:00"	"2024-10-15T08:48:14.326+02:00"	"de.spiegel.spon"	"imasdk.googleapis.com"	""	3
+"2024-10-15T01:07:33.142+02:00"	"2024-10-15T09:00:19.295+02:00"	"de.spiegel.spon"	"videos-cloudfront-usp.jwpsrv.com"	""	12
+"2024-10-15T01:07:05.108+02:00"	"2024-10-15T08:16:24.546+02:00"	"de.spiegel.spon"	"assets.involve.me"	""	4
+"2024-10-15T01:07:03.663+02:00"	"2024-10-15T08:35:07.066+02:00"	"de.spiegel.spon"	"s3.amazonaws.com"	""	13
+"2024-10-15T01:07:04.396+02:00"	"2024-10-15T08:48:29.092+02:00"	"de.spiegel.spon"	"pubads.g.doubleclick.net"	"Google LLC"	32
+"2024-10-15T01:08:43.861+02:00"	"2024-10-16T16:00:50.850+02:00"	"de.spiegel.spon"	"fonts.googleapis.com"	""	8
+"2024-10-15T01:47:20.539+02:00"	"2024-10-15T03:36:17.883+02:00"	"de.spiegel.spon"	"ssl.3.damoh.spiegel.de"	""	8
+"2024-10-15T01:47:10.482+02:00"	"2024-10-15T01:47:10.482+02:00"	"de.spiegel.spon"	"9324604396beca2794113a862cab00d7.safeframe.googlesyndication.com"	""	1
+"2024-10-15T01:47:21.382+02:00"	"2024-10-15T01:47:21.382+02:00"	"de.spiegel.spon"	"ae452b3d8bc199ec61d8a3f5f2e44bd1.safeframe.googlesyndication.com"	""	1
+"2024-10-15T01:47:10.462+02:00"	"2024-10-15T01:47:10.462+02:00"	"de.spiegel.spon"	"bidder.criteo.com"	""	1
+"2024-10-15T02:06:15.708+02:00"	"2024-10-15T03:36:21.121+02:00"	"de.spiegel.spon"	"vcdn02.spiegel.de"	""	4
+"2024-10-15T02:06:18.968+02:00"	"2024-10-15T03:45:12.748+02:00"	"de.spiegel.spon"	"videos-cloudfront.jwpsrv.com"	""	10
+"2024-10-15T02:05:50.517+02:00"	"2024-10-15T02:05:50.517+02:00"	"de.spiegel.spon"	"redirector.gvt1.com"	""	1
+"2024-10-15T02:05:48.134+02:00"	"2024-10-15T08:23:04.948+02:00"	"de.spiegel.spon"	"ssl.2.damoh.spiegel.de"	""	6
+"2024-10-15T02:05:51.000+02:00"	"2024-10-15T02:05:51.000+02:00"	"de.spiegel.spon"	"rr6---sn-n0ogpnx-cnal.googlevideo.com"	""	1
+"2024-10-15T03:50:06.958+02:00"	"2024-10-15T08:23:02.067+02:00"	"de.spiegel.spon"	"rr1---sn-n0ogpnx-cnal.googlevideo.com"	""	2
+"2024-10-15T03:50:06.499+02:00"	"2024-10-15T03:50:06.499+02:00"	"de.spiegel.spon"	"36bd85ec64e59b78eaeb47360a8f2160.safeframe.googlesyndication.com"	""	1
+"2024-10-15T08:16:25.174+02:00"	"2024-10-15T08:16:25.174+02:00"	"de.spiegel.spon"	"9ece641d0001255be4fdf66cc039d08e.safeframe.googlesyndication.com"	""	1
+"2024-10-15T08:16:25.153+02:00"	"2024-10-15T08:16:25.153+02:00"	"de.spiegel.spon"	"1a2d1f9da5424ad468b1896c432717dc.safeframe.googlesyndication.com"	""	1
+"2024-10-15T08:16:24.559+02:00"	"2024-10-15T10:06:45.189+02:00"	"de.spiegel.spon"	"91edb324.de.ioam.de"	""	20
+"2024-10-15T08:41:22.795+02:00"	"2024-10-15T08:41:22.795+02:00"	"de.spiegel.spon"	"d40a3c45e801fff86779654a32737e36.safeframe.googlesyndication.com"	""	1
+"2024-10-15T08:41:23.637+02:00"	"2024-10-18T10:05:32.183+02:00"	"de.spiegel.spon"	"acdn.adnxs.com"	""	7
+"2024-10-15T08:46:33.047+02:00"	"2024-10-15T08:46:33.047+02:00"	"de.spiegel.spon"	"ajax.cloudflare.com"	""	1
+"2024-10-15T08:46:32.637+02:00"	"2024-10-15T08:49:24.399+02:00"	"de.spiegel.spon"	"a1219.casalemedia.com"	""	2
+"2024-10-15T08:46:08.988+02:00"	"2024-10-15T09:07:16.009+02:00"	"de.spiegel.spon"	"chunk-gcp-us-east1-vop1.cfcdn.mux.com"	""	5
+"2024-10-15T08:46:00.398+02:00"	"2024-10-15T09:51:09.333+02:00"	"de.spiegel.spon"	"manifest-gcp-us-east1-vop1.cfcdn.mux.com"	""	4
+"2024-10-15T08:46:33.325+02:00"	"2024-10-15T08:46:33.325+02:00"	"de.spiegel.spon"	"js-sec.indexww.com"	""	1
+"2024-10-15T08:46:32.678+02:00"	"2024-10-15T09:55:51.134+02:00"	"de.spiegel.spon"	"html5.adsrvr.org"	""	12
+"2024-10-15T08:47:37.844+02:00"	"2024-10-15T09:04:15.732+02:00"	"de.spiegel.spon"	"cdn.ampproject.org"	""	2
+"2024-10-15T08:46:32.644+02:00"	"2024-10-15T09:55:51.071+02:00"	"de.spiegel.spon"	"ie1-bid.adsrvr.org"	""	13
+"2024-10-15T08:46:33.956+02:00"	"2024-10-15T09:55:52.332+02:00"	"de.spiegel.spon"	"choices.trustarc.com"	""	13
+"2024-10-15T08:46:32.833+02:00"	"2024-10-15T09:55:51.307+02:00"	"de.spiegel.spon"	"ssum-sec.casalemedia.com"	""	14
+"2024-10-15T08:46:32.656+02:00"	"2024-10-15T09:55:51.088+02:00"	"de.spiegel.spon"	"choices.truste.com"	""	13
+"2024-10-15T08:48:16.612+02:00"	"2024-10-15T08:48:16.612+02:00"	"de.spiegel.spon"	"b63c5be792334a576198a64e60dfe7a3.safeframe.googlesyndication.com"	""	1
+"2024-10-15T08:54:01.478+02:00"	"2024-10-18T10:06:45.763+02:00"	"de.spiegel.spon"	"m.exactag.com"	""	11
+"2024-10-15T08:53:59.607+02:00"	"2024-10-15T08:53:59.607+02:00"	"de.spiegel.spon"	"dad9dbae208312a94386c213f66152d7.safeframe.googlesyndication.com"	""	1
+"2024-10-15T09:01:21.468+02:00"	"2024-10-15T09:03:12.673+02:00"	"de.spiegel.spon"	"s.update.ib.adnxs.net"	""	2
+"2024-10-15T09:01:21.909+02:00"	"2024-10-15T09:01:21.909+02:00"	"de.spiegel.spon"	"cadmus2.script.ac"	""	1
+"2024-10-15T09:00:56.788+02:00"	"2024-10-15T09:00:56.788+02:00"	"de.spiegel.spon"	"e26fd66a275f457646b21f7a9eea8f0d.safeframe.googlesyndication.com"	""	1
+"2024-10-15T09:01:21.679+02:00"	"2024-10-15T09:01:21.679+02:00"	"de.spiegel.spon"	"e6.o.lencr.org"	""	1
+"2024-10-15T09:07:23.329+02:00"	"2024-10-15T09:55:51.067+02:00"	"de.spiegel.spon"	"a1170.casalemedia.com"	""	11
+"2024-10-15T09:07:22.501+02:00"	"2024-10-15T09:43:14.707+02:00"	"de.spiegel.spon"	"a15100c2552d89c1474b13419aefd98a.safeframe.googlesyndication.com"	""	5
+"2024-10-15T09:07:18.682+02:00"	"2024-10-15T09:07:18.682+02:00"	"de.spiegel.spon"	"39b53a9e0c92558e010ec8642dd43bff.safeframe.googlesyndication.com"	""	1
+"2024-10-15T09:15:50.880+02:00"	"2024-10-15T09:28:30.819+02:00"	"de.spiegel.spon"	"ib.3lift.com"	""	3
+"2024-10-15T09:15:51.146+02:00"	"2024-10-15T09:28:30.969+02:00"	"de.spiegel.spon"	"eb2.3lift.com"	"TripleLift"	3
+"2024-10-15T09:17:39.090+02:00"	"2024-10-15T09:17:39.090+02:00"	"de.spiegel.spon"	"c1.adform.net"	""	1
+"2024-10-15T09:17:39.085+02:00"	"2024-10-15T09:17:39.085+02:00"	"de.spiegel.spon"	"pixel.rubiconproject.com"	"Magnite, Inc."	1
+"2024-10-15T09:17:39.059+02:00"	"2024-10-15T09:17:39.059+02:00"	"de.spiegel.spon"	"ssbsync-global.smartadserver.com"	""	1
+"2024-10-15T09:17:39.087+02:00"	"2024-10-15T09:17:39.087+02:00"	"de.spiegel.spon"	"prebid-match.dotomi.com"	""	1
+"2024-10-15T09:17:40.932+02:00"	"2024-10-15T09:17:40.932+02:00"	"de.spiegel.spon"	"ads.smartstream.tv"	""	1
+"2024-10-15T09:17:39.281+02:00"	"2024-10-15T09:17:39.281+02:00"	"de.spiegel.spon"	"cm.adsafety.net"	""	1
+"2024-10-15T09:17:39.065+02:00"	"2024-10-15T09:17:39.065+02:00"	"de.spiegel.spon"	"rtb.openx.net"	""	1
+"2024-10-15T09:15:51.111+02:00"	"2024-10-16T08:49:24.853+02:00"	"de.spiegel.spon"	"de2-bid.adsrvr.org"	""	4
+"2024-10-15T09:20:12.070+02:00"	"2024-10-15T09:20:12.070+02:00"	"de.spiegel.spon"	"interactive.spiegel.de"	""	1
+"2024-10-15T09:23:18.449+02:00"	"2024-10-15T09:23:18.449+02:00"	"de.spiegel.spon"	"aa1b4359dfb86cb69657474a63b9115b.safeframe.googlesyndication.com"	""	1
+"2024-10-15T09:37:48.082+02:00"	"2024-10-15T09:43:14.892+02:00"	"de.spiegel.spon"	"tracking.dspx.tv"	""	2
+"2024-10-15T09:41:50.079+02:00"	"2024-10-15T09:41:50.079+02:00"	"de.spiegel.spon"	"encrypted-tbn2.gstatic.com"	""	1
+"2024-10-15T09:41:50.082+02:00"	"2024-10-15T09:41:50.082+02:00"	"de.spiegel.spon"	"encrypted-tbn3.gstatic.com"	""	1
+"2024-10-15T09:41:50.075+02:00"	"2024-10-15T09:41:50.075+02:00"	"de.spiegel.spon"	"encrypted-tbn1.gstatic.com"	""	1
+"2024-10-15T09:55:53.369+02:00"	"2024-10-15T09:55:53.369+02:00"	"de.spiegel.spon"	"daf118a9084c39ff830341e657ffd861.safeframe.googlesyndication.com"	""	1
+"2024-10-15T09:57:10.908+02:00"	"2024-10-15T09:57:10.908+02:00"	"de.spiegel.spon"	"8acb9e97f4155e50e8f843aa2ec6938d.safeframe.googlesyndication.com"	""	1
+"2024-10-15T09:57:27.008+02:00"	"2024-10-15T09:57:27.008+02:00"	"de.spiegel.spon"	"6554e4c71cfdcdf4401d8f23ad861ba4.safeframe.googlesyndication.com"	""	1
+"2024-10-16T08:45:02.826+02:00"	"2024-10-16T16:00:07.144+02:00"	"de.spiegel.spon"	"ad13.adfarm1.adition.com"	""	5
+"2024-10-16T08:50:27.950+02:00"	"2024-10-16T08:50:27.950+02:00"	"de.spiegel.spon"	"crcdn01.adnxs-simple.com"	""	1
+"2024-10-16T08:50:27.460+02:00"	"2024-10-16T08:50:27.460+02:00"	"de.spiegel.spon"	"ortb.cwi.re"	""	1
+"2024-10-16T08:47:15.523+02:00"	"2024-10-18T10:05:35.199+02:00"	"de.spiegel.spon"	"chunk-gcp-us-east4-vop1.cfcdn.mux.com"	""	3
+"2024-10-16T08:48:41.262+02:00"	"2024-10-16T08:48:41.262+02:00"	"de.spiegel.spon"	"cdn.jsdelivr.net"	""	1
+"2024-10-16T08:47:15.485+02:00"	"2024-10-18T10:05:33.461+02:00"	"de.spiegel.spon"	"manifest-gcp-us-east4-vop1.cfcdn.mux.com"	""	2
+"2024-10-16T08:49:11.577+02:00"	"2024-10-16T09:04:56.021+02:00"	"de.spiegel.spon"	"v.adsrvr.org"	""	3
+"2024-10-16T08:45:03.364+02:00"	"2024-10-16T16:00:08.311+02:00"	"de.spiegel.spon"	"code.createjs.com"	""	4
+"2024-10-16T08:45:02.740+02:00"	"2024-10-16T09:10:20.211+02:00"	"de.spiegel.spon"	"9e4e7ce3d3e1790495ea0eb233a319c4.safeframe.googlesyndication.com"	""	3
+"2024-10-16T08:50:18.399+02:00"	"2024-10-16T08:50:18.399+02:00"	"de.spiegel.spon"	"ed083e5b2fb6d46b967a3d3c594eefa4.safeframe.googlesyndication.com"	""	1
+"2024-10-16T08:49:11.149+02:00"	"2024-10-16T09:04:55.699+02:00"	"de.spiegel.spon"	"enduser.adsrvr.org"	""	3
+"2024-10-16T08:45:02.724+02:00"	"2024-10-16T16:00:05.401+02:00"	"de.spiegel.spon"	"0183ce0f.de.ioam.de"	""	12
+"2024-10-16T08:47:08.296+02:00"	"2024-10-16T08:47:08.296+02:00"	"de.spiegel.spon"	"711279dab3e13263c4fa79707b918b24.safeframe.googlesyndication.com"	""	1
+"2024-10-16T08:48:12.911+02:00"	"2024-10-16T08:48:12.911+02:00"	"de.spiegel.spon"	"562364248cab3d1118d328287f11f390.safeframe.googlesyndication.com"	""	1
+"2024-10-16T08:51:38.487+02:00"	"2024-10-16T08:51:38.488+02:00"	"de.spiegel.spon"	"6e4f35132de25a6ef2c64db4a12da4e4.safeframe.googlesyndication.com"	""	1
+"2024-10-16T08:53:46.257+02:00"	"2024-10-16T08:53:46.257+02:00"	"de.spiegel.spon"	"89035ad81933a35050f506e59edae13c.safeframe.googlesyndication.com"	""	1
+"2024-10-16T08:53:47.871+02:00"	"2024-10-16T09:06:03.995+02:00"	"de.spiegel.spon"	"r4---sn-1gi7znes.c.2mdn.net"	""	3
+"2024-10-16T08:53:47.691+02:00"	"2024-10-16T09:03:53.081+02:00"	"de.spiegel.spon"	"gcdn.2mdn.net"	""	2
+"2024-10-16T09:06:02.691+02:00"	"2024-10-16T09:06:02.691+02:00"	"de.spiegel.spon"	"0239a308bc28948a53a82144013046d3.safeframe.googlesyndication.com"	""	1
+"2024-10-16T09:05:27.560+02:00"	"2024-10-16T09:05:27.560+02:00"	"de.spiegel.spon"	"r1---sn-1gi7znes.c.2mdn.net"	""	1
+"2024-10-16T09:05:12.536+02:00"	"2024-10-16T09:05:12.536+02:00"	"de.spiegel.spon"	"454e76b53faa4cf29d79d43975a83a69.safeframe.googlesyndication.com"	""	1
+"2024-10-16T09:05:26.207+02:00"	"2024-10-16T09:05:26.207+02:00"	"de.spiegel.spon"	"6bf5ae5879a44c80319155a1d7d2c0fc.safeframe.googlesyndication.com"	""	1
+"2024-10-16T09:10:20.593+02:00"	"2024-10-16T16:00:50.859+02:00"	"de.spiegel.spon"	"fonts.gstatic.com"	""	2
+"2024-10-16T10:28:40.875+02:00"	"2024-10-16T10:28:40.875+02:00"	"de.spiegel.spon"	"st.pubmatic.com"	""	1
+"2024-10-16T10:28:40.281+02:00"	"2024-10-16T10:28:40.281+02:00"	"de.spiegel.spon"	"dsp-cookie.adfarm1.adition.com"	""	1
+"2024-10-16T10:28:40.563+02:00"	"2024-10-16T10:28:40.563+02:00"	"de.spiegel.spon"	"ad4.adfarm1.adition.com"	""	1
+"2024-10-16T10:27:26.250+02:00"	"2024-10-16T10:27:26.250+02:00"	"de.spiegel.spon"	"6f1ce40e1ef2c5092a50ee97e3a9d39f.safeframe.googlesyndication.com"	""	1
+"2024-10-16T10:27:01.730+02:00"	"2024-10-16T10:27:01.730+02:00"	"de.spiegel.spon"	"c91f7462ff009a2218bc7a0094794560.safeframe.googlesyndication.com"	""	1
+"2024-10-16T10:28:40.865+02:00"	"2024-10-16T10:28:40.865+02:00"	"de.spiegel.spon"	"ad2.adfarm1.adition.com"	""	1
+"2024-10-16T10:29:34.866+02:00"	"2024-10-16T10:29:34.866+02:00"	"de.spiegel.spon"	"logora-production-assets.fra1.cdn.digitaloceanspaces.com"	""	1
+"2024-10-16T10:29:34.254+02:00"	"2024-10-16T10:29:34.254+02:00"	"de.spiegel.spon"	"cdn.logora.com"	""	1
+"2024-10-16T10:29:34.534+02:00"	"2024-10-16T10:29:34.534+02:00"	"de.spiegel.spon"	"render.logora.fr"	""	1
+"2024-10-16T16:00:07.056+02:00"	"2024-10-16T16:00:07.056+02:00"	"de.spiegel.spon"	"0306bc840048d517df6235a0f607d251.safeframe.googlesyndication.com"	""	1
+"2024-10-16T16:00:05.435+02:00"	"2024-10-16T16:00:05.435+02:00"	"de.spiegel.spon"	"cdn.pbstck.com"	""	1
+"2024-10-16T16:00:07.131+02:00"	"2024-10-16T16:00:07.131+02:00"	"de.spiegel.spon"	"c23e8ba47bbedaabb5cd926f8dd4fe24.safeframe.googlesyndication.com"	""	1
+"2024-10-16T16:00:06.579+02:00"	"2024-10-16T16:00:06.579+02:00"	"de.spiegel.spon"	"61ae0b1f.de.ioam.de"	""	1
+"2024-10-16T16:00:04.952+02:00"	"2024-10-16T16:00:04.952+02:00"	"de.spiegel.spon"	"cdn.magazin.spiegel.de"	""	1
+"2024-10-16T16:00:05.219+02:00"	"2024-10-16T16:00:05.219+02:00"	"de.spiegel.spon"	"cdn-assets-widget-production.imgix.net"	""	1
+"2024-10-16T16:00:51.642+02:00"	"2024-10-16T16:00:51.642+02:00"	"de.spiegel.spon"	"prebid.a-mo.net"	""	1
+"2024-10-16T16:00:48.516+02:00"	"2024-10-16T16:00:48.516+02:00"	"de.spiegel.spon"	"c72ee8c47354c4e3184acf0f34f443d4.safeframe.googlesyndication.com"	""	1
+"2024-10-16T16:00:49.374+02:00"	"2024-10-16T16:00:49.374+02:00"	"de.spiegel.spon"	"www.dianomi.com"	""	1
+"2024-10-16T16:00:51.362+02:00"	"2024-10-16T16:00:51.362+02:00"	"de.spiegel.spon"	"server.prebid.dianomi.com"	""	1
+"2024-10-16T16:00:51.016+02:00"	"2024-10-16T16:00:51.016+02:00"	"de.spiegel.spon"	"data.dianomi.com"	""	1
+"2024-10-16T16:00:52.332+02:00"	"2024-10-16T16:00:52.332+02:00"	"de.spiegel.spon"	"ads.stickyadstv.com"	""	1
+"2024-10-16T16:00:51.898+02:00"	"2024-10-16T16:00:51.898+02:00"	"de.spiegel.spon"	"assets.a-mo.net"	""	1
+"2024-10-16T16:00:51.140+02:00"	"2024-10-16T16:00:51.140+02:00"	"de.spiegel.spon"	"idsync.rlcdn.com"	""	1
+"2024-10-18T10:05:30.998+02:00"	"2024-10-18T10:05:30.998+02:00"	"de.spiegel.spon"	"998424ead103320b395ccbd8c38f85c2.safeframe.googlesyndication.com"	""	1
+"2024-10-18T10:05:57.031+02:00"	"2024-10-18T10:05:57.031+02:00"	"de.spiegel.spon"	"a937291e2cf8e26fb68ce734d5d91d4a.safeframe.googlesyndication.com"	""	1
+"2024-10-18T10:05:55.845+02:00"	"2024-10-18T10:05:55.845+02:00"	"de.spiegel.spon"	"02c81cbf.de.ioam.de"	""	1
+"2024-10-11T22:44:57.456+02:00"	"2024-10-19T02:42:37.784+02:00"	"com.apple.Translate"	"sequoia.cdn-apple.com"	""	7
+"2024-10-11T22:24:36.170+02:00"	"2024-10-18T05:04:13.814+02:00"	"com.microsoft.azureauthenticator"	"gateway.icloud.com"	""	11
+"2024-10-12T09:22:23.989+02:00"	"2024-10-18T21:59:12.190+02:00"	"com.microsoft.azureauthenticator"	"config.edge.skype.com"	""	12
+"2024-10-12T09:22:31.035+02:00"	"2024-10-18T21:59:12.210+02:00"	"com.microsoft.azureauthenticator"	"mobile.events.data.microsoft.com"	""	10
+"2024-10-13T10:03:02.211+02:00"	"2024-10-18T21:59:12.427+02:00"	"com.microsoft.azureauthenticator"	"login.microsoftonline.com"	""	8
+"2024-10-14T13:19:29.685+02:00"	"2024-10-16T10:01:40.483+02:00"	"com.microsoft.azureauthenticator"	"edge.microsoft.com"	""	2
+"2024-10-14T13:19:27.408+02:00"	"2024-10-18T05:04:13.590+02:00"	"com.microsoft.azureauthenticator"	"mobileappcommunicator.auth.microsoft.com"	""	7
+"2024-10-14T13:19:32.032+02:00"	"2024-10-16T10:01:43.894+02:00"	"com.microsoft.azureauthenticator"	"self.events.data.microsoft.com"	""	2
+"2024-10-14T13:19:27.418+02:00"	"2024-10-18T05:04:13.634+02:00"	"com.microsoft.azureauthenticator"	"login.live.com"	""	7
+"2024-10-15T01:35:22.858+02:00"	"2024-10-18T05:04:14.251+02:00"	"com.microsoft.azureauthenticator"	"substrate.office.com"	""	3
+"2024-10-15T01:35:21.533+02:00"	"2024-10-18T05:04:13.594+02:00"	"com.microsoft.azureauthenticator"	"storage.live.com"	""	6
+"2024-10-15T01:35:23.621+02:00"	"2024-10-18T05:04:15.641+02:00"	"com.microsoft.azureauthenticator"	"in.appcenter.ms"	"Microsoft Corporation"	5
+"2024-10-15T23:25:15.232+02:00"	"2024-10-15T23:25:15.232+02:00"	"com.microsoft.azureauthenticator"	"consent.config.office.com"	""	1
+"2024-10-15T23:25:14.759+02:00"	"2024-10-15T23:25:14.759+02:00"	"com.microsoft.azureauthenticator"	"pim.microsoft.com"	""	1
+"2024-10-15T23:25:15.613+02:00"	"2024-10-16T10:01:39.950+02:00"	"com.microsoft.azureauthenticator"	"metrics.icloud.com"	""	2
+"2024-10-14T12:59:21.123+02:00"	"2024-10-19T08:35:55.844+02:00"	"com.swissquote.Yuh"	"app-analytics-services.com"	""	2
+"2024-10-14T12:59:21.048+02:00"	"2024-10-19T08:35:55.809+02:00"	"com.swissquote.Yuh"	"yuh-api.swissquote.ch"	""	4
+"2024-10-14T12:59:48.823+02:00"	"2024-10-14T12:59:48.823+02:00"	"com.swissquote.Yuh"	"resources.triple.app"	""	1
+"2024-10-14T12:59:19.917+02:00"	"2024-10-19T08:35:54.790+02:00"	"com.swissquote.Yuh"	"yuh.swissquote.ch"	""	4
+"2024-10-14T12:59:19.798+02:00"	"2024-10-19T08:35:54.766+02:00"	"com.swissquote.Yuh"	"swissquote.info"	""	2
+"2024-10-14T12:59:19.979+02:00"	"2024-10-19T08:35:54.839+02:00"	"com.swissquote.Yuh"	"itunes.apple.com"	""	2
+"2024-10-14T12:59:19.906+02:00"	"2024-10-14T12:59:19.906+02:00"	"com.swissquote.Yuh"	"firebaseinstallations.googleapis.com"	""	1
+"2024-10-14T12:59:19.620+02:00"	"2024-10-19T08:35:54.742+02:00"	"com.swissquote.Yuh"	"data.eu.pendo.io"	""	2
+"2024-10-14T12:59:21.380+02:00"	"2024-10-19T08:35:56.441+02:00"	"com.swissquote.Yuh"	"region1.app-analytics-services.com"	""	3
+"2024-10-14T12:59:25.614+02:00"	"2024-10-14T12:59:25.614+02:00"	"com.swissquote.Yuh"	"pendo-eu-static-6033499875246080.storage.googleapis.com"	""	1
+"2024-10-14T12:59:19.914+02:00"	"2024-10-19T08:35:54.795+02:00"	"com.swissquote.Yuh"	"firebaseappcheck.googleapis.com"	""	2
+"2024-10-14T12:59:19.614+02:00"	"2024-10-19T08:35:54.723+02:00"	"com.swissquote.Yuh"	"firebase-settings.crashlytics.com"	"Google LLC"	2
+"2024-10-19T08:35:54.792+02:00"	"2024-10-19T08:35:54.792+02:00"	"com.swissquote.Yuh"	"firebaselogging-pa.googleapis.com"	"Google LLC"	1
+"2024-10-12T00:28:00.896+02:00"	"2024-10-19T02:42:22.067+02:00"	"com.apple.AppStore"	"entitlements.itunes.apple.com"	""	17
+"2024-10-12T03:42:07.868+02:00"	"2024-10-19T06:06:41.494+02:00"	"com.apple.AppStore"	"iosapps.itunes.apple.com"	""	60
+"2024-10-12T14:06:30.816+02:00"	"2024-10-18T22:04:47.039+02:00"	"com.apple.AppStore"	"apps.mzstatic.com"	""	13
+"2024-10-12T14:06:33.859+02:00"	"2024-10-18T22:04:52.448+02:00"	"com.apple.AppStore"	"amp-api.media.apple.com"	""	9
+"2024-10-12T14:06:51.260+02:00"	"2024-10-18T22:05:09.054+02:00"	"com.apple.AppStore"	"amd-infra.itunes.apple.com"	""	11
+"2024-10-13T00:49:40.224+02:00"	"2024-10-13T00:49:40.224+02:00"	"com.apple.AppStore"	"se-edge.itunes.apple.com"	""	1
+"2024-10-13T00:49:27.393+02:00"	"2024-10-15T22:19:02.213+02:00"	"com.apple.AppStore"	"xp.apple.com"	""	3
+"2024-10-13T00:49:21.230+02:00"	"2024-10-15T22:17:56.238+02:00"	"com.apple.AppStore"	"friend.gc.apple.com"	""	2
+"2024-10-13T00:49:20.839+02:00"	"2024-10-15T22:17:56.123+02:00"	"com.apple.AppStore"	"amp-api-edge.apps.apple.com"	""	2
+"2024-10-13T00:49:19.408+02:00"	"2024-10-15T22:17:56.141+02:00"	"com.apple.AppStore"	"ocsp2.apple.com"	""	2
+"2024-10-13T00:49:21.971+02:00"	"2024-10-15T22:17:56.759+02:00"	"com.apple.AppStore"	"profile.gc.apple.com"	""	2
+"2024-10-13T00:49:19.836+02:00"	"2024-10-18T21:35:59.375+02:00"	"com.apple.AppStore"	"pd.itunes.apple.com"	""	4
+"2024-10-13T00:49:21.775+02:00"	"2024-10-15T23:31:11.989+02:00"	"com.apple.AppStore"	"is1-ssl.mzstatic.com"	""	3
+"2024-10-13T00:49:19.362+02:00"	"2024-10-15T22:17:54.875+02:00"	"com.apple.AppStore"	"bag.itunes.apple.com"	""	2
+"2024-10-13T00:49:44.804+02:00"	"2024-10-13T00:49:44.804+02:00"	"com.apple.AppStore"	"amp-api-search-edge.apps.apple.com"	""	1
+"2024-10-13T00:49:25.937+02:00"	"2024-10-15T22:18:01.829+02:00"	"com.apple.AppStore"	"fpinit.itunes.apple.com"	""	2
+"2024-10-13T00:49:20.835+02:00"	"2024-10-15T22:17:56.120+02:00"	"com.apple.AppStore"	"setup.icloud.com"	""	2
+"2024-10-13T00:50:55.170+02:00"	"2024-10-17T06:02:39.153+02:00"	"com.apple.AppStore"	"mzstorekit.itunes.apple.com"	""	4
+"2024-10-15T23:31:11.997+02:00"	"2024-10-15T23:31:11.997+02:00"	"com.apple.AppStore"	"is5-ssl.mzstatic.com"	""	1
+"2024-10-14T14:04:44.907+02:00"	"2024-10-15T16:00:16.037+02:00"	"com.apple.mobilesafari"	"gateway.icloud.com"	""	2
+"2024-10-13T17:50:45.102+02:00"	"2024-10-13T17:50:45.102+02:00"	"com.google.Gmail"	"ci3.googleusercontent.com"	""	1
+"2024-10-13T17:50:45.133+02:00"	"2024-10-14T14:14:33.582+02:00"	"com.google.Gmail"	"mail.google.com"	""	2
+"2024-10-13T17:50:45.149+02:00"	"2024-10-13T17:50:45.149+02:00"	"com.google.Gmail"	"tasks-pa.googleapis.com"	""	1
+"2024-10-13T17:50:49.356+02:00"	"2024-10-13T17:50:49.356+02:00"	"com.google.Gmail"	"accountsettingsmobile-pa.googleapis.com"	""	1
+"2024-10-13T17:50:45.123+02:00"	"2024-10-13T17:50:45.123+02:00"	"com.google.Gmail"	"peoplestack-pa.googleapis.com"	""	1
+"2024-10-13T17:50:44.921+02:00"	"2024-10-13T17:50:44.921+02:00"	"com.google.Gmail"	"oauth2.googleapis.com"	""	1
+"2024-10-13T17:50:45.079+02:00"	"2024-10-14T14:14:33.629+02:00"	"com.google.Gmail"	"play.googleapis.com"	""	2
+"2024-10-13T17:50:45.099+02:00"	"2024-10-13T17:50:45.099+02:00"	"com.google.Gmail"	"cdn.ampproject.org"	""	1
+"2024-10-13T17:50:49.459+02:00"	"2024-10-14T14:14:33.640+02:00"	"com.google.Gmail"	"accounts.google.com"	""	2
+"2024-10-13T17:50:45.155+02:00"	"2024-10-14T14:14:33.616+02:00"	"com.google.Gmail"	"meetings.googleapis.com"	""	2
+"2024-10-13T17:50:53.786+02:00"	"2024-10-14T14:14:36.797+02:00"	"com.google.Gmail"	"fonts.gstatic.com"	""	2
+"2024-10-13T17:50:45.164+02:00"	"2024-10-14T14:14:33.624+02:00"	"com.google.Gmail"	"people-pa.googleapis.com"	""	2
+"2024-10-13T17:50:45.199+02:00"	"2024-10-14T14:14:33.645+02:00"	"com.google.Gmail"	"www.googleapis.com"	""	2
+"2024-10-13T17:50:45.104+02:00"	"2024-10-14T14:14:33.619+02:00"	"com.google.Gmail"	"notifications-pa.googleapis.com"	""	2
+"2024-10-13T17:50:45.147+02:00"	"2024-10-14T14:14:33.584+02:00"	"com.google.Gmail"	"taskassist-pa.googleapis.com"	""	2
+"2024-10-13T17:50:45.097+02:00"	"2024-10-13T17:50:45.097+02:00"	"com.google.Gmail"	"growth-pa.googleapis.com"	""	1
+"2024-10-13T17:50:45.158+02:00"	"2024-10-13T17:50:45.158+02:00"	"com.google.Gmail"	"addons-pa.googleapis.com"	""	1
+"2024-10-13T17:50:44.998+02:00"	"2024-10-14T14:14:33.614+02:00"	"com.google.Gmail"	"inappcheck.itunes.apple.com"	""	2
+"2024-10-13T17:50:45.106+02:00"	"2024-10-14T14:14:33.650+02:00"	"com.google.Gmail"	"lh3.googleusercontent.com"	""	2
+"2024-10-13T17:50:53.760+02:00"	"2024-10-14T14:14:36.792+02:00"	"com.google.Gmail"	"www.gstatic.com"	""	2
+"2024-10-13T17:50:45.152+02:00"	"2024-10-14T14:14:33.617+02:00"	"com.google.Gmail"	"inbox.google.com"	""	2
+"2024-10-13T17:50:44.192+02:00"	"2024-10-14T14:14:33.261+02:00"	"com.google.Gmail"	"oauthaccountmanager.googleapis.com"	""	2
+"2024-10-12T12:25:51.265+02:00"	"2024-10-18T13:40:10.368+02:00"	"com.apple.weather"	"weather-edge.apple.com"	""	7
+"2024-10-12T12:26:01.335+02:00"	"2024-10-19T10:53:08.293+02:00"	"com.apple.weather"	"weatherkit.apple.com"	""	604
+"2024-10-12T14:24:43.341+02:00"	"2024-10-12T14:24:43.341+02:00"	"com.apple.weather"	"weather-map2.apple.com"	""	1
+"2024-10-12T14:24:16.291+02:00"	"2024-10-12T14:24:16.291+02:00"	"com.apple.weather"	"weather-analytics-events.apple.com"	""	1
+"2024-10-12T14:24:42.925+02:00"	"2024-10-12T14:24:42.925+02:00"	"com.apple.weather"	"gsp-ssl.ls.apple.com"	""	1
+"2024-10-12T14:24:44.141+02:00"	"2024-10-12T14:24:44.141+02:00"	"com.apple.weather"	"gspe19-2-ssl.ls.apple.com"	""	1
+"2024-10-12T14:24:19.574+02:00"	"2024-10-19T05:36:53.883+02:00"	"com.apple.weather"	"gateway.icloud.com"	""	7
+"2024-10-12T14:24:44.129+02:00"	"2024-10-12T14:24:44.129+02:00"	"com.apple.weather"	"gspe19-ssl.ls.apple.com"	""	1
+"2024-10-12T23:19:09.558+02:00"	"2024-10-12T23:19:09.558+02:00"	"com.apple.weather"	"s.mzstatic.com"	""	1
+"2024-10-16T10:46:14.844+02:00"	"2024-10-18T16:06:40.873+02:00"	"com.apple.weather"	"bag.itunes.apple.com"	""	2
+"2024-10-16T10:46:15.803+02:00"	"2024-10-16T10:46:15.803+02:00"	"com.apple.weather"	"fpinit.itunes.apple.com"	""	1
+"2024-10-17T09:25:12.016+02:00"	"2024-10-19T00:29:09.388+02:00"	"com.tripodsocial.apps.tandem"	"api1.live.tandem.net"	""	35
+"2024-10-17T15:13:44.058+02:00"	"2024-10-19T00:24:09.888+02:00"	"com.tripodsocial.apps.tandem"	"fonts.googleapis.com"	""	3
+"2024-10-17T15:13:42.118+02:00"	"2024-10-17T15:13:42.118+02:00"	"com.tripodsocial.apps.tandem"	"firebaseinstallations.googleapis.com"	""	1
+"2024-10-17T15:13:42.599+02:00"	"2024-10-18T23:22:31.799+02:00"	"com.tripodsocial.apps.tandem"	"firebaseremoteconfig.googleapis.com"	"Google LLC"	9
+"2024-10-17T15:13:42.086+02:00"	"2024-10-19T00:23:42.639+02:00"	"com.tripodsocial.apps.tandem"	"app.adjust.com"	"AppLovin Corporation"	10
+"2024-10-17T15:13:42.758+02:00"	"2024-10-19T00:29:08.061+02:00"	"com.tripodsocial.apps.tandem"	"msg.live.tandem.net"	""	14
+"2024-10-17T15:13:44.068+02:00"	"2024-10-19T00:29:22.528+02:00"	"com.tripodsocial.apps.tandem"	"rt.applovin.com"	""	17
+"2024-10-17T15:13:42.904+02:00"	"2024-10-19T00:23:43.106+02:00"	"com.tripodsocial.apps.tandem"	"core-userattributes-service.production.tandem.net"	""	11
+"2024-10-17T15:13:41.724+02:00"	"2024-10-19T00:29:05.419+02:00"	"com.tripodsocial.apps.tandem"	"graph.facebook.com"	"Facebook, Inc."	13
+"2024-10-17T15:13:42.604+02:00"	"2024-10-19T00:23:43.125+02:00"	"com.tripodsocial.apps.tandem"	"live-s3-bucket-6bjrdtnk7ph2.cdn.live.tandem.net"	""	5
+"2024-10-17T15:13:42.049+02:00"	"2024-10-19T00:23:42.644+02:00"	"com.tripodsocial.apps.tandem"	"howl.live.tandem.net"	""	12
+"2024-10-17T15:13:48.144+02:00"	"2024-10-19T00:24:10.150+02:00"	"com.tripodsocial.apps.tandem"	"fonts.gstatic.com"	""	3
+"2024-10-17T15:13:56.163+02:00"	"2024-10-19T00:24:02.097+02:00"	"com.tripodsocial.apps.tandem"	"app-measurement.com"	"Google LLC"	10
+"2024-10-17T15:13:44.075+02:00"	"2024-10-18T23:22:33.824+02:00"	"com.tripodsocial.apps.tandem"	"d.applovin.com"	""	7
+"2024-10-17T15:13:42.672+02:00"	"2024-10-18T23:22:32.254+02:00"	"com.tripodsocial.apps.tandem"	"messagecounter.live.tandem.net"	""	7
+"2024-10-17T15:13:41.734+02:00"	"2024-10-19T00:29:05.436+02:00"	"com.tripodsocial.apps.tandem"	"rl.tandem.net"	""	21
+"2024-10-17T15:13:48.464+02:00"	"2024-10-19T00:29:05.417+02:00"	"com.tripodsocial.apps.tandem"	"web.facebook.com"	"Facebook, Inc."	15
+"2024-10-17T15:13:48.109+02:00"	"2024-10-19T00:23:42.597+02:00"	"com.tripodsocial.apps.tandem"	"googleads.g.doubleclick.net"	"Google LLC"	13
+"2024-10-17T15:13:44.051+02:00"	"2024-10-18T23:22:33.583+02:00"	"com.tripodsocial.apps.tandem"	"g.doubleclick.net"	"Google LLC"	5
+"2024-10-17T15:13:43.841+02:00"	"2024-10-19T00:23:42.198+02:00"	"com.tripodsocial.apps.tandem"	"ms.applovin.com"	""	11
+"2024-10-17T15:13:42.596+02:00"	"2024-10-18T15:32:19.805+02:00"	"com.tripodsocial.apps.tandem"	"firebaseinappmessaging.googleapis.com"	""	2
+"2024-10-17T15:13:41.722+02:00"	"2024-10-19T00:29:05.394+02:00"	"com.tripodsocial.apps.tandem"	"api.iterable.com"	"Iterable, Inc."	16
+"2024-10-17T15:13:42.108+02:00"	"2024-10-17T15:13:42.108+02:00"	"com.tripodsocial.apps.tandem"	"device-provisioning.googleapis.com"	""	1
+"2024-10-17T15:13:58.746+02:00"	"2024-10-19T00:29:21.389+02:00"	"com.tripodsocial.apps.tandem"	"region1.app-measurement.com"	"Google LLC"	22
+"2024-10-17T15:13:43.227+02:00"	"2024-10-19T00:23:57.054+02:00"	"com.tripodsocial.apps.tandem"	"live-s3-bucket-sjwburhj9xhf.cdn.live.tandem.net"	""	4
+"2024-10-17T15:14:14.193+02:00"	"2024-10-19T00:29:05.433+02:00"	"com.tripodsocial.apps.tandem"	"firebaselogging-pa.googleapis.com"	"Google LLC"	26
+"2024-10-17T15:13:41.713+02:00"	"2024-10-17T15:13:41.713+02:00"	"com.tripodsocial.apps.tandem"	"firebase-settings.crashlytics.com"	"Google LLC"	1
+"2024-10-17T15:13:41.753+02:00"	"2024-10-19T00:23:42.377+02:00"	"com.tripodsocial.apps.tandem"	"inappcheck.itunes.apple.com"	""	5
+"2024-10-17T15:13:42.876+02:00"	"2024-10-18T23:22:32.508+02:00"	"com.tripodsocial.apps.tandem"	"fundingchoicesmessages.google.com"	""	7
+"2024-10-17T15:13:41.805+02:00"	"2024-10-18T23:22:31.433+02:00"	"com.tripodsocial.apps.tandem"	"amp-api-edge.apps.apple.com"	""	7
+"2024-10-17T15:13:48.291+02:00"	"2024-10-19T00:23:43.226+02:00"	"com.tripodsocial.apps.tandem"	"pagead2.googlesyndication.com"	"Google LLC"	12
+"2024-10-17T15:15:07.299+02:00"	"2024-10-19T00:28:55.478+02:00"	"com.tripodsocial.apps.tandem"	"core-mqtt-service.production.tandem.net"	""	11
+"2024-10-17T23:51:02.231+02:00"	"2024-10-19T00:23:50.947+02:00"	"com.tripodsocial.apps.tandem"	"gsp-ssl.ls.apple.com"	""	3
+"2024-10-17T23:51:02.423+02:00"	"2024-10-19T00:23:51.196+02:00"	"com.tripodsocial.apps.tandem"	"gspe19-ssl.ls.apple.com"	""	3
+"2024-10-17T23:51:02.263+02:00"	"2024-10-18T17:50:44.644+02:00"	"com.tripodsocial.apps.tandem"	"gspe21-ssl.ls.apple.com"	""	2
+"2024-10-17T23:51:02.279+02:00"	"2024-10-19T00:23:50.958+02:00"	"com.tripodsocial.apps.tandem"	"gspe19-2-ssl.ls.apple.com"	""	3
+"2024-10-18T11:06:29.994+02:00"	"2024-10-18T23:22:33.839+02:00"	"com.tripodsocial.apps.tandem"	"core-media-service-production.s3.amazonaws.com"	""	4
+"2024-10-19T00:24:09.890+02:00"	"2024-10-19T00:24:09.890+02:00"	"com.tripodsocial.apps.tandem"	"www.googletagservices.com"	""	1
+"2024-10-19T00:24:09.971+02:00"	"2024-10-19T00:24:09.971+02:00"	"com.tripodsocial.apps.tandem"	"tpc.googlesyndication.com"	""	1
+"2024-10-19T00:24:09.884+02:00"	"2024-10-19T00:24:09.884+02:00"	"com.tripodsocial.apps.tandem"	"www.gstatic.com"	""	1
+"2024-10-18T16:23:11.264+02:00"	"2024-10-18T16:23:11.264+02:00"	"com.grammarly.keyboard"	"auth.grammarly.com"	""	1
+"2024-10-18T16:23:11.253+02:00"	"2024-10-18T16:23:11.253+02:00"	"com.grammarly.keyboard"	"f-log-mobile-ios.grammarly.io"	""	1
+"2024-10-18T16:23:15.276+02:00"	"2024-10-18T16:23:15.276+02:00"	"com.grammarly.keyboard"	"gnar.grammarly.com"	""	1
+"2024-10-12T14:10:35.202+02:00"	"2024-10-18T14:10:39.413+02:00"	"com.apple.shortcuts"	"gateway.icloud.com"	""	11
+"2024-10-12T11:40:40.726+02:00"	"2024-10-15T12:49:16.726+02:00"	"com.apple.mobilenotes"	"metrics.icloud.com"	""	4
+"2024-10-12T20:19:23.375+02:00"	"2024-10-12T20:19:23.375+02:00"	"com.apple.mobilenotes"	"edge-040.defra2.icloud-content.com"	""	1
+"2024-10-12T20:19:21.292+02:00"	"2024-10-16T20:54:19.704+02:00"	"com.apple.mobilenotes"	"gateway.icloud.com"	""	24
+"2024-10-13T01:12:03.232+02:00"	"2024-10-15T23:55:03.920+02:00"	"com.apple.mobilenotes"	"configuration.apple.com"	""	4
+"2024-10-15T12:13:53.365+02:00"	"2024-10-16T14:47:54.250+02:00"	"com.apple.mobilenotes"	"gcs-eu-00002.content-storage-download.googleapis.com"	""	2
+"2024-10-15T12:13:52.912+02:00"	"2024-10-16T14:47:53.674+02:00"	"com.apple.mobilenotes"	"edge-253.defra2.icloud-content.com"	""	2
+"2024-10-15T12:13:44.987+02:00"	"2024-10-16T14:47:45.393+02:00"	"com.apple.mobilenotes"	"setup.icloud.com"	""	2
+"2024-10-12T09:20:42.443+02:00"	"2024-10-19T11:07:39.397+02:00"	"ch.admin.meteoswiss"	"app-prod-ws.meteoswiss-app.ch"	""	533
+"2024-10-13T19:43:07.207+02:00"	"2024-10-18T14:23:21.285+02:00"	"ch.admin.meteoswiss"	"inappcheck.itunes.apple.com"	""	4
+"2024-10-13T19:43:07.918+02:00"	"2024-10-18T16:15:43.190+02:00"	"ch.admin.meteoswiss"	"app-in.meteoswiss-app.ch"	""	7
+"2024-10-13T19:43:08.151+02:00"	"2024-10-18T14:23:30.798+02:00"	"ch.admin.meteoswiss"	"r10.o.lencr.org"	""	4
+"2024-10-13T19:43:07.911+02:00"	"2024-10-18T16:14:02.907+02:00"	"ch.admin.meteoswiss"	"app-prod-static.meteoswiss-app.ch"	""	10
+"2024-10-13T19:43:07.905+02:00"	"2024-10-18T16:14:02.928+02:00"	"ch.admin.meteoswiss"	"app-prod-static-crowd.meteoswiss-app.ch"	""	10
+"2024-10-12T09:23:18.482+02:00"	"2024-10-15T10:27:37.388+02:00"	"com.avira.passwordmanager"	"amp-api-edge.apps.apple.com"	""	2
+"2024-10-12T09:23:25.128+02:00"	"2024-10-15T10:27:36.851+02:00"	"com.avira.passwordmanager"	"api.my.avira.com"	""	2
+"2024-10-12T09:23:22.186+02:00"	"2024-10-15T10:27:37.557+02:00"	"com.avira.passwordmanager"	"firebaselogging-pa.googleapis.com"	"Google LLC"	2
+"2024-10-12T09:23:25.349+02:00"	"2024-10-15T10:29:32.229+02:00"	"com.avira.passwordmanager"	"region1.app-analytics-services.com"	""	3
+"2024-10-12T09:23:25.125+02:00"	"2024-10-15T10:27:37.559+02:00"	"com.avira.passwordmanager"	"api.mixpanel.com"	"Mixpanel, Inc."	2
+"2024-10-12T09:23:25.115+02:00"	"2024-10-15T10:29:30.758+02:00"	"com.avira.passwordmanager"	"ncs-ds.avira.com"	""	3
+"2024-10-12T09:23:08.780+02:00"	"2024-10-15T10:27:36.556+02:00"	"com.avira.passwordmanager"	"inappcheck.itunes.apple.com"	""	2
+"2024-10-12T09:23:25.369+02:00"	"2024-10-15T10:29:30.774+02:00"	"com.avira.passwordmanager"	"d1qxpxz36vqnj6.cloudfront.net"	""	2
+"2024-10-12T09:23:23.610+02:00"	"2024-10-15T10:29:30.749+02:00"	"com.avira.passwordmanager"	"license.passwords.avira.com"	""	3
+"2024-10-12T09:23:25.215+02:00"	"2024-10-15T10:27:41.663+02:00"	"com.avira.passwordmanager"	"app-analytics-services.com"	""	2
+"2024-10-12T09:23:25.255+02:00"	"2024-10-12T09:23:25.255+02:00"	"com.avira.passwordmanager"	"haveibeenpwned.com"	""	1
+"2024-10-12T09:23:25.268+02:00"	"2024-10-12T09:23:25.268+02:00"	"com.avira.passwordmanager"	"api.pwnedpasswords.com"	""	1
+"2024-10-12T09:23:25.366+02:00"	"2024-10-12T09:23:25.366+02:00"	"com.avira.passwordmanager"	"thywae8uqd.execute-api.eu-central-1.amazonaws.com"	""	1
+"2024-10-15T10:27:41.660+02:00"	"2024-10-15T10:27:41.660+02:00"	"com.avira.passwordmanager"	"vvw4btjrqe.execute-api.eu-central-1.amazonaws.com"	""	1
+"2024-10-15T10:27:41.667+02:00"	"2024-10-15T10:27:41.667+02:00"	"com.avira.passwordmanager"	"spoc.avira.com"	""	1
+"2024-10-15T10:27:36.525+02:00"	"2024-10-15T10:27:36.525+02:00"	"com.avira.passwordmanager"	"firebase-settings.crashlytics.com"	"Google LLC"	1
+"2024-10-12T21:29:30.672+02:00"	"2024-10-14T20:01:52.457+02:00"	"com.apple.findmy"	"gspe19-ssl.ls.apple.com"	""	6
+"2024-10-12T21:29:30.663+02:00"	"2024-10-14T20:01:51.702+02:00"	"com.apple.findmy"	"gateway.icloud.com"	""	8
+"2024-10-12T21:29:30.666+02:00"	"2024-10-14T20:01:50.925+02:00"	"com.apple.findmy"	"gspe19-2-ssl.ls.apple.com"	""	7
+"2024-10-12T21:29:30.675+02:00"	"2024-10-14T20:01:50.957+02:00"	"com.apple.findmy"	"gsp-ssl.ls.apple.com"	""	8
+"2024-10-12T21:29:30.689+02:00"	"2024-10-14T15:42:36.712+02:00"	"com.apple.findmy"	"ocsp2.apple.com"	""	2
+"2024-10-12T21:29:30.712+02:00"	"2024-10-14T20:01:51.192+02:00"	"com.apple.findmy"	"p140-fmipmobile.icloud.com"	""	8
+"2024-10-12T21:29:30.611+02:00"	"2024-10-14T20:01:51.157+02:00"	"com.apple.findmy"	"p140-fmfmobile.icloud.com"	""	8
+"2024-10-12T23:49:57.151+02:00"	"2024-10-19T10:47:07.072+02:00"	"co.bird.Ride"	"firebase-settings.crashlytics.com"	"Google LLC"	2
+"2024-10-12T23:49:57.332+02:00"	"2024-10-19T10:47:07.383+02:00"	"co.bird.Ride"	"api-birdplus.prod.birdapp.com"	""	5
+"2024-10-12T23:49:57.300+02:00"	"2024-10-12T23:49:57.300+02:00"	"co.bird.Ride"	"firebaseinstallations.googleapis.com"	""	1
+"2024-10-12T23:49:57.338+02:00"	"2024-10-19T11:02:17.293+02:00"	"co.bird.Ride"	"api-bird.prod.birdapp.com"	""	5
+"2024-10-12T23:49:57.330+02:00"	"2024-10-19T10:47:07.380+02:00"	"co.bird.Ride"	"gsp-ssl.ls.apple.com"	""	5
+"2024-10-12T23:49:57.336+02:00"	"2024-10-19T11:02:17.274+02:00"	"co.bird.Ride"	"api-rider.prod.birdapp.com"	""	5
+"2024-10-12T23:49:57.166+02:00"	"2024-10-19T11:02:17.159+02:00"	"co.bird.Ride"	"graph.facebook.com"	"Facebook, Inc."	6
+"2024-10-12T23:49:58.718+02:00"	"2024-10-19T10:47:07.482+02:00"	"co.bird.Ride"	"ocsp.digicert.com"	""	2
+"2024-10-12T23:49:57.341+02:00"	"2024-10-19T10:47:07.421+02:00"	"co.bird.Ride"	"api-auth.prod.birdapp.com"	""	2
+"2024-10-12T23:50:05.956+02:00"	"2024-10-19T10:47:15.440+02:00"	"co.bird.Ride"	"app-analytics-services.com"	""	2
+"2024-10-12T23:49:57.558+02:00"	"2024-10-12T23:49:57.558+02:00"	"co.bird.Ride"	"static.bird.co"	""	1
+"2024-10-12T23:49:57.297+02:00"	"2024-10-19T11:02:17.255+02:00"	"co.bird.Ride"	"api-analytics.prod.birdapp.com"	""	5
+"2024-10-12T23:49:57.314+02:00"	"2024-10-19T10:47:07.367+02:00"	"co.bird.Ride"	"firebaseappcheck.googleapis.com"	""	2
+"2024-10-12T23:50:10.790+02:00"	"2024-10-19T10:47:19.874+02:00"	"co.bird.Ride"	"region1.app-analytics-services.com"	""	6
+"2024-10-12T23:50:06.236+02:00"	"2024-10-19T10:47:15.445+02:00"	"co.bird.Ride"	"api-bluetoothtrace.prod.birdapp.com"	""	3
+"2024-10-12T23:49:57.311+02:00"	"2024-10-19T11:02:17.254+02:00"	"co.bird.Ride"	"iad-03.braze.com"	"Braze, Inc."	5
+"2024-10-12T23:49:57.327+02:00"	"2024-10-19T10:47:07.377+02:00"	"co.bird.Ride"	"api-localization.prod.birdapp.com"	""	2
+"2024-10-12T23:49:57.306+02:00"	"2024-10-19T10:47:07.375+02:00"	"co.bird.Ride"	"gspe19-2-ssl.ls.apple.com"	""	5
+"2024-10-12T23:49:57.324+02:00"	"2024-10-19T10:47:07.370+02:00"	"co.bird.Ride"	"gspe19-ssl.ls.apple.com"	""	6
+"2024-10-12T23:49:57.334+02:00"	"2024-10-19T11:02:17.289+02:00"	"co.bird.Ride"	"api-itemlease.prod.birdapp.com"	""	6
+"2024-10-12T23:49:57.357+02:00"	"2024-10-12T23:49:57.357+02:00"	"co.bird.Ride"	"s3.amazonaws.com"	""	1
+"2024-10-12T23:49:58.570+02:00"	"2024-10-19T10:47:07.488+02:00"	"co.bird.Ride"	"api.stripe.com"	""	3
+"2024-10-12T23:50:25.797+02:00"	"2024-10-19T11:02:17.108+02:00"	"co.bird.Ride"	"firebaselogging-pa.googleapis.com"	"Google LLC"	2
+"2024-10-12T23:50:37.170+02:00"	"2024-10-12T23:50:37.170+02:00"	"co.bird.Ride"	"q.stripe.com"	""	1
+"2024-10-12T23:50:37.167+02:00"	"2024-10-12T23:50:37.167+02:00"	"co.bird.Ride"	"m.stripe.com"	""	1
+"2024-10-12T23:50:47.433+02:00"	"2024-10-13T00:02:13.623+02:00"	"co.bird.Ride"	"asset-prod-us-west-2.s3.us-west-2.amazonaws.com"	""	2
+"2024-10-13T00:02:13.215+02:00"	"2024-10-13T00:02:13.215+02:00"	"co.bird.Ride"	"api-asset.prod.birdapp.com"	""	1
+"2024-10-13T00:13:54.657+02:00"	"2024-10-13T00:13:54.657+02:00"	"co.bird.Ride"	"merchant-ui-api.stripe.com"	""	1
+"2024-10-12T00:49:39.197+02:00"	"2024-10-18T22:18:57.011+02:00"	"com.apple.mobilephone"	"gateway.icloud.com"	""	27
+"2024-10-12T00:49:39.591+02:00"	"2024-10-12T00:49:39.591+02:00"	"com.apple.mobilephone"	"metrics.icloud.com"	""	1
+"2024-10-17T18:04:32.553+02:00"	"2024-10-17T18:04:32.553+02:00"	"com.apple.mobilephone"	"init.ess.apple.com"	""	1
+"2024-10-15T09:26:14.645+02:00"	"2024-10-15T09:27:22.599+02:00"	"tv.sf.iapp"	"data.kameleoon.io"	""	2
+"2024-10-15T09:26:14.756+02:00"	"2024-10-15T09:26:14.756+02:00"	"tv.sf.iapp"	"mab.chartbeat.com"	""	1
+"2024-10-15T09:26:15.018+02:00"	"2024-10-15T09:27:23.069+02:00"	"tv.sf.iapp"	"end.mpod.ch"	""	2
+"2024-10-15T09:26:10.426+02:00"	"2024-10-15T09:26:10.426+02:00"	"tv.sf.iapp"	"firebaseremoteconfig.googleapis.com"	"Google LLC"	1
+"2024-10-15T09:26:14.774+02:00"	"2024-10-15T09:27:22.916+02:00"	"tv.sf.iapp"	"census-app-x.scorecardresearch.com"	""	2
+"2024-10-15T09:26:14.106+02:00"	"2024-10-15T09:27:22.442+02:00"	"tv.sf.iapp"	"api.datahub-srgssr.ch"	""	2
+"2024-10-15T09:26:10.428+02:00"	"2024-10-15T09:26:10.428+02:00"	"tv.sf.iapp"	"api.usercentrics.eu"	""	1
+"2024-10-15T09:26:10.372+02:00"	"2024-10-15T09:26:10.372+02:00"	"tv.sf.iapp"	"firebase-settings.crashlytics.com"	"Google LLC"	1
+"2024-10-15T09:26:10.442+02:00"	"2024-10-15T09:26:10.442+02:00"	"tv.sf.iapp"	"www.srf.ch"	""	1
+"2024-10-15T09:26:10.403+02:00"	"2024-10-15T09:26:10.403+02:00"	"tv.sf.iapp"	"device-api.asnapieu.com"	""	1
+"2024-10-15T09:26:10.440+02:00"	"2024-10-15T09:26:10.440+02:00"	"tv.sf.iapp"	"aggregator.service.usercentrics.eu"	""	1
+"2024-10-15T09:26:14.221+02:00"	"2024-10-15T09:26:14.221+02:00"	"tv.sf.iapp"	"il.srgssr.ch"	""	1
+"2024-10-15T09:26:10.406+02:00"	"2024-10-15T09:27:22.440+02:00"	"tv.sf.iapp"	"remote-data.asnapieu.com"	""	2
+"2024-10-15T09:26:14.159+02:00"	"2024-10-15T09:26:14.159+02:00"	"tv.sf.iapp"	"jptdpz43r4.kameleoon.eu"	""	1
+"2024-10-15T09:26:14.209+02:00"	"2024-10-15T09:26:14.209+02:00"	"tv.sf.iapp"	"static.chartbeat.com"	""	1
+"2024-10-15T09:26:14.108+02:00"	"2024-10-15T09:27:22.412+02:00"	"tv.sf.iapp"	"srgssr01.wt-eu02.net"	""	2
+"2024-10-15T09:26:14.623+02:00"	"2024-10-15T09:27:22.257+02:00"	"tv.sf.iapp"	"ping.chartbeat.net"	""	2
+"2024-10-15T09:26:10.433+02:00"	"2024-10-15T09:26:10.433+02:00"	"tv.sf.iapp"	"app.usercentrics.eu"	""	1
+"2024-10-15T09:26:10.444+02:00"	"2024-10-15T09:26:10.444+02:00"	"tv.sf.iapp"	"firebaseinstallations.googleapis.com"	""	1
+"2024-10-15T09:26:19.205+02:00"	"2024-10-15T09:26:19.205+02:00"	"tv.sf.iapp"	"app-analytics-services.com"	""	1
+"2024-10-15T09:26:23.181+02:00"	"2024-10-15T09:27:40.869+02:00"	"tv.sf.iapp"	"region1.app-analytics-services.com"	""	2
+"2024-10-15T09:26:24.943+02:00"	"2024-10-15T09:27:41.691+02:00"	"tv.sf.iapp"	"combine.asnapieu.com"	"Urban Airship, Inc."	2
+"2024-10-15T09:27:22.603+02:00"	"2024-10-15T09:27:22.603+02:00"	"tv.sf.iapp"	"firebaselogging-pa.googleapis.com"	"Google LLC"	1
+"2024-10-13T00:14:58.548+02:00"	"2024-10-18T18:53:42.140+02:00"	"com.apple.reminders"	"gateway.icloud.com"	""	78
+"2024-10-13T17:04:20.347+02:00"	"2024-10-16T20:51:30.846+02:00"	"com.apple.reminders"	"metrics.icloud.com"	""	5
+"2024-10-13T17:04:15.614+02:00"	"2024-10-19T06:04:30.153+02:00"	"com.apple.reminders"	"configuration.apple.com"	""	5
+"2024-10-13T17:05:07.507+02:00"	"2024-10-17T13:24:58.195+02:00"	"com.apple.reminders"	"edge-216.nlhfd1.icloud-content.com"	""	2
+"2024-10-14T10:13:50.054+02:00"	"2024-10-16T10:32:35.201+02:00"	"com.apple.reminders"	"gspe19-2-ssl.ls.apple.com"	""	2
+"2024-10-14T10:13:45.664+02:00"	"2024-10-16T10:32:27.362+02:00"	"com.apple.reminders"	"gsp-ssl.ls.apple.com"	""	4
+"2024-10-14T10:14:21.221+02:00"	"2024-10-14T10:14:21.221+02:00"	"com.apple.reminders"	"edge-028.defra2.icloud-content.com"	""	1
+"2024-10-14T10:41:56.475+02:00"	"2024-10-14T15:27:32.742+02:00"	"com.apple.reminders"	"gcs-eu-00002.content-storage-upload.googleapis.com"	""	3
+"2024-10-14T10:44:26.152+02:00"	"2024-10-16T10:01:35.393+02:00"	"com.apple.reminders"	"gcs-eu-00002.content-storage-download.googleapis.com"	""	3
+"2024-10-15T00:47:46.563+02:00"	"2024-10-15T00:47:46.563+02:00"	"com.apple.reminders"	"edge-160.defra2.icloud-content.com"	""	1
+"2024-10-16T09:58:05.150+02:00"	"2024-10-16T09:58:05.150+02:00"	"com.apple.reminders"	"edge-253.defra2.icloud-content.com"	""	1
+"2024-10-11T23:08:14.622+02:00"	"2024-10-19T10:56:16.841+02:00"	"ch.workingbicycle.app"	"ingest.sentry.io"	"Functional Software, Inc."	9
+"2024-10-11T23:08:14.626+02:00"	"2024-10-19T10:56:16.974+02:00"	"ch.workingbicycle.app"	"r11.o.lencr.org"	""	7
+"2024-10-11T23:08:14.570+02:00"	"2024-10-19T10:56:16.884+02:00"	"ch.workingbicycle.app"	"api.workingbicycle.ch"	""	24
+"2024-10-11T23:18:45.138+02:00"	"2024-10-15T21:12:23.556+02:00"	"ch.workingbicycle.app"	"o228883.ingest.sentry.io"	"Functional Software, Inc."	14
+"2024-10-11T23:18:49.034+02:00"	"2024-10-15T21:16:05.439+02:00"	"ch.workingbicycle.app"	"gsp-ssl.ls.apple.com"	""	20
+"2024-10-11T23:18:49.412+02:00"	"2024-10-15T21:16:06.655+02:00"	"ch.workingbicycle.app"	"gspe19-ssl.ls.apple.com"	""	14
+"2024-10-11T23:18:49.465+02:00"	"2024-10-15T21:16:06.562+02:00"	"ch.workingbicycle.app"	"gspe19-2-ssl.ls.apple.com"	""	18
+"2024-10-19T10:56:16.979+02:00"	"2024-10-19T10:56:16.979+02:00"	"ch.workingbicycle.app"	"firebaseinstallations.googleapis.com"	""	1
+"2024-10-19T10:56:16.983+02:00"	"2024-10-19T10:56:16.983+02:00"	"ch.workingbicycle.app"	"device-provisioning.googleapis.com"	""	1
+"2024-10-12T21:28:14.195+02:00"	"2024-10-19T10:36:33.048+02:00"	"com.apple.MobileAddressBook"	"p140-contacts.icloud.com"	""	153
+"2024-10-15T09:21:26.081+02:00"	"2024-10-16T23:23:54.241+02:00"	"com.shallotgames.coffeegolf"	"firebaseremoteconfig.googleapis.com"	"Google LLC"	3
+"2024-10-15T09:21:32.325+02:00"	"2024-10-16T23:24:07.507+02:00"	"com.shallotgames.coffeegolf"	"gw-is.iads.unity3d.com"	""	3
+"2024-10-15T09:21:35.156+02:00"	"2024-10-16T23:24:03.775+02:00"	"com.shallotgames.coffeegolf"	"app-analytics-services.com"	""	3
+"2024-10-15T09:21:26.054+02:00"	"2024-10-16T23:23:54.037+02:00"	"com.shallotgames.coffeegolf"	"inappcheck.itunes.apple.com"	""	3
+"2024-10-15T09:21:57.495+02:00"	"2024-10-16T23:24:28.041+02:00"	"com.shallotgames.coffeegolf"	"sdk-events.inner-active.mobi"	"Digital Turbine"	2
+"2024-10-15T09:21:37.994+02:00"	"2024-10-16T23:25:45.907+02:00"	"com.shallotgames.coffeegolf"	"region1.app-analytics-services.com"	""	6
+"2024-10-15T09:21:26.056+02:00"	"2024-10-15T09:21:26.056+02:00"	"com.shallotgames.coffeegolf"	"firebaseinstallations.googleapis.com"	""	1
+"2024-10-15T09:21:26.668+02:00"	"2024-10-16T23:23:56.314+02:00"	"com.shallotgames.coffeegolf"	"ms.applovin.com"	""	3
+"2024-10-15T09:21:35.417+02:00"	"2024-10-16T23:24:21.045+02:00"	"com.shallotgames.coffeegolf"	"res1.applovin.com"	""	3
+"2024-10-15T09:21:28.141+02:00"	"2024-10-16T10:30:16.830+02:00"	"com.shallotgames.coffeegolf"	"k8s-cronus-cronus0s-d68be495de-a66df3e7fb099f71.elb.eu-central-1.amazonaws.com"	""	2
+"2024-10-15T09:21:28.146+02:00"	"2024-10-16T23:23:58.888+02:00"	"com.shallotgames.coffeegolf"	"cdn2.inner-active.mobi"	""	3
+"2024-10-15T09:21:28.153+02:00"	"2024-10-16T23:23:58.988+02:00"	"com.shallotgames.coffeegolf"	"itunes.apple.com"	""	3
+"2024-10-15T09:21:28.195+02:00"	"2024-10-16T23:23:58.997+02:00"	"com.shallotgames.coffeegolf"	"client-api.itunes.apple.com"	""	3
+"2024-10-15T09:21:28.191+02:00"	"2024-10-16T23:23:59.009+02:00"	"com.shallotgames.coffeegolf"	"o-sdk.mediation.unity3d.com"	""	3
+"2024-10-15T09:21:28.167+02:00"	"2024-10-16T23:23:58.978+02:00"	"com.shallotgames.coffeegolf"	"unityads.unity3d.com"	"Unity Software Inc."	3
+"2024-10-15T09:21:25.902+02:00"	"2024-10-16T23:23:53.973+02:00"	"com.shallotgames.coffeegolf"	"amp-api-edge.apps.apple.com"	""	3
+"2024-10-15T09:21:28.052+02:00"	"2024-10-16T23:23:58.854+02:00"	"com.shallotgames.coffeegolf"	"d.applovin.com"	""	3
+"2024-10-15T09:21:28.171+02:00"	"2024-10-16T23:23:59.015+02:00"	"com.shallotgames.coffeegolf"	"api.bidmachine.io"	""	3
+"2024-10-15T09:21:28.188+02:00"	"2024-10-16T23:23:59.006+02:00"	"com.shallotgames.coffeegolf"	"cdn.iads.unity3d.com"	""	3
+"2024-10-15T09:21:28.156+02:00"	"2024-10-16T23:23:58.991+02:00"	"com.shallotgames.coffeegolf"	"i-sdk.mediation.unity3d.com"	""	3
+"2024-10-15T09:21:25.997+02:00"	"2024-10-16T23:23:54.023+02:00"	"com.shallotgames.coffeegolf"	"skan.singular.net"	""	3
+"2024-10-15T09:21:28.133+02:00"	"2024-10-16T23:24:02.905+02:00"	"com.shallotgames.coffeegolf"	"ads.vungle.com"	"Vungle Inc"	3
+"2024-10-15T09:23:06.369+02:00"	"2024-10-16T23:23:56.553+02:00"	"com.shallotgames.coffeegolf"	"leaderboards.services.api.unity.com"	""	3
+"2024-10-15T09:21:32.245+02:00"	"2024-10-16T23:24:07.223+02:00"	"com.shallotgames.coffeegolf"	"ae.iads.unity3d.com"	""	3
+"2024-10-15T09:21:35.409+02:00"	"2024-10-15T09:21:35.409+02:00"	"com.shallotgames.coffeegolf"	"t.applovin.com"	""	1
+"2024-10-15T09:21:28.680+02:00"	"2024-10-16T23:24:00.432+02:00"	"com.shallotgames.coffeegolf"	"prod-mediate-events.applovin.com"	""	3
+"2024-10-15T09:21:26.066+02:00"	"2024-10-16T23:23:54.184+02:00"	"com.shallotgames.coffeegolf"	"social.services.api.unity.com"	""	3
+"2024-10-15T09:21:26.003+02:00"	"2024-10-16T23:23:53.886+02:00"	"com.shallotgames.coffeegolf"	"player-auth.services.api.unity.com"	""	3
+"2024-10-15T09:21:25.995+02:00"	"2024-10-16T23:23:54.017+02:00"	"com.shallotgames.coffeegolf"	"cloud.unity3d.com"	"Unity Software Inc."	3
+"2024-10-15T09:21:26.922+02:00"	"2024-10-16T23:23:56.823+02:00"	"com.shallotgames.coffeegolf"	"fundingchoicesmessages.google.com"	""	3
+"2024-10-15T09:21:30.693+02:00"	"2024-10-16T23:24:01.998+02:00"	"com.shallotgames.coffeegolf"	"ms4.applovin.com"	"AppLovin Corporation"	3
+"2024-10-15T09:21:25.858+02:00"	"2024-10-16T23:23:53.980+02:00"	"com.shallotgames.coffeegolf"	"graph.facebook.com"	"Facebook, Inc."	3
+"2024-10-15T09:21:28.108+02:00"	"2024-10-16T23:23:59.012+02:00"	"com.shallotgames.coffeegolf"	"ep7.facebook.com"	""	3
+"2024-10-15T09:21:28.086+02:00"	"2024-10-16T23:23:58.916+02:00"	"com.shallotgames.coffeegolf"	"googleads.g.doubleclick.net"	"Google LLC"	3
+"2024-10-15T09:21:26.073+02:00"	"2024-10-16T23:23:54.528+02:00"	"com.shallotgames.coffeegolf"	"cloud-save.services.api.unity.com"	""	3
+"2024-10-15T09:21:28.068+02:00"	"2024-10-16T23:23:58.858+02:00"	"com.shallotgames.coffeegolf"	"rt.applovin.com"	""	3
+"2024-10-15T09:21:39.679+02:00"	"2024-10-16T23:24:21.051+02:00"	"com.shallotgames.coffeegolf"	"img.applovin.com"	""	3
+"2024-10-15T09:21:28.130+02:00"	"2024-10-16T23:23:58.994+02:00"	"com.shallotgames.coffeegolf"	"g.doubleclick.net"	"Google LLC"	3
+"2024-10-15T09:23:27.153+02:00"	"2024-10-16T23:26:18.721+02:00"	"com.shallotgames.coffeegolf"	"wire.unity3d.com"	""	3
+"2024-10-16T10:30:16.772+02:00"	"2024-10-16T23:23:58.952+02:00"	"com.shallotgames.coffeegolf"	"configv2.unityads.unity3d.com"	"Unity Software Inc."	2
+"2024-10-16T10:30:16.285+02:00"	"2024-10-16T23:24:20.840+02:00"	"com.shallotgames.coffeegolf"	"sts.applovin.com"	""	2
+"2024-10-16T10:30:13.295+02:00"	"2024-10-16T23:23:54.012+02:00"	"com.shallotgames.coffeegolf"	"cdp.cloud.unity3d.com"	"Unity Software Inc."	2
+"2024-10-16T10:30:20.254+02:00"	"2024-10-16T23:24:06.022+02:00"	"com.shallotgames.coffeegolf"	"thind.unityads.unity3d.com"	"Unity Software Inc."	2
+"2024-10-16T10:30:13.092+02:00"	"2024-10-16T23:23:53.867+02:00"	"com.shallotgames.coffeegolf"	"config.uca.cloud.unity3d.com"	"Unity Software Inc."	2
+"2024-10-16T23:24:19.984+02:00"	"2024-10-16T23:24:19.984+02:00"	"com.shallotgames.coffeegolf"	"scar.unityads.unity3d.com"	"Unity Software Inc."	1
+"2024-10-12T10:31:44.567+02:00"	"2024-10-18T21:19:01.570+02:00"	"5Q4J53EFRC.com.sbb.ch"	"api.datatrans.com"	""	5
+"2024-10-12T11:24:16.724+02:00"	"2024-10-18T21:28:15.677+02:00"	"5Q4J53EFRC.com.sbb.ch"	"journey-maps-tiles.geocdn.sbb.ch"	""	3
+"2024-10-12T18:50:52.215+02:00"	"2024-10-18T21:27:57.899+02:00"	"5Q4J53EFRC.com.sbb.ch"	"login.swisspass.ch"	""	18
+"2024-10-12T18:50:52.277+02:00"	"2024-10-18T21:29:53.723+02:00"	"5Q4J53EFRC.com.sbb.ch"	"active.vnext.app.sbb.ch"	""	29
+"2024-10-12T20:22:15.847+02:00"	"2024-10-18T17:58:24.470+02:00"	"5Q4J53EFRC.com.sbb.ch"	"firebaselogging-pa.googleapis.com"	"Google LLC"	8
+"2024-10-15T14:30:52.085+02:00"	"2024-10-18T07:18:27.124+02:00"	"5Q4J53EFRC.com.sbb.ch"	"reiseplanung.vnext.sbb.ch"	""	3
+"2024-10-15T14:30:50.666+02:00"	"2024-10-18T07:18:27.203+02:00"	"5Q4J53EFRC.com.sbb.ch"	"spm-novaproxy.app.sbb.ch"	""	2
+"2024-10-15T14:30:50.660+02:00"	"2024-10-18T17:18:11.963+02:00"	"5Q4J53EFRC.com.sbb.ch"	"firebaseinstallations.googleapis.com"	""	2
+"2024-10-15T14:30:50.619+02:00"	"2024-10-18T16:23:04.525+02:00"	"5Q4J53EFRC.com.sbb.ch"	"firebase-settings.crashlytics.com"	"Google LLC"	3
+"2024-10-18T21:28:21.495+02:00"	"2024-10-18T21:28:21.495+02:00"	"5Q4J53EFRC.com.sbb.ch"	"demotiles.maplibre.org"	""	1
+"2024-10-14T21:53:07.696+02:00"	"2024-10-19T09:41:12.527+02:00"	"ch.tutti.iphone"	"cdn.cookielaw.org"	""	6
+"2024-10-14T21:53:06.031+02:00"	"2024-10-17T15:55:13.015+02:00"	"ch.tutti.iphone"	"rules.aatkit.com"	"AddApptr GmbH"	3
+"2024-10-14T21:53:52.931+02:00"	"2024-10-18T10:08:15.597+02:00"	"ch.tutti.iphone"	"crcdn01.adnxs-simple.com"	""	2
+"2024-10-14T21:53:42.530+02:00"	"2024-10-14T21:53:42.530+02:00"	"ch.tutti.iphone"	"rtb-csync.smartadserver.com"	""	1
+"2024-10-14T21:53:36.990+02:00"	"2024-10-18T10:08:15.948+02:00"	"ch.tutti.iphone"	"pagead2.googlesyndication.com"	"Google LLC"	3
+"2024-10-14T21:53:15.912+02:00"	"2024-10-19T09:41:10.945+02:00"	"ch.tutti.iphone"	"app-analytics-services.com"	""	4
+"2024-10-14T21:53:09.452+02:00"	"2024-10-18T15:55:48.463+02:00"	"ch.tutti.iphone"	"rules3.aatkit.com"	"AddApptr GmbH"	2
+"2024-10-14T21:53:39.451+02:00"	"2024-10-14T21:53:39.451+02:00"	"ch.tutti.iphone"	"c.bannerflow.net"	""	1
+"2024-10-14T21:53:09.000+02:00"	"2024-10-18T10:08:12.488+02:00"	"ch.tutti.iphone"	"zuba.prod.tda.link"	""	3
+"2024-10-14T21:53:20.679+02:00"	"2024-10-18T10:09:31.967+02:00"	"ch.tutti.iphone"	"region1.app-analytics-services.com"	""	5
+"2024-10-14T21:53:20.968+02:00"	"2024-10-14T21:53:20.968+02:00"	"ch.tutti.iphone"	"www.google.com"	""	1
+"2024-10-14T21:53:08.599+02:00"	"2024-10-18T15:55:52.453+02:00"	"ch.tutti.iphone"	"sdk-endpoint.prod.tda.link"	""	5
+"2024-10-14T21:53:37.004+02:00"	"2024-10-18T10:08:15.954+02:00"	"ch.tutti.iphone"	"www.googletagservices.com"	""	3
+"2024-10-14T21:53:05.916+02:00"	"2024-10-17T15:55:12.228+02:00"	"ch.tutti.iphone"	"firebase-settings.crashlytics.com"	"Google LLC"	2
+"2024-10-14T21:53:40.184+02:00"	"2024-10-14T21:53:40.184+02:00"	"ch.tutti.iphone"	"live-feed-builder.bannerflow.com"	""	1
+"2024-10-14T21:53:08.796+02:00"	"2024-10-18T10:08:12.419+02:00"	"ch.tutti.iphone"	"r10.o.lencr.org"	""	4
+"2024-10-14T21:53:41.830+02:00"	"2024-10-14T21:53:41.830+02:00"	"ch.tutti.iphone"	"encrypted-tbn3.gstatic.com"	""	1
+"2024-10-14T21:53:06.195+02:00"	"2024-10-19T09:41:02.715+02:00"	"ch.tutti.iphone"	"api.tutti.ch"	""	8
+"2024-10-14T21:53:07.050+02:00"	"2024-10-19T09:41:04.075+02:00"	"ch.tutti.iphone"	"firebaselogging-pa.googleapis.com"	"Google LLC"	5
+"2024-10-14T21:54:05.324+02:00"	"2024-10-18T10:09:31.998+02:00"	"ch.tutti.iphone"	"reporting.aatkit.com"	""	2
+"2024-10-14T21:53:20.952+02:00"	"2024-10-18T10:08:15.589+02:00"	"ch.tutti.iphone"	"acdn.adnxs-simple.com"	""	2
+"2024-10-14T21:53:08.634+02:00"	"2024-10-18T15:55:52.722+02:00"	"ch.tutti.iphone"	"mobile-sdk-config.gservice.emarsys.net"	""	5
+"2024-10-14T21:53:41.848+02:00"	"2024-10-14T21:53:41.848+02:00"	"ch.tutti.iphone"	"encrypted-tbn2.gstatic.com"	""	1
+"2024-10-14T21:53:07.032+02:00"	"2024-10-19T09:41:10.957+02:00"	"ch.tutti.iphone"	"firebaseremoteconfig.googleapis.com"	"Google LLC"	4
+"2024-10-14T21:54:05.139+02:00"	"2024-10-18T10:09:31.996+02:00"	"ch.tutti.iphone"	"tracking.aatkit.com"	"AddApptr GmbH"	2
+"2024-10-14T21:53:06.004+02:00"	"2024-10-19T09:41:02.107+02:00"	"ch.tutti.iphone"	"firebaseremoteconfigrealtime.googleapis.com"	""	7
+"2024-10-14T21:53:08.047+02:00"	"2024-10-18T10:08:12.035+02:00"	"ch.tutti.iphone"	"c.tutti.ch"	""	3
+"2024-10-14T21:53:41.843+02:00"	"2024-10-14T21:53:41.843+02:00"	"ch.tutti.iphone"	"encrypted-tbn0.gstatic.com"	""	1
+"2024-10-14T21:53:06.099+02:00"	"2024-10-19T09:41:01.178+02:00"	"ch.tutti.iphone"	"inappcheck.itunes.apple.com"	""	4
+"2024-10-14T21:53:07.685+02:00"	"2024-10-19T09:41:04.306+02:00"	"ch.tutti.iphone"	"acdn.adnxs.com"	""	6
+"2024-10-14T21:53:07.889+02:00"	"2024-10-14T21:53:07.889+02:00"	"ch.tutti.iphone"	"cdn.tutti.ch"	""	1
+"2024-10-14T21:53:41.853+02:00"	"2024-10-14T21:53:41.853+02:00"	"ch.tutti.iphone"	"afs.googleusercontent.com"	""	1
+"2024-10-14T21:53:07.665+02:00"	"2024-10-19T09:41:04.300+02:00"	"ch.tutti.iphone"	"ib.adnxs-simple.com"	""	6
+"2024-10-14T21:53:37.559+02:00"	"2024-10-17T15:55:23.337+02:00"	"ch.tutti.iphone"	"adx.g.doubleclick.net"	"Google LLC"	2
+"2024-10-14T21:53:53.070+02:00"	"2024-10-18T10:08:15.605+02:00"	"ch.tutti.iphone"	"ams3-ib.adnxs-simple.com"	""	3
+"2024-10-14T21:53:36.109+02:00"	"2024-10-18T10:08:15.573+02:00"	"ch.tutti.iphone"	"pubads.g.doubleclick.net"	"Google LLC"	4
+"2024-10-14T21:53:42.761+02:00"	"2024-10-14T21:53:42.761+02:00"	"ch.tutti.iphone"	"analytics.yahoo.com"	"Verizon Media"	1
+"2024-10-14T21:53:53.041+02:00"	"2024-10-18T10:08:26.736+02:00"	"ch.tutti.iphone"	"ade.googlesyndication.com"	""	2
+"2024-10-14T21:53:09.118+02:00"	"2024-10-18T10:08:12.514+02:00"	"ch.tutti.iphone"	"r11.o.lencr.org"	""	3
+"2024-10-14T21:53:38.237+02:00"	"2024-10-17T15:55:23.429+02:00"	"ch.tutti.iphone"	"dsum-sec.casalemedia.com"	""	2
+"2024-10-14T21:53:37.009+02:00"	"2024-10-18T10:08:18.946+02:00"	"ch.tutti.iphone"	"tpc.googlesyndication.com"	""	3
+"2024-10-14T21:53:21.026+02:00"	"2024-10-18T10:08:15.592+02:00"	"ch.tutti.iphone"	"cdn.adnxs-simple.com"	""	2
+"2024-10-14T21:53:07.036+02:00"	"2024-10-19T09:41:03.903+02:00"	"ch.tutti.iphone"	"googleads.g.doubleclick.net"	"Google LLC"	6
+"2024-10-14T21:53:41.482+02:00"	"2024-10-14T21:53:41.482+02:00"	"ch.tutti.iphone"	"www.adsensecustomsearchads.com"	""	1
+"2024-10-14T21:53:42.414+02:00"	"2024-10-14T21:53:42.414+02:00"	"ch.tutti.iphone"	"us-u.openx.net"	"OpenX Technologies Inc"	1
+"2024-10-14T21:53:09.476+02:00"	"2024-10-19T09:41:02.143+02:00"	"ch.tutti.iphone"	"rules2.aatkit.com"	""	4
+"2024-10-14T21:53:37.800+02:00"	"2024-10-18T10:08:16.011+02:00"	"ch.tutti.iphone"	"s0.2mdn.net"	""	3
+"2024-10-14T21:53:41.833+02:00"	"2024-10-14T21:53:41.833+02:00"	"ch.tutti.iphone"	"encrypted-tbn1.gstatic.com"	""	1
+"2024-10-14T21:53:06.395+02:00"	"2024-10-19T09:41:01.555+02:00"	"ch.tutti.iphone"	"www.googletagmanager.com"	"Google LLC"	4
+"2024-10-14T21:53:37.716+02:00"	"2024-10-19T09:41:04.064+02:00"	"ch.tutti.iphone"	"g.doubleclick.net"	"Google LLC"	4
+"2024-10-14T21:53:07.045+02:00"	"2024-10-19T09:41:04.691+02:00"	"ch.tutti.iphone"	"amp-api-edge.apps.apple.com"	""	6
+"2024-10-14T21:53:26.108+02:00"	"2024-10-17T15:55:22.077+02:00"	"ch.tutti.iphone"	"node1-rtb.gravite.net"	""	2
+"2024-10-14T21:53:42.445+02:00"	"2024-10-14T21:53:42.445+02:00"	"ch.tutti.iphone"	"sync.teads.tv"	""	1
+"2024-10-14T21:53:07.081+02:00"	"2024-10-19T09:41:12.110+02:00"	"ch.tutti.iphone"	"mobile-data.onetrust.io"	""	6
+"2024-10-17T15:55:23.410+02:00"	"2024-10-17T15:55:23.410+02:00"	"ch.tutti.iphone"	"cm.g.doubleclick.net"	"Google LLC"	1
+"2024-10-17T15:55:15.179+02:00"	"2024-10-17T15:55:15.179+02:00"	"ch.tutti.iphone"	"firebaseinstallations.googleapis.com"	""	1
+"2024-10-18T10:08:15.672+02:00"	"2024-10-18T10:08:15.672+02:00"	"ch.tutti.iphone"	"fonts.googleapis.com"	""	1
+"2024-10-18T10:08:19.046+02:00"	"2024-10-18T10:08:19.046+02:00"	"ch.tutti.iphone"	"tps.doubleverify.com"	""	1
+"2024-10-18T10:08:18.993+02:00"	"2024-10-18T10:08:18.993+02:00"	"ch.tutti.iphone"	"s3.eu-central-1.amazonaws.com"	""	1
+"2024-10-18T10:08:15.783+02:00"	"2024-10-18T10:08:15.783+02:00"	"ch.tutti.iphone"	"fonts.gstatic.com"	""	1
+"2024-10-18T10:08:18.988+02:00"	"2024-10-18T10:08:18.988+02:00"	"ch.tutti.iphone"	"static.adsafeprotected.com"	""	1
+"2024-10-18T10:08:17.425+02:00"	"2024-10-18T10:08:17.425+02:00"	"ch.tutti.iphone"	"pixel.adsafeprotected.com"	""	1
+"2024-10-18T10:08:19.078+02:00"	"2024-10-18T10:09:31.898+02:00"	"ch.tutti.iphone"	"tpsc-ew1.doubleverify.com"	""	2
+"2024-10-18T10:08:19.001+02:00"	"2024-10-18T10:08:19.001+02:00"	"ch.tutti.iphone"	"ocsp.godaddy.com"	""	1
+"2024-10-18T10:08:15.997+02:00"	"2024-10-18T10:08:15.997+02:00"	"ch.tutti.iphone"	"cdn.doubleverify.com"	""	1
+"2024-10-18T10:08:15.693+02:00"	"2024-10-18T10:08:15.693+02:00"	"ch.tutti.iphone"	"creatopy-cdn-b1a8267.s3.amazonaws.com"	""	1
+"2024-10-16T10:16:18.559+02:00"	"2024-10-16T10:16:18.559+02:00"	"com.e2ndesign.TPremium2"	"ocsp2.apple.com"	""	1
+"2024-10-16T10:16:32.431+02:00"	"2024-10-16T10:16:32.431+02:00"	"com.e2ndesign.TPremium2"	"region1.app-measurement.com"	"Google LLC"	1
+"2024-10-16T10:16:18.542+02:00"	"2024-10-16T10:16:18.542+02:00"	"com.e2ndesign.TPremium2"	"apns.allaboutapps.net"	""	1
+"2024-10-16T10:16:18.562+02:00"	"2024-10-16T10:16:18.562+02:00"	"com.e2ndesign.TPremium2"	"firebaseappcheck.googleapis.com"	""	1
+"2024-10-16T10:16:32.201+02:00"	"2024-10-16T10:16:32.201+02:00"	"com.e2ndesign.TPremium2"	"app-measurement.com"	"Google LLC"	1
+"2024-10-16T10:16:18.423+02:00"	"2024-10-16T10:16:18.423+02:00"	"com.e2ndesign.TPremium2"	"googleads.g.doubleclick.net"	"Google LLC"	1
+"2024-10-16T10:16:18.538+02:00"	"2024-10-16T10:16:18.538+02:00"	"com.e2ndesign.TPremium2"	"inappcheck.itunes.apple.com"	""	1
+"2024-10-16T10:16:18.381+02:00"	"2024-10-16T10:16:18.381+02:00"	"com.e2ndesign.TPremium2"	"firebase-settings.crashlytics.com"	"Google LLC"	1
+"2024-10-16T10:16:18.707+02:00"	"2024-10-16T10:16:18.707+02:00"	"com.e2ndesign.TPremium2"	"r11.o.lencr.org"	""	1
+"2024-10-16T10:16:47.614+02:00"	"2024-10-16T10:16:47.614+02:00"	"com.e2ndesign.TPremium2"	"firebaselogging-pa.googleapis.com"	"Google LLC"	1
+"2024-10-12T07:38:49.772+02:00"	"2024-10-16T07:45:14.981+02:00"	"app.reeder"	"amp-api-edge.apps.apple.com"	""	11
+"2024-10-12T07:38:50.104+02:00"	"2024-10-16T07:45:15.373+02:00"	"app.reeder"	"mzstorekit.itunes.apple.com"	""	6
+"2024-10-12T07:38:50.771+02:00"	"2024-10-16T07:45:16.349+02:00"	"app.reeder"	"gateway.icloud.com"	""	11
+"2024-10-12T07:38:51.267+02:00"	"2024-10-19T10:44:58.609+02:00"	"app.reeder"	"reddit.com"	""	55
+"2024-10-12T07:38:51.467+02:00"	"2024-10-19T10:44:58.712+02:00"	"app.reeder"	"www.reddit.com"	""	55
+"2024-10-15T10:43:23.048+02:00"	"2024-10-15T10:43:23.048+02:00"	"app.reeder"	"metrics.icloud.com"	""	1
+"2024-10-12T00:28:04.431+02:00"	"2024-10-16T17:22:37.651+02:00"	"com.apple.mobilemail"	"customerhub.vermoegenszentrum.ch"	""	2
+"2024-10-12T10:34:16.585+02:00"	"2024-10-18T18:07:50.720+02:00"	"com.apple.mobilemail"	"r11.o.lencr.org"	""	6
+"2024-10-12T10:32:30.943+02:00"	"2024-10-19T10:46:28.874+02:00"	"com.apple.mobilemail"	"bag.itunes.apple.com"	""	29
+"2024-10-12T10:32:51.133+02:00"	"2024-10-12T10:32:51.133+02:00"	"com.apple.mobilemail"	"profile.gc.apple.com"	""	1
+"2024-10-12T10:34:16.426+02:00"	"2024-10-18T22:01:40.085+02:00"	"com.apple.mobilemail"	"order.info.sbb.ch"	""	8
+"2024-10-12T20:36:52.310+02:00"	"2024-10-19T10:46:28.035+02:00"	"com.apple.mobilemail"	"outlook.office365.com"	""	226
+"2024-10-12T22:41:53.003+02:00"	"2024-10-19T10:46:28.052+02:00"	"com.apple.mobilemail"	"p43-imap.mail.me.com"	""	213
+"2024-10-13T00:15:17.773+02:00"	"2024-10-19T10:46:43.292+02:00"	"com.apple.mobilemail"	"configuration.apple.com"	""	6
+"2024-10-13T00:15:12.382+02:00"	"2024-10-13T00:15:12.382+02:00"	"com.apple.mobilemail"	"ocsp2.apple.com"	""	1
+"2024-10-13T10:03:04.663+02:00"	"2024-10-13T10:03:04.663+02:00"	"com.apple.mobilemail"	"mask-h2.icloud.com"	""	1
+"2024-10-13T10:03:04.087+02:00"	"2024-10-13T10:03:04.087+02:00"	"com.apple.mobilemail"	"u5086036.ct.sendgrid.net"	""	1
+"2024-10-13T17:21:18.558+02:00"	"2024-10-13T17:21:18.558+02:00"	"com.apple.mobilemail"	"fonts.gstatic.com"	""	1
+"2024-10-14T17:09:22.536+02:00"	"2024-10-14T17:09:22.536+02:00"	"com.apple.mobilemail"	"tmxx-static.s3.amazonaws.com"	""	1
+"2024-10-14T17:09:24.877+02:00"	"2024-10-14T17:09:24.877+02:00"	"com.apple.mobilemail"	"trackmaxx.ch"	""	1
+"2024-10-14T17:18:45.367+02:00"	"2024-10-14T17:18:45.367+02:00"	"com.apple.mobilemail"	"p.typekit.net"	""	1
+"2024-10-14T17:18:44.827+02:00"	"2024-10-14T17:18:44.827+02:00"	"com.apple.mobilemail"	"landing.adobe.com"	""	1
+"2024-10-14T17:18:45.362+02:00"	"2024-10-15T01:19:16.235+02:00"	"com.apple.mobilemail"	"postoffice.adobe.com"	""	2
+"2024-10-14T17:18:44.591+02:00"	"2024-10-14T17:18:44.591+02:00"	"com.apple.mobilemail"	"use.typekit.net"	""	1
+"2024-10-15T23:26:18.975+02:00"	"2024-10-15T23:26:18.975+02:00"	"com.apple.mobilemail"	"media.licdn.com"	""	1
+"2024-10-16T08:36:01.522+02:00"	"2024-10-16T08:36:01.522+02:00"	"com.apple.mobilemail"	"mcusercontent.com"	""	1
+"2024-10-17T10:20:25.473+02:00"	"2024-10-19T10:46:28.903+02:00"	"com.apple.mobilemail"	"ocsp.digicert.com"	""	2
+"2024-10-19T00:27:26.714+02:00"	"2024-10-19T00:27:26.714+02:00"	"com.apple.mobilemail"	"s.mzstatic.com"	""	1
+"2024-10-19T10:46:43.320+02:00"	"2024-10-19T10:46:43.320+02:00"	"com.apple.mobilemail"	"static.bird.co"	""	1
+"2024-10-19T08:00:26.206+02:00"	"2024-10-19T08:00:26.206+02:00"	"com.apple.stocks"	"stocks-edge.apple.com"	""	1
+"2024-10-19T08:00:27.806+02:00"	"2024-10-19T08:00:27.806+02:00"	"com.apple.stocks"	"fpinit.itunes.apple.com"	""	1
+"2024-10-19T08:00:27.421+02:00"	"2024-10-19T10:59:25.818+02:00"	"com.apple.stocks"	"stocks-data-service.apple.com"	""	15
+"2024-10-19T08:00:27.773+02:00"	"2024-10-19T08:00:27.773+02:00"	"com.apple.stocks"	"bag.itunes.apple.com"	""	1
+"2024-10-19T08:00:27.810+02:00"	"2024-10-19T08:00:27.810+02:00"	"com.apple.stocks"	"s.mzstatic.com"	""	1
+"2024-10-19T08:29:36.433+02:00"	"2024-10-19T08:29:36.433+02:00"	"org.mozilla.ios.Klar"	"e5.o.lencr.org"	""	1
+"2024-10-19T08:27:48.169+02:00"	"2024-10-19T08:27:48.169+02:00"	"org.mozilla.ios.Klar"	"www.theverge.com"	""	1
+"2024-10-19T08:27:48.174+02:00"	"2024-10-19T08:27:48.174+02:00"	"org.mozilla.ios.Klar"	"www.srf.ch"	""	1
+"2024-10-19T08:27:54.232+02:00"	"2024-10-19T08:27:54.232+02:00"	"org.mozilla.ios.Klar"	"www.google.com"	"Google LLC"	1
+"2024-10-19T08:27:48.172+02:00"	"2024-10-19T08:27:48.172+02:00"	"org.mozilla.ios.Klar"	"www.bbc.com"	""	1
+"2024-10-19T08:36:42.487+02:00"	"2024-10-19T10:44:58.419+02:00"	"org.mozilla.ios.Klar"	"attester.gateway.icloud.com"	""	2
+"2024-10-19T10:44:57.206+02:00"	"2024-10-19T10:44:57.206+02:00"	"org.mozilla.ios.Klar"	"ocsp.globalsign.com"	""	1
+"2024-10-19T09:30:06.356+02:00"	"2024-10-19T09:30:06.356+02:00"	"com.sololearn"	"cdn-settings.appsflyersdk.com"	""	1
+"2024-10-19T09:30:06.316+02:00"	"2024-10-19T09:30:06.316+02:00"	"com.sololearn"	"api.iterable.com"	"Iterable, Inc."	1
+"2024-10-19T09:30:06.584+02:00"	"2024-10-19T09:30:06.584+02:00"	"com.sololearn"	"messenger.sololearn.com"	""	1
+"2024-10-19T09:30:06.233+02:00"	"2024-10-19T09:30:06.233+02:00"	"com.sololearn"	"firebase-settings.crashlytics.com"	"Google LLC"	1
+"2024-10-19T09:30:09.727+02:00"	"2024-10-19T09:30:09.727+02:00"	"com.sololearn"	"inapps.appsflyersdk.com"	""	1
+"2024-10-19T09:30:12.212+02:00"	"2024-10-19T09:30:12.212+02:00"	"com.sololearn"	"fonts.googleapis.com"	""	1
+"2024-10-19T09:30:06.452+02:00"	"2024-10-19T09:30:06.452+02:00"	"com.sololearn"	"launches.appsflyersdk.com"	""	1
+"2024-10-19T09:30:12.173+02:00"	"2024-10-19T09:30:12.173+02:00"	"com.sololearn"	"fundingchoicesmessages.google.com"	""	1
+"2024-10-19T09:30:12.208+02:00"	"2024-10-19T09:30:12.208+02:00"	"com.sololearn"	"g.doubleclick.net"	"Google LLC"	1
+"2024-10-19T09:30:08.720+02:00"	"2024-10-19T09:30:08.720+02:00"	"com.sololearn"	"mzstorekit.itunes.apple.com"	""	1
+"2024-10-19T09:30:07.140+02:00"	"2024-10-19T09:30:07.140+02:00"	"com.sololearn"	"amp-api-edge.apps.apple.com"	""	1
+"2024-10-19T09:30:06.496+02:00"	"2024-10-19T09:30:06.496+02:00"	"com.sololearn"	"firebaseinstallations.googleapis.com"	""	1
+"2024-10-19T09:30:06.586+02:00"	"2024-10-19T09:30:06.586+02:00"	"com.sololearn"	"api3.sololearn.com"	""	1
+"2024-10-19T09:30:06.607+02:00"	"2024-10-19T09:30:06.607+02:00"	"com.sololearn"	"crashlyticsreports-pa.googleapis.com"	"Google LLC"	1
+"2024-10-19T09:30:06.311+02:00"	"2024-10-19T09:30:06.312+02:00"	"com.sololearn"	"api2.sololearn.com"	""	1
+"2024-10-19T09:30:06.983+02:00"	"2024-10-19T09:30:06.983+02:00"	"com.sololearn"	"blob.sololearn.com"	""	1
+"2024-10-19T09:30:35.707+02:00"	"2024-10-19T09:30:35.707+02:00"	"com.sololearn"	"firebaselogging-pa.googleapis.com"	"Google LLC"	1
+"2024-10-12T09:36:28.010+02:00"	"2024-10-19T08:01:53.023+02:00"	"com.spotify.client"	"clients3.google.com"	""	34
+"2024-10-12T09:36:38.614+02:00"	"2024-10-18T10:01:02.967+02:00"	"com.spotify.client"	"audio-ak-spotify-com.akamaized.net"	""	7
+"2024-10-12T09:36:35.358+02:00"	"2024-10-18T22:59:22.270+02:00"	"com.spotify.client"	"census-app-x.scorecardresearch.com"	""	22
+"2024-10-12T09:36:27.768+02:00"	"2024-10-19T09:30:04.762+02:00"	"com.spotify.client"	"apresolve.spotify.com"	""	154
+"2024-10-12T09:36:37.792+02:00"	"2024-10-19T09:02:54.121+02:00"	"com.spotify.client"	"i.scdn.co"	""	53
+"2024-10-12T09:36:30.775+02:00"	"2024-10-19T09:01:28.591+02:00"	"com.spotify.client"	"cdn.branch.io"	""	126
+"2024-10-12T09:36:27.655+02:00"	"2024-10-12T09:36:27.655+02:00"	"com.spotify.client"	"clienttoken.spotify.com"	""	1
+"2024-10-12T09:36:27.792+02:00"	"2024-10-19T09:01:28.244+02:00"	"com.spotify.client"	"api3.branch.io"	""	116
+"2024-10-12T09:36:31.345+02:00"	"2024-10-19T09:30:04.811+02:00"	"com.spotify.client"	"gew4-dealer.spotify.com"	""	155
+"2024-10-12T09:36:45.454+02:00"	"2024-10-19T09:01:52.798+02:00"	"com.spotify.client"	"region1.app-measurement.com"	"Google LLC"	148
+"2024-10-12T09:39:36.213+02:00"	"2024-10-19T08:01:53.045+02:00"	"com.spotify.client"	"firebaselogging-pa.googleapis.com"	"Google LLC"	39
+"2024-10-12T10:08:20.863+02:00"	"2024-10-12T10:25:10.491+02:00"	"com.spotify.client"	"fe80::436:37ce:4fe:812b"	""	2
+"2024-10-12T10:08:23.442+02:00"	"2024-10-19T09:30:29.294+02:00"	"com.spotify.client"	"ff02::fb"	""	444
+"2024-10-12T10:25:10.483+02:00"	"2024-10-12T10:26:14.123+02:00"	"com.spotify.client"	"192.168.0.15"	""	2
+"2024-10-12T10:26:14.133+02:00"	"2024-10-18T23:05:34.328+02:00"	"com.spotify.client"	"224.0.0.251"	""	9
+"2024-10-12T10:26:14.120+02:00"	"2024-10-12T10:26:14.120+02:00"	"com.spotify.client"	"192.168.0.254"	""	1
+"2024-10-12T10:26:14.136+02:00"	"2024-10-18T23:05:34.331+02:00"	"com.spotify.client"	"239.255.255.250"	""	8
+"2024-10-12T11:08:34.640+02:00"	"2024-10-18T05:03:36.529+02:00"	"com.spotify.client"	"image-cdn-ak.spotifycdn.com"	""	50
+"2024-10-12T11:23:34.185+02:00"	"2024-10-16T17:52:42.167+02:00"	"com.spotify.client"	"canvaz.scdn.co"	""	29
+"2024-10-12T11:35:18.198+02:00"	"2024-10-15T15:32:45.086+02:00"	"com.spotify.client"	"ap-gue1.spotify.com"	""	4
+"2024-10-12T18:10:42.544+02:00"	"2024-10-16T17:48:23.947+02:00"	"com.spotify.client"	"pfx.vpixl.com"	""	2
+"2024-10-12T18:10:41.796+02:00"	"2024-10-16T17:48:22.644+02:00"	"com.spotify.client"	"dts.podtrac.com"	""	2
+"2024-10-12T18:10:43.053+02:00"	"2024-10-15T18:58:05.374+02:00"	"com.spotify.client"	"nyt.simplecastaudio.com"	""	4
+"2024-10-12T18:23:46.087+02:00"	"2024-10-19T09:11:42.336+02:00"	"com.spotify.client"	"ap-guc3.spotify.com"	""	8
+"2024-10-12T20:28:27.324+02:00"	"2024-10-19T08:02:07.460+02:00"	"com.spotify.client"	"app-measurement.com"	"Google LLC"	44
+"2024-10-12T20:28:09.709+02:00"	"2024-10-19T09:30:04.746+02:00"	"com.spotify.client"	"spclient.wg.spotify.com"	""	268
+"2024-10-12T20:28:07.612+02:00"	"2024-10-19T09:02:54.865+02:00"	"com.spotify.client"	"login5.spotify.com"	""	78
+"2024-10-12T20:43:36.829+02:00"	"2024-10-19T09:31:01.379+02:00"	"com.spotify.client"	"ap-gew4.spotify.com"	""	135
+"2024-10-12T23:32:36.072+02:00"	"2024-10-19T08:00:35.711+02:00"	"com.spotify.client"	"audio-fa.scdn.co"	""	91
+"2024-10-12T23:32:46.136+02:00"	"2024-10-14T06:50:33.340+02:00"	"com.spotify.client"	"merch-img.scdn.co"	""	3
+"2024-10-12T23:32:28.283+02:00"	"2024-10-19T09:30:04.800+02:00"	"com.spotify.client"	"gew4-spclient.spotify.com"	""	102
+"2024-10-12T23:34:45.227+02:00"	"2024-10-18T17:12:53.772+02:00"	"com.spotify.client"	"heads-fa-tls13.spotifycdn.com"	""	7
+"2024-10-13T10:45:53.583+02:00"	"2024-10-18T23:05:20.587+02:00"	"com.spotify.client"	"fe80::10b3:602b:4065:8787"	""	128
+"2024-10-13T10:45:50.284+02:00"	"2024-10-19T08:01:52.927+02:00"	"com.spotify.client"	"inappcheck.itunes.apple.com"	""	16
+"2024-10-13T10:48:12.548+02:00"	"2024-10-16T00:40:38.734+02:00"	"com.spotify.client"	"pickasso.spotifycdn.com"	""	5
+"2024-10-13T10:48:35.792+02:00"	"2024-10-18T17:29:52.395+02:00"	"com.spotify.client"	"fe80::10f8:71a0:14a5:973a"	""	174
+"2024-10-13T10:55:27.299+02:00"	"2024-10-18T05:17:46.421+02:00"	"com.spotify.client"	"video-fa.scdn.co"	""	95
+"2024-10-13T10:55:28.347+02:00"	"2024-10-17T23:00:45.789+02:00"	"com.spotify.client"	"video-akpcw-cdn-spotify-com.akamaized.net"	""	12
+"2024-10-13T10:57:11.741+02:00"	"2024-10-14T06:25:07.857+02:00"	"com.spotify.client"	"t.scdn.co"	""	2
+"2024-10-13T10:57:11.962+02:00"	"2024-10-13T10:57:11.962+02:00"	"com.spotify.client"	"charts-images.scdn.co"	""	1
+"2024-10-13T11:42:18.437+02:00"	"2024-10-18T22:59:22.250+02:00"	"com.spotify.client"	"dcs-spotify.megaphone.fm"	""	15
+"2024-10-13T11:42:16.592+02:00"	"2024-10-18T22:59:16.352+02:00"	"com.spotify.client"	"www.podtrac.com"	""	16
+"2024-10-13T11:42:17.808+02:00"	"2024-10-18T23:01:50.286+02:00"	"com.spotify.client"	"traffic.megaphone.fm"	""	15
+"2024-10-13T11:42:17.425+02:00"	"2024-10-18T22:59:22.272+02:00"	"com.spotify.client"	"chtbl.com"	""	9
+"2024-10-13T11:42:17.013+02:00"	"2024-10-18T22:59:22.274+02:00"	"com.spotify.client"	"pdst.fm"	""	17
+"2024-10-13T13:08:08.635+02:00"	"2024-10-18T23:05:34.318+02:00"	"com.spotify.client"	"192.168.1.100"	""	16
+"2024-10-13T15:17:49.696+02:00"	"2024-10-19T00:30:31.440+02:00"	"com.spotify.client"	"ap.single-gslb.spotify.com"	""	8
+"2024-10-13T17:28:02.530+02:00"	"2024-10-18T17:08:17.005+02:00"	"com.spotify.client"	"image-cdn-fa.spotifycdn.com"	""	49
+"2024-10-13T17:36:28.393+02:00"	"2024-10-16T00:40:38.726+02:00"	"com.spotify.client"	"thisis-images.spotifycdn.com"	""	3
+"2024-10-14T07:34:42.699+02:00"	"2024-10-17T23:01:01.967+02:00"	"com.spotify.client"	"stitcher2.acast.com"	""	7
+"2024-10-14T07:34:42.262+02:00"	"2024-10-17T23:01:01.416+02:00"	"com.spotify.client"	"flex.acast.com"	""	7
+"2024-10-14T07:34:04.593+02:00"	"2024-10-14T07:34:04.593+02:00"	"com.spotify.client"	"daily-mix.scdn.co"	""	1
+"2024-10-14T07:34:04.590+02:00"	"2024-10-14T07:34:04.590+02:00"	"com.spotify.client"	"daylist.spotifycdn.com"	""	1
+"2024-10-14T12:24:45.820+02:00"	"2024-10-18T17:08:08.188+02:00"	"com.spotify.client"	"fe80::4c7:4cd1:4f25:2587"	""	16
+"2024-10-14T12:24:43.174+02:00"	"2024-10-18T23:01:49.573+02:00"	"com.spotify.client"	"firebase-settings.crashlytics.com"	"Google LLC"	4
+"2024-10-14T12:24:52.308+02:00"	"2024-10-18T12:35:26.381+02:00"	"com.spotify.client"	"chrt.fm"	""	11
+"2024-10-14T12:25:27.948+02:00"	"2024-10-14T12:29:28.928+02:00"	"com.spotify.client"	"podtrac.com"	""	2
+"2024-10-14T12:25:29.066+02:00"	"2024-10-14T12:25:29.066+02:00"	"com.spotify.client"	"ocsp.godaddy.com"	""	1
+"2024-10-14T12:25:28.384+02:00"	"2024-10-14T12:29:29.274+02:00"	"com.spotify.client"	"traffic.omny.fm"	""	2
+"2024-10-14T12:25:28.840+02:00"	"2024-10-14T12:29:29.566+02:00"	"com.spotify.client"	"iheartmedia.mc.tritondigital.com"	""	2
+"2024-10-14T12:25:29.569+02:00"	"2024-10-14T12:29:29.793+02:00"	"com.spotify.client"	"25983.mc.tritondigital.com"	""	2
+"2024-10-14T22:54:33.233+02:00"	"2024-10-14T22:54:33.233+02:00"	"com.spotify.client"	"100.103.171.6"	""	1
+"2024-10-15T00:15:47.094+02:00"	"2024-10-19T08:00:42.395+02:00"	"com.spotify.client"	"34.158.1.133"	""	2
+"2024-10-15T00:56:42.345+02:00"	"2024-10-17T13:42:53.529+02:00"	"com.spotify.client"	"platform-lookaside.fbsbx.com"	""	2
+"2024-10-15T00:57:50.384+02:00"	"2024-10-15T10:08:33.290+02:00"	"com.spotify.client"	"scontent-bru2-1.xx.fbcdn.net"	""	2
+"2024-10-15T01:00:05.277+02:00"	"2024-10-15T12:08:18.856+02:00"	"com.spotify.client"	"ap-gew1.spotify.com"	""	2
+"2024-10-15T08:16:46.105+02:00"	"2024-10-15T08:16:46.105+02:00"	"com.spotify.client"	"udm.scorecardresearch.com"	""	1
+"2024-10-15T08:17:01.769+02:00"	"2024-10-16T17:48:23.240+02:00"	"com.spotify.client"	"verifi.podscribe.com"	""	2
+"2024-10-15T08:17:02.377+02:00"	"2024-10-15T08:17:02.377+02:00"	"com.spotify.client"	"swap.fm"	""	1
+"2024-10-15T08:19:47.477+02:00"	"2024-10-15T08:19:47.477+02:00"	"com.spotify.client"	"misc.spotifycdn.com"	""	1
+"2024-10-15T08:19:47.161+02:00"	"2024-10-16T17:51:58.313+02:00"	"com.spotify.client"	"podz-content.spotifycdn.com"	""	3
+"2024-10-15T11:01:20.749+02:00"	"2024-10-16T17:56:48.618+02:00"	"com.spotify.client"	"192.168.1.101"	""	5
+"2024-10-15T12:44:02.825+02:00"	"2024-10-15T12:44:02.825+02:00"	"com.spotify.client"	"sharing-assets.spotifycdn.com"	""	1
+"2024-10-15T12:44:01.872+02:00"	"2024-10-15T12:44:01.872+02:00"	"com.spotify.client"	"shareables.scdn.co"	""	1
+"2024-10-15T20:28:13.145+02:00"	"2024-10-16T14:51:56.777+02:00"	"com.spotify.client"	"seed-mix-image.spotifycdn.com"	""	2
+"2024-10-15T21:14:18.998+02:00"	"2024-10-16T15:04:23.230+02:00"	"com.spotify.client"	"192.168.1.1"	""	2
+"2024-10-15T21:16:15.784+02:00"	"2024-10-18T17:14:04.315+02:00"	"com.spotify.client"	"dailymix-images.scdn.co"	""	3
+"2024-10-16T00:40:37.500+02:00"	"2024-10-16T00:40:37.500+02:00"	"com.spotify.client"	"ocsp.usertrust.com"	""	1
+"2024-10-16T08:20:34.997+02:00"	"2024-10-16T08:20:34.997+02:00"	"com.spotify.client"	"firebaseinstallations.googleapis.com"	""	1
+"2024-10-16T17:48:24.487+02:00"	"2024-10-16T17:48:24.487+02:00"	"com.spotify.client"	"injector.simplecastaudio.com"	""	1
+"2024-10-17T13:40:34.275+02:00"	"2024-10-17T13:40:34.275+02:00"	"com.spotify.client"	"aet.spotify.com"	""	1
+"2024-10-17T13:40:34.240+02:00"	"2024-10-17T13:40:34.240+02:00"	"com.spotify.client"	"storage.googleapis.com"	""	1
+"2024-10-17T13:40:34.276+02:00"	"2024-10-17T13:40:34.276+02:00"	"com.spotify.client"	"notary.spotify.com"	""	1
+"2024-10-17T14:16:08.023+02:00"	"2024-10-17T14:16:08.023+02:00"	"com.spotify.client"	"10.34.134.121"	""	1
+"2024-10-17T18:38:10.869+02:00"	"2024-10-17T18:38:10.869+02:00"	"com.spotify.client"	"10.31.192.57"	""	1
+"2024-10-17T23:00:11.619+02:00"	"2024-10-17T23:00:11.619+02:00"	"com.spotify.client"	"mosaic.scdn.co"	""	1
+"2024-10-17T23:33:49.538+02:00"	"2024-10-17T23:33:49.538+02:00"	"com.spotify.client"	"fe80::1424:117e:7384:2bee"	""	1
+"2024-10-18T12:35:58.479+02:00"	"2024-10-18T17:08:12.746+02:00"	"com.spotify.client"	"10.34.129.140"	""	2
+"2024-10-18T17:14:04.309+02:00"	"2024-10-18T17:14:04.309+02:00"	"com.spotify.client"	"newjams-images.scdn.co"	""	1
+"2024-10-19T09:30:06.069+02:00"	"2024-10-19T09:30:06.069+02:00"	"com.spotify.client"	"fe80::bd:a5cf:bb88:1623"	""	1

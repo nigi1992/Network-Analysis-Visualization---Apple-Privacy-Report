@@ -66,7 +66,7 @@ data_unnested %>%
   group_by(domain) %>%
   summarise(total_accesses = n()) %>%
   arrange(desc(total_accesses)) %>%
-  print(n=50)
+  print(n=164)
 
 # application responsible for network activity
 data_unnested %>%
@@ -85,9 +85,9 @@ data_unnested %>%
 
 # First Vizualization
 # Plot the number of accesses by domain
-library(ggplot2)
+
 # specified domain accessed during network activity
-data_unnested %>%
+domain_plot <- data_unnested %>%
   group_by(domain) %>%
   summarise(total_accesses = n()) %>%
   arrange(desc(total_accesses)) %>%
@@ -99,11 +99,28 @@ data_unnested %>%
   labs(title = "Number of accesses by domain",
        x = "Domain",
        y = "Number of accesses") +
-  theme_minimal()
-  #print(n=20)
+  theme_bw() 
+ggsave("Output/Number of accesses by domain.png", plot=domain_plot, width = 16, height = 12)
+
+# only the top 20 domains
+domain_plot_limited <- data_unnested %>%
+  group_by(domain) %>%
+  summarise(total_accesses = n()) %>%
+  arrange(desc(total_accesses)) %>%
+  filter(is.na(domain) == FALSE) %>%
+  filter(total_accesses >= 5) %>%
+  head(20) %>%  # Only take top 20
+  ggplot(aes(x = reorder(domain, total_accesses), y = total_accesses)) +
+  geom_bar(stat = "identity") +
+  coord_flip() +
+  labs(title = "Top 20 domains by number of accesses",
+       x = "Domain",
+       y = "Number of accesses") +
+  theme_bw()
+ggsave("Output/Top_20_domains_by_accesses.png", plot = domain_plot_limited, width = 16, height = 12)
 
 # application responsible for network activity
-data_unnested %>%
+bundleID_plot <- data_unnested %>%
   group_by(bundleID) %>%
   summarise(total_accesses = n()) %>%
   arrange(desc(total_accesses)) %>%
@@ -115,8 +132,41 @@ data_unnested %>%
   labs(title = "Number of accesses by application",
        x = "Application",
        y = "Number of accesses") +
-  theme_minimal()
+  theme_bw() 
+ggsave("Output/Number of accesses by app.png", plot=bundleID_plot, width = 16, height = 12)
 
+# only the top 20 domains
+bundleID_plot_limited <- data_unnested %>%
+  group_by(bundleID) %>%
+  summarise(total_accesses = n()) %>%
+  arrange(desc(total_accesses)) %>%
+  filter(is.na(bundleID) == FALSE) %>%
+  filter(total_accesses >= 10) %>%
+  head(20) %>%  # Only take top 20
+  ggplot(aes(x = reorder(bundleID, total_accesses), y = total_accesses)) +
+  geom_bar(stat = "identity") +
+  coord_flip() +
+  labs(title = "Top 20 Apps by number of accesses",
+       x = "App",
+       y = "Number of accesses") +
+  theme_bw()
+ggsave("Output/Top_20_apps_by_accesses.png", plot = bundleID_plot_limited, width = 16, height = 12)
+
+# domain owner
+domainOwner_plot <- data_unnested %>%
+  group_by(domainOwner) %>%
+  summarise(total_accesses = n()) %>%
+  arrange(desc(total_accesses)) %>%
+  filter(!is.na(domainOwner) & domainOwner != "") %>% # filter out NA's and empty strings
+  filter(is.na(domainOwner) == FALSE & total_accesses >= 1) %>% # filter out NA's and domains with less than 5 accesses)
+  ggplot(aes(x = reorder(domainOwner, total_accesses), y = total_accesses)) +
+  geom_bar(stat = "identity") +
+  coord_flip() +
+  labs(title = "Number of accesses by domain owner",
+       x = "Domain Owner",
+       y = "Number of accesses") +
+  theme_bw()
+ggsave("Output/Number of access by dOwner.png", plot=domainOwner_plot, width = 16, height = 12)
 
 
 # Creating new data sets that split into type of event
@@ -132,13 +182,17 @@ data_unnested_type_networkActivity <- data_unnested %>%
 data_unnested_type_networkActivity_small <- data_unnested %>%
   filter(type == "networkActivity") %>%
   select(firstTimeStamp, timeStamp, bundleID, domain, domainOwner, hits) #%>%
-  
-  #filter(is.na(domain) == FALSE) %>%
-  #filter(is.na(timeStamp) == FALSE) %>%# filter out NA's
-  #filter(is.na(bundleID) == FALSE) %>%
-  #filter(is.na(domainOwner) == FALSE) %>%
-  #filter(is.na(hits) == FALSE) %>%
-  #filter(is.na(firstTimeStamp) == FALSE)
+
+# Check the structure of the new data sets
+glimpse(data_unnested_type_networkActivity_small)
+
+# number of unique domains
+length(unique(data_unnested_type_networkActivity_small$domain))
+# number of unique bundleID
+length(unique(data_unnested_type_networkActivity_small$bundleID))
+# number of unique domainOwner
+length(unique(data_unnested_type_networkActivity_small$domainOwner))
+
 
 getwd()
 # Save as a tab-delimited text file
@@ -224,7 +278,7 @@ library(ggplot2)
 library(ggraph)
 
 #increase overlaps
-geom_node_text(aes(label = name), repel = TRUE, size = 2, max.overlaps = 200)
+#geom_node_text(aes(label = name), repel = TRUE, size = 2, max.overlaps = 200)
 
 # Filter out nodes with less than 5 connections
 ggraph(g, layout = "fr") + 
@@ -252,19 +306,185 @@ ggraph(g, layout = "fr") +
 ### Next:
 # Analyze the Network
 # see if you have to change data set some more
-# (ie. manually work on the data set to add domain to a DomainOwner: Facebook, Google, etc.)
+# (ie. manually work on the data set to match domain with a DomainOwner: Facebook, Google, etc.)
 # bei domains nachsehen, wie viel unique values
+# vielleicht bei Domains oder bei bundleID auf Top20, 25 oder 50 reduzieren
 # domains die nur Ip Adressen sind, rausfiltern, anderes unbrauchbares ebenfalls
 # Fabian mundt schreiben
 # besseres GPT Model benutzen
 
+### again with only domains with more than 2 accesses  
+# Count occurrences of each domain and filter
+data_unnested_type_networkActivity_filtered <- data_unnested_type_networkActivity_small %>%
+  group_by(domain) %>%
+  filter(n() >= 2) %>%
+  ungroup()
+
+# Data preparation
+# Select relevant columns
+network_data2 <- data_unnested_type_networkActivity_filtered %>%
+  select(bundleID, domain, hits)
+
+# Create edges between user, bundleID, and domain
+edges_user_app2 <- network_data2 %>%
+  distinct(bundleID) %>%
+  mutate(from = "User", to = bundleID) %>%
+  select(from, to)
+
+edges_app_domain2 <- network_data2 %>%
+  distinct(bundleID, domain) %>%
+  rename(from = bundleID, to = domain)
+
+# Combine all edges
+all_edges2 <- bind_rows(edges_user_app2, edges_app_domain2)
+
+# Ensure column names are consistent
+#colnames(all_edges2) <- c("from", "to")
+
+# Create a graph object
+g2 <- graph_from_data_frame(all_edges2, directed = FALSE)
+
+print(g2)
+
+# Verify edges in the graph
+edge_list2 <- as_data_frame(g2, what = "edges")
+
+# Prepare edge weights
+edge_weights2 <- network_data2 %>%
+  group_by(bundleID, domain) %>%
+  summarise(weight = sum(hits), .groups = "drop")
+
+# Match edge weights to the graph edges
+edge_list2 <- edge_list2 %>%
+  left_join(edge_weights2, by = c("from" = "bundleID", "to" = "domain"))
+
+# Replace missing weights with 1
+edge_list2 <- edge_list2 %>%
+  mutate(weight = ifelse(is.na(weight), 1, weight))
+
+# Assign weights to the graph
+E(g2)$weight <- edge_list2$weight
+
+# Verify the updated graph
+print(E(g2)$weight)
+
+# first try at network visualization
+ggraph(g2, layout = "fr") + 
+  geom_edge_link(aes(width = weight), alpha = 0.2) + 
+  geom_node_point(size = 1) + 
+  geom_node_text(aes(label = name), repel = TRUE, size = 3, max.overlaps = 200) + 
+  theme_void() + 
+  theme(legend.position = "bottom") +
+  labs(title = "Network Activity Visualization (Applications and Domains)")
+
+# Filter out nodes with less than 5 connections
+ggraph(g2, layout = "fr") + 
+  geom_edge_link(aes(width = weight), alpha = 0.2) + 
+  geom_node_point(size = 1) + 
+  geom_node_text(
+    aes(label = ifelse(degree(g2) > 3, name, "")), 
+    repel = TRUE, size = 3
+  ) + 
+  theme_void() + 
+  theme(legend.position = "bottom") +
+  labs(title = "Filtered Network Visualization")
 
 
 
+### again with only top24 apps
+data_unnested_type_networkActivity_top24apps <- data_unnested_type_networkActivity_small %>%
+  group_by(bundleID) %>%
+  filter(n() >= 20) %>%
+  ungroup()
+
+# Count occurrences of each domain and filter
+Top24apps_no_Unique_Domains <- data_unnested_type_networkActivity_top24apps %>%
+  group_by(domain) %>%
+  filter(n() >= 2) %>%
+  ungroup()
+
+write.table(Top20apps_no_Unique_Domains, "Input Data/Top24_df.csv", sep = ",", row.names = FALSE)
+
+# renaming the bundleID values to something more readable
+Top20apps_no_Unique_Domains <- Top20apps_no_Unique_Domains %>%
+  mutate(bundleID = case_when(
+    bundleID == "com.9gag.ios.mobile" ~ "9GAG",
+    bundleID == "com.apple.AppStore" ~ "App Store",
+    
+    TRUE ~ bundleID
+  ))
+
+# Data preparation
+# Select relevant columns
+network_data3 <- Top20apps_no_Unique_Domains %>%
+  select(bundleID, domain, hits)
+
+# Create edges between user, bundleID, and domain
+edges_user_app3 <- network_data3 %>%
+  distinct(bundleID) %>%
+  mutate(from = "User", to = bundleID) %>%
+  select(from, to)
+
+edges_app_domain3 <- network_data3 %>%
+  distinct(bundleID, domain) %>%
+  rename(from = bundleID, to = domain)
+
+# Combine all edges
+all_edges3 <- bind_rows(edges_user_app3, edges_app_domain3)
+
+# Ensure column names are consistent
+#colnames(all_edges2) <- c("from", "to")
+
+# Create a graph object
+g3 <- graph_from_data_frame(all_edges3, directed = FALSE)
+
+print(g3)
+
+# Verify edges in the graph
+edge_list3 <- as_data_frame(g3, what = "edges")
+
+# Prepare edge weights
+edge_weights3 <- network_data3 %>%
+  group_by(bundleID, domain) %>%
+  summarise(weight = sum(hits), .groups = "drop")
+
+# Match edge weights to the graph edges
+edge_list3 <- edge_list3 %>%
+  left_join(edge_weights3, by = c("from" = "bundleID", "to" = "domain"))
+
+# Replace missing weights with 1
+edge_list3 <- edge_list3 %>%
+  mutate(weight = ifelse(is.na(weight), 1, weight))
+
+# Assign weights to the graph
+E(g3)$weight <- edge_list3$weight
+
+# Verify the updated graph
+print(E(g3)$weight)
+
+# first try at network visualization
+ggraph(g3, layout = "fr") + 
+  geom_edge_link(aes(width = weight), alpha = 0.2) + 
+  geom_node_point(size = 1) + 
+  geom_node_text(aes(label = name), repel = TRUE, size = 3, max.overlaps = 200) + 
+  theme_void() + 
+  theme(legend.position = "bottom") +
+  labs(title = "Network Activity Visualization (Applications and Domains)")
+
+# Filter out nodes with less than 5 connections
+ggraph(g3, layout = "fr") + 
+  geom_edge_link(aes(width = weight), alpha = 0.2) + 
+  geom_node_point(size = 1) + 
+  geom_node_text(
+    aes(label = ifelse(degree(g3) > 3, name, "")), 
+    repel = TRUE, size = 3
+  ) + 
+  theme_void() + 
+  theme(legend.position = "bottom") +
+  labs(title = "Filtered Network Visualization")
 
 
-
-
+############################################# Code rest #########################################
 # Add hits as edge weights for the app-domain connections
 edge_weights <- network_data %>%
   group_by(bundleID, domain) %>%

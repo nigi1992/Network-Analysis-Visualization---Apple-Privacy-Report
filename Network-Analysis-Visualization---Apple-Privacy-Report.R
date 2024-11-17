@@ -403,20 +403,41 @@ Top24apps_no_Unique_Domains <- data_unnested_type_networkActivity_top24apps %>%
   filter(n() >= 2) %>%
   ungroup()
 
-write.table(Top20apps_no_Unique_Domains, "Input Data/Top24_df.csv", sep = ",", row.names = FALSE)
+write.table(Top24apps_no_Unique_Domains, "Input Data/Top24_df.csv", sep = ",", row.names = FALSE)
 
 # renaming the bundleID values to something more readable
-Top20apps_no_Unique_Domains <- Top20apps_no_Unique_Domains %>%
+Top24apps_no_Unique_Domains <- Top24apps_no_Unique_Domains %>%
   mutate(bundleID = case_when(
     bundleID == "com.9gag.ios.mobile" ~ "9GAG",
-    bundleID == "com.apple.AppStore" ~ "App Store",
-    
+    bundleID == "ch.migros.m-go" ~ "Migros",
+    bundleID == "ch.tutti.iphone" ~ "Tutti",
+    bundleID == "co.bird.Ride" ~ "Bird",
+    bundleID == "com.adobe.Adobe-Reader" ~ "Adobe Reader",
+    bundleID == "com.apple.mobilemail" ~ "Apple Mail",
+    bundleID == "com.burbn.instagram" ~ "Instagram",
+    bundleID == "com.datacamp" ~ "DataCamp",
+    bundleID == "com.duolingo.DuolingoMobile" ~ "Duolingo",
+    bundleID == "com.google.Gmail" ~ "Gmail",
+    bundleID == "com.google.ios.youtube" ~ "Youtube",
+    bundleID == "com.google.Maps" ~ "Google Maps",
+    bundleID == "com.linkedin.LinkedIn" ~ "LinkedIn",
+    bundleID == "com.shallotgames.coffeegolf" ~ "Coffee Golf",
+    bundleID == "com.spotify.client" ~ "Spotify",
+    bundleID == "com.strava.stravaride" ~ "Strava",
+    bundleID == "com.toyopagroup.picaboo" ~ "Snapchat",
+    bundleID == "com.tripodsocial.apps.tandem" ~ "Tandem",
+    bundleID == "company.thebrowser.ArcMobile2" ~ "Arc Search",
+    bundleID == "de.spiegel.spon" ~ "DER SPIEGEL",
+    bundleID == "net.whatsapp.WhatsApp" ~ "WhatsApp",
+    bundleID == "org.whispersystems.signal" ~ "Signal",
+    bundleID == "swiss.ricardo.iphone" ~ "Ricardo",
+    bundleID == "tv.sf.iapp" ~ "Play SRF",
     TRUE ~ bundleID
   ))
 
 # Data preparation
 # Select relevant columns
-network_data3 <- Top20apps_no_Unique_Domains %>%
+network_data3 <- Top24apps_no_Unique_Domains %>%
   select(bundleID, domain, hits)
 
 # Create edges between user, bundleID, and domain
@@ -431,9 +452,6 @@ edges_app_domain3 <- network_data3 %>%
 
 # Combine all edges
 all_edges3 <- bind_rows(edges_user_app3, edges_app_domain3)
-
-# Ensure column names are consistent
-#colnames(all_edges2) <- c("from", "to")
 
 # Create a graph object
 g3 <- graph_from_data_frame(all_edges3, directed = FALSE)
@@ -483,6 +501,35 @@ ggraph(g3, layout = "fr") +
   theme(legend.position = "bottom") +
   labs(title = "Filtered Network Visualization")
 
+# change coloring in Plot
+# Create a visualization with different node colors
+ggraph(g3, layout = "fr") + 
+  geom_edge_link(aes(width = weight), alpha = 0.2) + 
+  geom_node_point(aes(color = name == "User"), size = 1) +  # Color based on whether node is "User"
+  scale_color_manual(values = c("orange", "red")) +  # False = orange, True = red
+  geom_node_text(aes(label = name), repel = TRUE, size = 3, max.overlaps = 200) + 
+  theme_void() + 
+  theme(legend.position = "none") +  # Remove the legend
+  labs(title = "Network Activity Visualization (Applications and Domains)")
+
+# more advanced coloring
+# Create a color mapping for nodes
+V(g3)$node_color <- ifelse(V(g3)$name == "User", "red",  # User in red
+                           ifelse(V(g3)$name %in% unique(edges_user_app3$to), "orange",  # Apps in orange
+                                  "grey"))  # Domains in grey
+
+# Create the visualization with the custom color mapping
+ggraph(g3, layout = "fr") + 
+  geom_edge_link(aes(width = weight), alpha = 0.2) + 
+  geom_node_point(aes(color = node_color), size = 1) +
+  scale_color_identity() +  # Use the actual colors specified
+  geom_node_text(aes(label = name), repel = TRUE, size = 3, max.overlaps = 200) + 
+  theme_void() + 
+  theme(legend.position = "none") +
+  labs(title = "Network Activity Visualization (Applications and Domains)")
+
+
+# Network with center, middle ring and outer ring
 
 ############################################# Code rest #########################################
 # Add hits as edge weights for the app-domain connections

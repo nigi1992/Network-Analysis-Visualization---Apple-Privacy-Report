@@ -307,13 +307,13 @@ ggraph(g, layout = "fr") +
 # Analyze the Network
 # see if you have to change data set some more
 # (ie. manually work on the data set to match domain with a DomainOwner: Facebook, Google, etc.)
-# bei domains nachsehen, wie viel unique values
+# bei domains nachsehen, wie viele unique values
 # vielleicht bei Domains oder bei bundleID auf Top20, 25 oder 50 reduzieren
 # domains die nur Ip Adressen sind, rausfiltern, anderes unbrauchbares ebenfalls
-# Fabian mundt schreiben
-# besseres GPT Model benutzen
 
-### again with only domains with more than 2 accesses  
+
+### again with only domains with more than 2 occurrences
+
 # Count occurrences of each domain and filter
 data_unnested_type_networkActivity_filtered <- data_unnested_type_networkActivity_small %>%
   group_by(domain) %>%
@@ -529,26 +529,10 @@ ggraph(g3, layout = "fr") +
   labs(title = "Network Activity Visualization (Applications and Domains)")
 
 
-# Network with center, middle ring and outer ring
+# Network graph with center ("User"), middle ring (apps, "bundleID") and outer ring (domains)
+# and maybe even outer outer ring ("domainOwner")
 
 ############################################# Code rest #########################################
-# Add hits as edge weights for the app-domain connections
-edge_weights <- network_data %>%
-  group_by(bundleID, domain) %>%
-  summarise(weight = sum(hits), .groups = "drop")
-
-E(g)$weight <- ifelse(is.na(match(paste(E(g)$from, E(g)$to), 
-                                  paste(edge_weights$bundleID, edge_weights$domain))),
-                      1, edge_weights$weight)
-
-# Plot the network
-ggraph(g, layout = "fr") + # "fr" layout for a force-directed graph
-  geom_edge_link(aes(width = weight), alpha = 0.7) + # Edge thickness based on hits
-  geom_node_point(size = 5) + # Node size
-  geom_node_text(aes(label = name), repel = TRUE, size = 3) + # Node labels
-  theme_void() + 
-  theme(legend.position = "bottom") +
-  labs(title = "Network Activity Visualization (Applications and Domains)")
 
 ### create matrix from website
 matrix_networkActivity <- crossprod(table(data_unnested_type_networkActivity_small[2:3]))
@@ -557,7 +541,6 @@ matrix_df <- as.data.frame(matrix_networkActivity)
 ## useless?
 
 
-#### trying with igraph!!!
 # Create the test_nodes data frame with the name column as vertex names
 test_nodes <- data.frame(name = c("A", "B", "C"), id = 1:3)
 # Create the test_edges data frame
@@ -566,98 +549,4 @@ test_edges <- data.frame(from = c("A", "B"), to = c("B", "C"))
 graph_test <- graph_from_data_frame(d = test_edges, vertices = test_nodes, directed = FALSE)
 # Plot the graph
 plot(graph_test)
-
-# Create nodes with unique vertex names
-nodes <- data_unnested_type_networkActivity_small %>%
-  select(bundleID, domain) %>%
-  distinct() %>%
-  unite(vertex_name, bundleID, domain, sep = "_") %>%
-  mutate(id = row_number()) %>%
-  select(vertex_name, id)
-
-# Create edges with unique vertex names
-edges <- data_unnested_type_networkActivity_small %>%
-  select(bundleID, domain, hits) %>%
-  unite(vertex_name, bundleID, domain, sep = "_") %>%
-  group_by(vertex_name) %>%
-  summarise(weight = sum(hits, na.rm = TRUE)) %>%
-  ungroup()
-
-
-# Ensure all vertex names in edges are present in nodes
-edges <- edges %>%
-  inner_join(nodes, by = "vertex_name")
-
-# Create the graph
-network_graph <- graph_from_data_frame(d = edges, directed = FALSE, vertices = nodes)
-
-# Plot the graph
-plot(network_graph)
-
-
-#create nodes
-nodes <- data_unnested_type_networkActivity_small %>%
-  select(bundleID, domain) %>%
-  distinct() %>%
-  mutate(id = row_number()) %>%
-  select(bundleID, domain, id)
-
-str(nodes)
-
-nodes_unique <- nodes %>%
-  select(bundleID, domain) %>%
-  distinct()
-
-if (nrow(nodes_unique) != nrow(nodes)) {
-  print("Duplicate entries exist in nodes.")
-}
-
-# create edges
-edges <- data_unnested_type_networkActivity_small %>%
-  select(bundleID, domain, hits) %>%
-  group_by(bundleID, domain) %>%
-  summarise(weight = sum(hits, na.rm = TRUE))
-
-str(edges)
-
-# Find `bundleID` values in edges that are not in nodes
-unmatched_bundleID <- setdiff(edges$bundleID, nodes$bundleID)
-print(unmatched_bundleID)
-
-# Find `domain` values in edges that are not in nodes
-unmatched_domain <- setdiff(edges$domain, nodes$domain)
-print(unmatched_domain)
-
-edges <- edges %>%
-  mutate(across(everything(), as.character))
-
-nodes <- nodes %>%
-  mutate(across(everything(), as.character))
-
-# Create a network object
-install.packages("igraph")
-library(igraph)
-network_graph <- graph_from_data_frame(d=edges, directed = FALSE, vertices = nodes)
-
-
-
-nodes <- data_unnested_type_networkActivity_small %>%
-  select(bundleID, domain, domainOwner) %>%
-  pivot_longer(cols = c(bundleID, domain, domainOwner), names_to = "type", values_to = "entity") %>%
-  distinct(entity)
-# create edges
-edges <- data_unnested_type_networkActivity_small %>%
-  select(bundleID, domain, hits) %>%
-  group_by(bundleID, domain) %>%
-  summarise(weight = sum(hits, na.rm = TRUE))
-
-# Create a network object
-install.packages("igraph")
-library(igraph)
-network_graph <- graph_from_data_frame(d=edges, directed = FALSE, vertices = nodes)
-
-
-
-
-
 

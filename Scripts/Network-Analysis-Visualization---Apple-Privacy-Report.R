@@ -519,7 +519,7 @@ V(g3)$node_color <- ifelse(V(g3)$name == "User", "red",  # User in red
                                   "grey"))  # Domains in grey
 
 # Create the visualization with the custom color mapping
-ggraph(g3, layout = "fr") + 
+NAVfirst <- ggraph(g3, layout = "fr") + 
   geom_edge_link(aes(width = weight), alpha = 0.2) + 
   geom_node_point(aes(color = node_color), size = 1) +
   scale_color_identity() +  # Use the actual colors specified
@@ -527,6 +527,7 @@ ggraph(g3, layout = "fr") +
   theme_void() + 
   theme(legend.position = "none") +
   labs(title = "Network Activity Visualization (Applications and Domains)")
+ggsave("Output/Network Activity Visualization (Applications and Domains)-firstTry.png", plot=NAVfirst, width = 16, height = 12)
 
 
 # Network graph with center ("User"), middle ring (apps, "bundleID") and outer ring (domains)

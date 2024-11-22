@@ -345,6 +345,14 @@ Top24apps_no_Unique_Domains %>%
   summarise(n = n()) %>%
   arrange(desc(n))
 
+# Show Domains with more than 2 occurrences
+Top24apps_no_Unique_Domains %>%
+  group_by(domain) %>%
+  filter(n() >= 2) %>%
+  summarise(n = n()) %>%
+  arrange(desc(n)) %>%
+  print(n = 1000)
+
 # Data preparation
 # Select relevant columns
 network_data3 <- Top24apps_no_Unique_Domains %>%

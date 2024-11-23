@@ -109,7 +109,7 @@ layout_concentric2 <- function(g4) {
 
 layout2 <- layout_concentric2(g4)
 
-png("Output/concentric_network_adjusted1.png", width = 1000, height = 1000)
+png("Output/concentric_network_adjusted1.png", width = 1500, height = 1500)
 plot(g4, 
      vertex.color = V(g4)$color, 
      vertex.label = vertex.label.values, 
@@ -160,7 +160,7 @@ layout_concentric2 <- function(g4) {
 layout2 <- layout_concentric2(g4)
 
 # Save the plot to a file
-png("Output/concentric_network_adjusted2.png", width = 1000, height = 1000)
+png("Output/concentric_network_adjusted2.png", width = 1500, height = 1500)
 plot(g4, 
      vertex.color = V(g4)$color, 
      vertex.label = vertex.label.values, 
@@ -204,7 +204,7 @@ layout_concentric2 <- function(g4) {
 
 layout2 <- layout_concentric2(g4)
 
-png("Output/concentric_network_adjusted3.png", width = 1000, height = 1000)
+png("Output/concentric_network_adjusted3.png", width = 1500, height = 1500)
 plot(g4, 
      vertex.color = V(g4)$color, 
      vertex.label = vertex.label.values, 

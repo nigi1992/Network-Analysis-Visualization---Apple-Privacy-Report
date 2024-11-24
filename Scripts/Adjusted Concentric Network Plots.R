@@ -277,9 +277,24 @@ plot(g4,
      vertex.color = V(g4)$color, 
      vertex.label = vertex.label.values, 
      vertex.label.color = "black",
-     #vertex.label.size = vertex.label.size.values,
      vertex.size = vertex.size.values, 
      edge.width = E(g4)$weight / max(E(g4)$weight) * 20,  # Normalize edge width
      layout = layout2, 
      main = "Concentric Network Visualization with Domains with High Weights")
+dev.off()
+
+
+# 6. Plot with less pixels for higher resolution? -------------------------
+
+png("Output/concentric_network_adjusted5.png", width = 1500, height = 1500)
+plot(g4, 
+     vertex.color = V(g4)$color, 
+     vertex.label = vertex.label.values, 
+     vertex.label.color = "black",
+     vertex.label.cex = 1.2,  # Increase the font size for vertex labels
+     vertex.size = vertex.size.values,  # Keep vertex sizes as defined earlier
+     edge.width = E(g4)$weight / max(E(g4)$weight) * 20,  # Normalize edge width
+     layout = layout2, 
+     main = "Concentric Network Visualization with Domains with High Weights",
+     main.cex = 5)
 dev.off()

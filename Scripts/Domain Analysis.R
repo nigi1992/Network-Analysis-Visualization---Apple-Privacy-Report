@@ -23,3 +23,12 @@ Top24apps_no_Unique_Domains %>%
   arrange(desc(hits)) %>%
   print(n = 1000)
   write.csv("Output/DER_SPIEGEL_Domains.csv")
+  
+# Show all Domains used by bundleID "DER SPIEGEL" ranked by hits
+data_unnested_type_networkActivity %>%
+  filter(bundleID == "de.spiegel.spon") %>%
+  group_by(domain) %>%
+  summarise(hits = sum(hits)) %>%
+  arrange(desc(hits)) %>%
+  print(n = 1000) %>%
+  write.csv("Output/DER_SPIEGEL_Domains_complete.csv")
